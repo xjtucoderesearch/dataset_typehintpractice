@@ -1,0 +1,19 @@
+base class,sub class
+numpy/__init__.pyi::generic,numpy/__init__.pyi::bool_
+numpy/__init__.pyi::character,numpy/__init__.pyi::bytes_
+numpy/__init__.pyi::flexible,numpy/__init__.pyi::character
+numpy/__init__.pyi::inexact,numpy/__init__.pyi::complexfloating
+numpy/__init__.pyi::generic,numpy/__init__.pyi::datetime64
+numpy/__init__.pyi::generic,numpy/__init__.pyi::flexible
+numpy/__init__.pyi::inexact,numpy/__init__.pyi::floating
+numpy/__init__.pyi::_ArrayOrScalarCommon,numpy/__init__.pyi::generic
+numpy/__init__.pyi::number,numpy/__init__.pyi::inexact
+numpy/__init__.pyi::number,numpy/__init__.pyi::integer
+numpy/__init__.pyi::_ArrayOrScalarCommon,numpy/__init__.pyi::ndarray
+numpy/__init__.pyi::generic,numpy/__init__.pyi::number
+numpy/__init__.pyi::generic,numpy/__init__.pyi::object_
+numpy/__init__.pyi::integer,numpy/__init__.pyi::signedinteger
+numpy/__init__.pyi::character,numpy/__init__.pyi::str_
+numpy/__init__.pyi::generic,numpy/__init__.pyi::timedelta64
+numpy/__init__.pyi::integer,numpy/__init__.pyi::unsignedinteger
+numpy/__init__.pyi::flexible,numpy/__init__.pyi::void

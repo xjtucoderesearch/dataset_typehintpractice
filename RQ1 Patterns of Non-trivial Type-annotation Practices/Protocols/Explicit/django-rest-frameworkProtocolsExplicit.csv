@@ -1,0 +1,4 @@
+rest_framework-stubs\permissions.pyi::AND
+rest_framework-stubs\permissions.pyi::OR
+rest_framework-stubs\permissions.pyi::BasePermission
+rest_framework-stubs\permissions.pyi::NOT

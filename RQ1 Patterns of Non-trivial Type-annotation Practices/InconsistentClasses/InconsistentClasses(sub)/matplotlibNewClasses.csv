@@ -1,0 +1,5 @@
+matplotlib-stubs/artist.pyi::Patch
+matplotlib-stubs/artist.pyi::Rectangle
+matplotlib-stubs/artist.pyi::LineCollection
+matplotlib-stubs/artist.pyi::Collection
+matplotlib-stubs/artist.pyi::Line2D

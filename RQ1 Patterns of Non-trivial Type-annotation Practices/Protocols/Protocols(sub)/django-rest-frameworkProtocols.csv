@@ -1,0 +1,8 @@
+rest_framework-stubs\permissions.pyi::_SupportsHasPermission
+rest_framework-stubs\fields.pyi::Option
+rest_framework-stubs\views.pyi::AsView
+rest_framework-stubs\validators.pyi::ContextValidator
+rest_framework-stubs\generics.pyi::UsesQuerySet
+rest_framework-stubs\fields.pyi::SupportsToPython
+rest_framework-stubs\views.pyi::GenericView
+rest_framework-stubs\decorators.pyi::ViewSetAction

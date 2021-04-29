@@ -1,0 +1,13 @@
+project,protocol use,protocol implicit impl,protocol explicit impl
+PyQt5,0,0,0
+PyQt6,0,0,0
+django-rest-framework,8,4,4
+django,10,3,0
+grpc,0,0,0
+matplotlib,0,0,0
+mypy,0,0,0
+numpy,27,2,0
+pandas,0,0,0
+pygithub,0,0,0
+pyspark,0,0,0
+returns,1,0,0

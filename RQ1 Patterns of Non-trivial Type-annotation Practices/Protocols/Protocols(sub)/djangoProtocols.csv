@@ -1,0 +1,10 @@
+django-stubs\core\paginator.pyi::_SupportsOrdered
+django-stubs\core\paginator.pyi::_SupportsLen
+django-stubs\contrib\sitemaps\__init__.pyi::_SupportsCount
+django-stubs\conf\global_settings.pyi::Router
+django-stubs\core\paginator.pyi::_SupportsCount
+django-stubs\contrib\sitemaps\__init__.pyi::_SupportsLen
+django-stubs\shortcuts.pyi::SupportsGetAbsoluteUrl
+django-stubs\core\signing.pyi::Serializer
+django-stubs\contrib\auth\password_validation.pyi::PasswordValidator
+django-stubs\contrib\sitemaps\__init__.pyi::_SupportsOrdered

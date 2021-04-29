@@ -1,0 +1,10 @@
+Project,Version,File,LoC,TypeManner,TypeCodeURL,Star
+Django,v3.1.7,2531,280529,stub,https://github.com/typeddjango/django-stubs,56.4k
+DRF1,v3.12.2,240,38825,stub,https://github.com/typeddjango/djangorestframework-stubs,20.6k
+gRPC,v1.36.2,280,32317,inline,https://github.com/grpc/grpc,29.8k
+Matplotlib,v3.3.3,1151,213369,stub,https://github.com/predictive-analytics-lab/data-science-types,13.3k
+Mypy,v0.812,408,100264,inline,https://github.com/python/mypy,10.4k
+Numpy,v1.20.0,896,312134,"stub,inline",https://github.com/numpy/numpy,16.6k
+Pandas,v1.2.3,1350,349932,inline,https://github.com/pandas-dev/pandas/,29.1k
+PySpark,v3.1.1,181,39506,"stub,inline",https://github.com/apache/spark,29.2k
+Returns,v0.15.0,332,19119,"stub,inline",https://github.com/dry-python/returns/,1.6k

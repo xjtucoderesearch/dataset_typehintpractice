@@ -1,0 +1,26 @@
+base class,sub class
+django-stubs/conf/__init__.pyi::_DjangoConfLazyObject,django-stubs/conf/__init__.pyi::LazySettings
+django-stubs/contrib/admin/options.pyi::_OptionalFieldOpts,django-stubs/contrib/admin/options.pyi::_FieldOpts
+django-stubs/contrib/postgres/lookups.pyi::PostgresSimpleLookup,django-stubs/contrib/postgres/lookups.pyi::ContainedBy
+django-stubs/contrib/postgres/lookups.pyi::PostgresSimpleLookup,django-stubs/contrib/postgres/lookups.pyi::DataContains
+django-stubs/contrib/postgres/lookups.pyi::PostgresSimpleLookup,django-stubs/contrib/postgres/lookups.pyi::HasKey
+django-stubs/contrib/postgres/lookups.pyi::PostgresSimpleLookup,django-stubs/contrib/postgres/lookups.pyi::HasKeys
+django-stubs/contrib/postgres/lookups.pyi::PostgresSimpleLookup,django-stubs/contrib/postgres/lookups.pyi::Overlap
+django-stubs/contrib/postgres/lookups.pyi::PostgresSimpleLookup,django-stubs/contrib/postgres/lookups.pyi::TrigramSimilar
+django-stubs/contrib/staticfiles/storage.pyi::CachedFilesMixin,django-stubs/contrib/staticfiles/storage.pyi::CachedStaticFilesStorage
+django-stubs/db/migrations/operations/models.pyi::FieldRelatedOptionOperation,django-stubs/db/migrations/operations/models.pyi::AlterIndexTogether
+django-stubs/db/migrations/operations/models.pyi::FieldRelatedOptionOperation,django-stubs/db/migrations/operations/models.pyi::AlterOrderWithRespectTo
+django-stubs/db/migrations/operations/models.pyi::FieldRelatedOptionOperation,django-stubs/db/migrations/operations/models.pyi::AlterUniqueTogether
+django-stubs/db/models/base.pyi::Model::DoesNotExist,django-stubs/db/models/base.pyi::Model::DoesNotExist
+django-stubs/db/models/base.pyi::Model::MultipleObjectsReturned,django-stubs/db/models/base.pyi::Model::MultipleObjectsReturned
+django-stubs/db/models/lookups.pyi::YearComparisonLookup,django-stubs/db/models/lookups.pyi::YearGt
+django-stubs/db/models/lookups.pyi::YearComparisonLookup,django-stubs/db/models/lookups.pyi::YearGte
+django-stubs/db/models/lookups.pyi::YearComparisonLookup,django-stubs/db/models/lookups.pyi::YearLt
+django-stubs/db/models/lookups.pyi::YearComparisonLookup,django-stubs/db/models/lookups.pyi::YearLte
+django-stubs/db/models/query.pyi::_BaseQuerySet,django-stubs/db/models/query.pyi::QuerySet
+django-stubs/db/models/query.pyi::_BaseQuerySet,django-stubs/db/models/query.pyi::ValuesQuerySet
+django-stubs/utils/timezone.pyi::LocalTimezone,django-stubs/utils/timezone.pyi::LocalTimezone
+django-stubs/utils/timezone.pyi::ReferenceLocalTimezone,django-stubs/utils/timezone.pyi::LocalTimezone
+django-stubs/views/debug.pyi::ExceptionReporterFilter,django-stubs/views/debug.pyi::SafeExceptionReporterFilter
+django-stubs/views/generic/edit.pyi::AbstractFormMixin,django-stubs/views/generic/edit.pyi::FormMixin
+django-stubs/views/generic/edit.pyi::AbstractFormMixin,django-stubs/views/generic/edit.pyi::ModelFormMixin

@@ -1,0 +1,3 @@
+base class,sub class
+matplotlib-stubs/artist.pyi::Collection,matplotlib-stubs/artist.pyi::LineCollection
+matplotlib-stubs/artist.pyi::Patch,matplotlib-stubs/artist.pyi::Rectangle

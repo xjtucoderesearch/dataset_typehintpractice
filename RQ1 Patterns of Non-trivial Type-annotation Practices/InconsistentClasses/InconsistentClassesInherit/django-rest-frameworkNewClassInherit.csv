@@ -1,0 +1,10 @@
+base class,sub class
+rest_framework-stubs/fields.pyi::Option,rest_framework-stubs/fields.pyi::NullBooleanField
+rest_framework-stubs/generics.pyi::UsesQuerySet,rest_framework-stubs/generics.pyi::GenericAPIView
+rest_framework-stubs/pagination.pyi::HtmlContext,rest_framework-stubs/pagination.pyi::HtmlContextWithPageLinks
+rest_framework-stubs/permissions.pyi::_SupportsHasPermission,rest_framework-stubs/permissions.pyi::AND
+rest_framework-stubs/permissions.pyi::_SupportsHasPermission,rest_framework-stubs/permissions.pyi::BasePermission
+rest_framework-stubs/permissions.pyi::_SupportsHasPermission,rest_framework-stubs/permissions.pyi::NOT
+rest_framework-stubs/permissions.pyi::_SupportsHasPermission,rest_framework-stubs/permissions.pyi::OR
+rest_framework-stubs/routers.pyi::Route,rest_framework-stubs/routers.pyi::DefaultRouter
+rest_framework-stubs/routers.pyi::Route,rest_framework-stubs/routers.pyi::SimpleRouter

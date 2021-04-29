@@ -1,0 +1,3 @@
+django-stubs\core\paginator.pyi::Paginator
+django-stubs\core\paginator.pyi::Page
+django-stubs\core\signing.pyi::JSONSerializer

@@ -1,0 +1,4 @@
+rest_framework-stubs\validators.pyi::BaseUniqueForValidator
+rest_framework-stubs\validators.pyi::UniqueTogetherValidator
+rest_framework-stubs\validators.pyi::UniqueValidator
+rest_framework-stubs\validators.pyi::ProhibitSurrogateCharactersValidator

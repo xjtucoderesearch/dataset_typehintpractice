@@ -1,0 +1,13 @@
+django-stubs\contrib\admin\templatetags\admin_static.pyi
+django-stubs\contrib\auth\management\commands\__init__.pyi
+django-stubs\contrib\contenttypes\management\commands\__init__.pyi
+django-stubs\contrib\postgres\fields\mixins.pyi
+django-stubs\contrib\sessions\management\commands\__init__.pyi
+django-stubs\contrib\sessions\management\__init__.pyi
+django-stubs\contrib\sitemaps\management\commands\__init__.pyi
+django-stubs\contrib\sitemaps\management\__init__.pyi
+django-stubs\contrib\staticfiles\management\commands\__init__.pyi
+django-stubs\contrib\staticfiles\management\__init__.pyi
+django-stubs\core\management\commands\__init__.pyi
+django-stubs\db\migrations\topological_sort.pyi
+django-stubs\utils\six.pyi

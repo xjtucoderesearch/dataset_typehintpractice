@@ -1,0 +1,14 @@
+rest_framework-stubs\fields.pyi::SupportsToPython::to_python
+rest_framework-stubs\generics.pyi::UsesQuerySet::get_queryset
+rest_framework-stubs\permissions.pyi::_SupportsHasPermission::has_object_permission
+rest_framework-stubs\permissions.pyi::_SupportsHasPermission::has_permission
+rest_framework-stubs\renderers.pyi::_BaseOpenAPIRenderer::__init__
+rest_framework-stubs\renderers.pyi::_BaseOpenAPIRenderer::render
+rest_framework-stubs\response.pyi::Response::render
+rest_framework-stubs\schemas\generators.pyi::common_path
+rest_framework-stubs\serializers.pyi::ModelSerializer::__init__
+rest_framework-stubs\serializers.pyi::ModelSerializer::save
+rest_framework-stubs\serializers.pyi::ModelSerializer::to_representation
+rest_framework-stubs\templatetags\rest_framework.pyi::urlize_quoted_links
+rest_framework-stubs\validators.pyi::ContextValidator::__call__
+rest_framework-stubs\views.pyi::GenericView::__call__
