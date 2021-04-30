@@ -1,4 +1,4 @@
-This repository illustrate the data used for the study.
+This repository illustrates the data used for the study.
 # Study Setup 
 The **Study Setup** folder contains the study setup data and its intermediate results.
 

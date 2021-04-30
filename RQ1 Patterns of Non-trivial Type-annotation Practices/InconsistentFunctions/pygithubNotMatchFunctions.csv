@@ -1,6 +1,0 @@
-github\Branch.pyi::Branch::edit_team_push_restrictions
-github\Branch.pyi::Branch::edit_user_push_restrictions
-github\MainClass.pyi::Github::get_installation
-github\ProjectCard.pyi::ProjectCard::_repr__
-github\PullRequestReview.pyi::PullRequestReview::url
-github\RateLimit.pyi::RateLimit::rate
