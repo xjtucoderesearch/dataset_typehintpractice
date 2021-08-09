@@ -1,0 +1,12 @@
+chainer\optimizers\ada_delta.py::AdaDeltaHyperparameter
+chainer\optimizers\ada_grad.py::AdaGradHyperparameter
+chainer\optimizers\msvag.py::MSVAGHyperparameter
+chainer\optimizers\adam.py::AdamHyperparameter
+chainer\optimizers\rmsprop_graves.py::RMSpropGravesHyperparameter
+chainer\optimizers\rmsprop.py::RMSpropHyperparameter
+chainer\optimizers\nesterov_ag.py::NesterovAGHyperparameter
+chainer\optimizers\smorms3.py::SMORMS3Hyperparameter
+chainer\optimizers\corrected_momentum_sgd.py::CorrectedMomentumSGDHyperparameter
+chainer\optimizers\momentum_sgd.py::MomentumSGDHyperparameter
+chainer\optimizers\sgd.py::SGDHyperparameter
+chainer\types.py::AbstractInitializer

@@ -1,0 +1,5 @@
+sanic\models\protocol_types.py::TransportProtocol
+sanic\models\protocol_types.py::HTMLProtocol
+sanic\server.py::HttpProtocol
+sanic\models\protocol_types.py::Range
+sanic\websocket.py::WebSocketProtocol

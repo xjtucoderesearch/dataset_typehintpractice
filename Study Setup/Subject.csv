@@ -1,10 +1,26 @@
 Project,Version,File,LoC,TypeManner,TypeCodeURL,Star
 Django,v3.1.7,2531,280529,stub,https://github.com/typeddjango/django-stubs,56.4k
-DRF1,v3.12.2,240,38825,stub,https://github.com/typeddjango/djangorestframework-stubs,20.6k
+DRF,v3.12.2,240,38825,stub,https://github.com/typeddjango/djangorestframework-stubs,20.6k
 gRPC,v1.36.2,280,32317,inline,https://github.com/grpc/grpc,29.8k
 Matplotlib,v3.3.3,1151,213369,stub,https://github.com/predictive-analytics-lab/data-science-types,13.3k
 Mypy,v0.812,408,100264,inline,https://github.com/python/mypy,10.4k
-Numpy,v1.20.0,896,312134,"stub,inline",https://github.com/numpy/numpy,16.6k
+Numpy,v1.20.0,896,312134,stub inline,https://github.com/numpy/numpy,16.6k
 Pandas,v1.2.3,1350,349932,inline,https://github.com/pandas-dev/pandas/,29.1k
-PySpark,v3.1.1,181,39506,"stub,inline",https://github.com/apache/spark,29.2k
-Returns,v0.15.0,332,19119,"stub,inline",https://github.com/dry-python/returns/,1.6k
+PyGithub,v1.54.1,230,26058,stub,https://github.com/PyGithub/PyGithub/,4.2k
+PySpark,v3.1.1,181,39506,stub inline,https://github.com/apache/spark,29.2k
+Returns,v0.15.0,332,19119,stub inline,https://github.com/dry-python/returns/,1.6k
+chainer,522e017a18008ee00e39f4ae4b30f4f9db3824b2,1169,163349,stub&inline,https://github.com/chainer/chainer,5.6k
+elasticsearch,25b50e3d3149b6966b0abe810d083036e79c210a,225,42546,inline&stub,https://github.com/elastic/elasticsearch-py,3.2k
+hydra,a2284ad50b06931f17e222d2d3c646fe704ca2a3,381,28412,inline,https://github.com/facebookresearch/hydra,4.6k
+playwright-python,673eed8f30afcc51f23d584993dd014f86c92b14,133,34378,inline,https://github.com/microsoft/playwright-python,4.9k
+prefect,c423a7734614661170047eb981d2bc27abdd4310,538,87311,inline,https://github.com/PrefectHQ/prefect,6.6.k
+pydantic,a4cb4ee3bc57911a18b13643c44ab14e2ea28d33,221,27769,inline,https://github.com/samuelcolvin/pydantic,6.9k
+pyproj,dd84df30c0ccee371334a8c89f7c14f86b98c49c,51,14699,inline,https://github.com/pyproj4/pyproj,633
+pytest,940c6e233726d36038d6e95cfb37eabc219bb22d,236,63761,inline,https://github.com/pytest-dev/pytest,7.5k
+python-dependency-injector,54de3a9d2c2920b3b96222f1b0b475513a3025fc,293,14008,stub&inline,https://github.com/ets-labs/python-dependency-injector,1.5k
+rasa,a4ee09c41e3f173c3aa9e7df69d3f0f727eeb61d,474,97490,inline,https://github.com/RasaHQ/rasa,11.7k
+sanic,021da3837358c416f4fcb96d79772e80d9071729,141,18943,inline,https://github.com/sanic-org/sanic,15.1k
+scipy,6caa337fdc93159a49d8ad80a0a92d0cded7cb23,787,290055,stub&inline,https://github.com/scipy/scipy,8.4k
+uvicorn,62825d3c1c2897e414b72318a079d0d8657ade34,64,5554,inline,https://github.com/encode/uvicorn,4.1k
+uvloop,4b803b155ed30a30f34c208133a431587272f81e,30,7860,inline,https://github.com/MagicStack/uvloop,7.9k
+werkzeug,08624d7fe6b9f1fa7d8bb74781494695e35b1eb8,134,29209,inline&stub,https://github.com/pallets/werkzeug,5.8k

@@ -1,0 +1,8 @@
+pyproj/database.pyi
+pyproj/list.pyi
+pyproj/_crs.pyi
+pyproj/_datadir.pyi
+pyproj/_geod.pyi
+pyproj/_network.pyi
+pyproj/_sync.pyi
+pyproj/_transformer.pyi

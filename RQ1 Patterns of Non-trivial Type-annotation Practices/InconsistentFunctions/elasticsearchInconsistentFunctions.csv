@@ -1,0 +1,10 @@
+elasticsearch/_async/client/utils.pyi::NamespacedClient::transport
+elasticsearch/_async/client/utils.pyi::NamespacedClient::__init__
+elasticsearch/_async/helpers.pyi::async_scan
+elasticsearch/_async/helpers.pyi::_chunk_actions
+elasticsearch/_async/helpers.pyi::_process_bulk_chunk
+elasticsearch/_async/helpers.pyi::azip
+elasticsearch/_async/helpers.pyi::async_streaming_bulk
+elasticsearch/_async/transport.pyi::AsyncTransport::set_connections
+elasticsearch/_async/transport.pyi::AsyncTransport::add_connection
+elasticsearch/_async/transport.pyi::AsyncTransport::sniff_hosts

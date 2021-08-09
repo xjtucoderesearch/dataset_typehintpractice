@@ -1,0 +1,3 @@
+scipy\spatial\distance.pyi::_MetricCallback2
+scipy\spatial\distance.pyi::_MetricCallback1
+scipy\integrate\_quadrature.py::CacheAttributes

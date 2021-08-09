@@ -1,0 +1,9 @@
+scipy/optimize/__nnls.pyi
+scipy/spatial/ckdtree.pyi
+scipy/spatial/qhull.pyi
+scipy/spatial/transform/rotation.pyi
+scipy/spatial/_voronoi.pyi
+scipy/special/cython_special.pyi
+scipy/special/_test_round.pyi
+scipy/stats/_qmc_cy.pyi
+scipy/stats/_sobol.pyi

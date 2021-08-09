@@ -1,0 +1,6 @@
+file path,file type,any rate
+includes\__init__.py,untyped,0
+_noop.py,typed,0.0
+_testbase.py,untyped,0
+_version.py,untyped,0
+__init__.py,typed,0.0

@@ -1,0 +1,2 @@
+project,functions be overloadded(matched),funcitons_overload_2(matched),funcitons_overload_3(matched),min overload(matched),max overload(matched),max overload function(matched),functions be overloadded(all),funcitons_overload_2(all),funcitons_overload_3(all),min overload(all),max overload(all),max overload function(all)
+werkzeug,18,12,5,2,4,werkzeug\datastructures.pyi::Headers::__getitem__,65,21,43,2,4,werkzeug\datastructures.pyi::Headers::__getitem__

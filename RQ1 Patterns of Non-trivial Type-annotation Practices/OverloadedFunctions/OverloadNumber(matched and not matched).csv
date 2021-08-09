@@ -1,6 +1,4 @@
 project,functions be overloadded(matched),funcitons_overload_2(matched),funcitons_overload_3(matched),min overload(matched),max overload(matched),max overload function(matched),functions be overloadded(all),funcitons_overload_2(all),funcitons_overload_3(all),min overload(all),max overload(all),max overload function(all)
-PyQt5,0,0,0,0,0,,0,0,0,0,0,
-PyQt6,0,0,0,0,0,,0,0,0,0,0,
 django-rest-framework,4,4,0,2,2,rest_framework-stubs\fields.pyi::Field::validators,4,4,0,2,2,rest_framework-stubs\fields.pyi::Field::validators
 django,45,35,9,2,4,django-stubs\utils\encoding.pyi::smart_text,57,39,17,2,4,django-stubs\utils\encoding.pyi::smart_text
 grpc,0,0,0,0,0,,0,0,0,0,0,
@@ -11,3 +9,18 @@ pandas,0,0,0,0,0,,0,0,0,0,0,
 pygithub,2,2,0,2,2,github\MainClass.pyi::Github::get_user,2,2,0,2,2,github\MainClass.pyi::Github::get_user
 pyspark,115,92,14,2,28,pyspark\sql\pandas\functions.pyi::pandas_udf,118,95,14,2,28,pyspark\sql\pandas\functions.pyi::pandas_udf
 returns,0,0,0,0,0,,0,0,0,0,0,
+chainer,0,0,0,0,0,,0,0,0,0,0,
+elasticsearch,0,0,0,0,0,,0,0,0,0,0,
+hydra,0,0,0,0,0,,0,0,0,0,0,
+playwright-python,0,0,0,0,0,,0,0,0,0,0,
+prefect,0,0,0,0,0,,0,0,0,0,0,
+pydantic,0,0,0,0,0,,0,0,0,0,0,
+pyproj,0,0,0,0,0,,0,0,0,0,0,
+pytest,0,0,0,0,0,,0,0,0,0,0,
+python-dependency-injector,0,0,0,0,0,,0,0,0,0,0,
+rasa,0,0,0,0,0,,0,0,0,0,0,
+sanic,0,0,0,0,0,,0,0,0,0,0,
+scipy,18,2,16,2,3,scipy\special\orthogonal.pyi::orthopoly1d::__call__,18,2,16,2,3,scipy\special\orthogonal.pyi::orthopoly1d::__call__
+uvicorn,0,0,0,0,0,,0,0,0,0,0,
+uvloop,0,0,0,0,0,,0,0,0,0,0,
+werkzeug,18,12,5,2,4,werkzeug\datastructures.pyi::Headers::__getitem__,65,21,43,2,4,werkzeug\datastructures.pyi::Headers::__getitem__

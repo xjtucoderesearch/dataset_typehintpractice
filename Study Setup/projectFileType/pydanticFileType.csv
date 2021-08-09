@@ -1,0 +1,26 @@
+file path,file type,any rate
+annotated_types.py,typed,0.15384615384615385
+class_validators.py,typed,0.0
+color.py,typed,0.04
+dataclasses.py,typed,0.11392405063291139
+datetime_parse.py,typed,0.0
+decorator.py,typed,0.22727272727272727
+env_settings.py,typed,0.023255813953488372
+errors.py,typed,0.02127659574468085
+error_wrappers.py,typed,0.0
+fields.py,typed,0.18791946308724833
+generics.py,typed,0.12
+json.py,typed,0.3333333333333333
+main.py,typed,0.10857142857142857
+mypy.py,typed,0.00847457627118644
+networks.py,typed,0.03529411764705882
+parse.py,typed,0.14285714285714285
+schema.py,typed,0.05263157894736842
+tools.py,typed,0.14814814814814814
+types.py,typed,0.0392156862745098
+typing.py,typed,0.2753623188405797
+utils.py,typed,0.2018348623853211
+validators.py,typed,0.3014705882352941
+version.py,typed,0.0
+_hypothesis_plugin.py,typed,0.0
+__init__.py,untyped,0

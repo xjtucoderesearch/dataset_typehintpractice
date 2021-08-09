@@ -1,0 +1,9 @@
+file path,file type,any rate
+errors.py,untyped,0
+ext\aiohttp.py,typed,0.0
+ext\flask.py,typed,0.0
+ext\__init__.py,untyped,0
+resources.py,typed,0.0
+schema.py,typed,0.0
+wiring.py,typed,0.04
+__init__.py,untyped,0

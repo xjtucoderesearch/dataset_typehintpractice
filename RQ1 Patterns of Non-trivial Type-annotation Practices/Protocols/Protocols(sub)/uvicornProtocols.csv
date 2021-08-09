@@ -1,0 +1,4 @@
+uvicorn\protocols\http\httptools_impl.py::HttpToolsProtocol
+uvicorn\protocols\http\h11_impl.py::H11Protocol
+uvicorn\protocols\websockets\websockets_impl.py::WebSocketProtocol
+uvicorn\protocols\websockets\wsproto_impl.py::WSProtocol

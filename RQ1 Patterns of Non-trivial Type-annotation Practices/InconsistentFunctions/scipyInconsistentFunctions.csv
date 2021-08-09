@@ -1,0 +1,4 @@
+scipy/spatial/distance.pyi::_MetricCallback2::__call__
+scipy/spatial/distance.pyi::_MetricCallback1::__call__
+scipy/special/orthogonal.pyi::orthopoly1d::limits
+scipy/special/orthogonal.pyi::orthopoly1d::weight_func
