@@ -1,0 +1,497 @@
+{
+    "@schemaVersion": 1.0,
+    "name": "sanic-deps-from-type",
+    "variables": [
+        "sanic/__init__.py",
+        "sanic/__main__.py",
+        "sanic/__version__.py",
+        "sanic/app.py",
+        "sanic/asgi.py",
+        "sanic/base.py",
+        "sanic/blueprint_group.py",
+        "sanic/blueprints.py",
+        "sanic/compat.py",
+        "sanic/config.py",
+        "sanic/constants.py",
+        "sanic/cookies.py",
+        "sanic/errorpages.py",
+        "sanic/exceptions.py",
+        "sanic/handlers.py",
+        "sanic/headers.py",
+        "sanic/helpers.py",
+        "sanic/http.py",
+        "sanic/log.py",
+        "sanic/mixins/__init__.py",
+        "sanic/mixins/exceptions.py",
+        "sanic/mixins/listeners.py",
+        "sanic/mixins/middleware.py",
+        "sanic/mixins/routes.py",
+        "sanic/mixins/signals.py",
+        "sanic/models/__init__.py",
+        "sanic/models/asgi.py",
+        "sanic/models/futures.py",
+        "sanic/models/handler_types.py",
+        "sanic/models/protocol_types.py",
+        "sanic/reloader_helpers.py",
+        "sanic/request.py",
+        "sanic/response.py",
+        "sanic/router.py",
+        "sanic/server.py",
+        "sanic/signals.py",
+        "sanic/simple.py",
+        "sanic/utils.py",
+        "sanic/views.py",
+        "sanic/websocket.py",
+        "sanic/worker.py"
+    ],
+    "cells": [
+        {
+            "src": 3,
+            "dest": 9,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 33,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 35,
+            "values": {
+                "type-use": 3.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 14,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 31,
+            "values": {
+                "type-use": 20.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 21,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 32,
+            "values": {
+                "type-use": 49.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 27,
+            "values": {
+                "type-use": 12.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 7,
+            "values": {
+                "type-use": 7.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 6,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 34,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 4,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 4,
+            "dest": 3,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 4,
+            "dest": 26,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 4,
+            "dest": 8,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 4,
+            "dest": 39,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 4,
+            "dest": 29,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 4,
+            "dest": 31,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 4,
+            "dest": 34,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 7,
+            "dest": 6,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 7,
+            "dest": 27,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 7,
+            "dest": 31,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 7,
+            "dest": 32,
+            "values": {
+                "type-use": 6.0
+            }
+        },
+        {
+            "src": 6,
+            "dest": 7,
+            "values": {
+                "type-use": 5.0
+            }
+        },
+        {
+            "src": 12,
+            "dest": 32,
+            "values": {
+                "type-use": 11.0
+            }
+        },
+        {
+            "src": 12,
+            "dest": 31,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 17,
+            "dest": 34,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 17,
+            "dest": 13,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 17,
+            "dest": 8,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 17,
+            "dest": 31,
+            "values": {
+                "type-use": 3.0
+            }
+        },
+        {
+            "src": 17,
+            "dest": 32,
+            "values": {
+                "type-use": 6.0
+            }
+        },
+        {
+            "src": 20,
+            "dest": 31,
+            "values": {
+                "type-use": 3.0
+            }
+        },
+        {
+            "src": 20,
+            "dest": 27,
+            "values": {
+                "type-use": 3.0
+            }
+        },
+        {
+            "src": 21,
+            "dest": 27,
+            "values": {
+                "type-use": 3.0
+            }
+        },
+        {
+            "src": 22,
+            "dest": 31,
+            "values": {
+                "type-use": 6.0
+            }
+        },
+        {
+            "src": 22,
+            "dest": 32,
+            "values": {
+                "type-use": 15.0
+            }
+        },
+        {
+            "src": 22,
+            "dest": 27,
+            "values": {
+                "type-use": 3.0
+            }
+        },
+        {
+            "src": 23,
+            "dest": 27,
+            "values": {
+                "type-use": 8.0
+            }
+        },
+        {
+            "src": 23,
+            "dest": 14,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 24,
+            "dest": 27,
+            "values": {
+                "type-use": 4.0
+            }
+        },
+        {
+            "src": 24,
+            "dest": 35,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 26,
+            "dest": 39,
+            "values": {
+                "type-use": 3.0
+            }
+        },
+        {
+            "src": 31,
+            "dest": 8,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 31,
+            "dest": 29,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 31,
+            "dest": 3,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 31,
+            "dest": 32,
+            "values": {
+                "type-use": 3.0
+            }
+        },
+        {
+            "src": 32,
+            "dest": 8,
+            "values": {
+                "type-use": 6.0
+            }
+        },
+        {
+            "src": 32,
+            "dest": 11,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 32,
+            "dest": 29,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 33,
+            "dest": 10,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 33,
+            "dest": 32,
+            "values": {
+                "type-use": 4.0
+            }
+        },
+        {
+            "src": 34,
+            "dest": 29,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 34,
+            "dest": 3,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 34,
+            "dest": 31,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 34,
+            "dest": 14,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 34,
+            "dest": 17,
+            "values": {
+                "type-use": 3.0
+            }
+        },
+        {
+            "src": 34,
+            "dest": 13,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 34,
+            "dest": 9,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 36,
+            "dest": 3,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 38,
+            "dest": 3,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 38,
+            "dest": 7,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 40,
+            "dest": 3,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 40,
+            "dest": 34,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 40,
+            "dest": 39,
+            "values": {
+                "type-use": 1.0
+            }
+        }
+    ]
+}

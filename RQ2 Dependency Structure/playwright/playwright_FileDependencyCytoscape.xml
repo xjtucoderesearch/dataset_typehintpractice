@@ -1,0 +1,1760 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graph xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cy="http://www.cytoscape.org" xmlns="http://www.cs.rpi.edu/XGMML" label=" File Dependencies" Directed="0" Graphic="0" Layout="Circular">
+       <att name="documentVersion" value="1.1"/>
+       <att name="networkMetadata">
+               <rdf:RDF>
+                       <rdf:Description rdf:about="http://www.cytoscape.org/">
+                               <dc:type>File Dependencies</dc:type>
+                               <dc:description/>
+                               <dc:identifier>-</dc:identifier>
+                               <dc:date/>
+                               <dc:title/>
+                               <dc:source>http://localhost/?p=</dc:source>
+                               <dc:format>Cytoscape-XGMML</dc:format>
+                       </rdf:Description>
+               </rdf:RDF>
+       </att>
+   <node id="188" label="_browser.py id:188">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_browser.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\_impl\_browser.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="0" y="0" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="189" label="_browser_context.py id:189">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_browser_context.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\_impl\_browser_context.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="115" y="0" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="1783" label="_download.py id:1783">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_download.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\_impl\_download.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="230" y="0" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="527" label="_frame.py id:527">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_frame.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\_impl\_frame.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="345" y="0" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="192" label="_transport.py id:192">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_transport.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\_impl\_transport.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="460" y="0" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="1781" label="_console_message.py id:1781">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_console_message.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\_impl\_console_message.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="575" y="0" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="520" label="_file_chooser.py id:520">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_file_chooser.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\_impl\_file_chooser.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="0" y="115" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="3594" label="_dialog.py id:3594">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_dialog.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\_impl\_dialog.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="115" y="115" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="6449" label="_stream.py id:6449">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_stream.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\_impl\_stream.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="230" y="115" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="735" label="_impl_to_api_mapping.py id:735">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_impl_to_api_mapping.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\_impl\_impl_to_api_mapping.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="345" y="115" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="266" label="_element_handle.py id:266">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_element_handle.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\_impl\_element_handle.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="460" y="115" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="230" label="_generated.py id:230">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_generated.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\async_api\_generated.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="575" y="115" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="569" label="_artifact.py id:569">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_artifact.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\_impl\_artifact.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="0" y="230" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="1791" label="_network.py id:1791">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_network.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\_impl\_network.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="115" y="230" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="3461" label="_sync_base.py id:3461">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_sync_base.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\_impl\_sync_base.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="230" y="230" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="194" label="_wait_helper.py id:194">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_wait_helper.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\_impl\_wait_helper.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="345" y="230" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="716" label="__main__.py id:716">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="__main__.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\__main__.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="460" y="230" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="1" label="_browser_type.py id:1">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_browser_type.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\_impl\_browser_type.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="575" y="230" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="1080" label="_playwright.py id:1080">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_playwright.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\_impl\_playwright.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="0" y="345" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="190" label="_connection.py id:190">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_connection.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\_impl\_connection.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="115" y="345" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="1787" label="_input.py id:1787">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_input.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\_impl\_input.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="230" y="345" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="3459" label="_cdp_session.py id:3459">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_cdp_session.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\_impl\_cdp_session.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="345" y="345" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="5384" label="_selectors.py id:5384">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_selectors.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\_impl\_selectors.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="460" y="345" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="1078" label="_object_factory.py id:1078">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_object_factory.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\_impl\_object_factory.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="575" y="345" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="1009" label="_context_manager.py id:1009">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_context_manager.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\sync_api\_context_manager.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="0" y="460" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="5377" label="_async_base.py id:5377">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_async_base.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\_impl\_async_base.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="115" y="460" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="985" label="__init__.py id:985">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="__init__.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\sync_api\__init__.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="230" y="460" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="535" label="_tracing.py id:535">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_tracing.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\_impl\_tracing.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="345" y="460" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="1008" label="_generated.py id:1008">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_generated.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\sync_api\_generated.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="460" y="460" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="714" label="_page.py id:714">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_page.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\_impl\_page.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="575" y="460" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="206" label="__init__.py id:206">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="__init__.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\async_api\__init__.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="0" y="575" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="191" label="_helper.py id:191">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_helper.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\_impl\_helper.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="115" y="575" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="1780" label="_accessibility.py id:1780">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_accessibility.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\_impl\_accessibility.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="230" y="575" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="522" label="_js_handle.py id:522">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_js_handle.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\_impl\_js_handle.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="345" y="575" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="823" label="_video.py id:823">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_video.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\_impl\_video.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="460" y="575" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="231" label="_context_manager.py id:231">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_context_manager.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\async_api\_context_manager.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="575" y="575" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="5416" label="__init__.py id:5416">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="__init__.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\__init__.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="0" y="690" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="5418" label="_path_utils.py id:5418">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_path_utils.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\_impl\_path_utils.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="115" y="690" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="1785" label="_event_context_manager.py id:1785">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_event_context_manager.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\_impl\_event_context_manager.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="230" y="690" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="181" label="_api_structures.py id:181">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_api_structures.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\_impl\_api_structures.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="345" y="690" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="731" label="_driver.py id:731">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_driver.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\_impl\_driver.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="460" y="690" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="186" label="_api_types.py id:186">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_api_types.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\_impl\_api_types.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="575" y="690" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="229" label="__init__.py id:229">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="__init__.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\playwright-python\playwright\_impl\__init__.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="0" y="805" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+     <edge source="188" target="189" label="_browser.py(Depends On)_browser_context.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_browser.py(Depends On)_browser_context.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="188" target="190" label="_browser.py(Depends On)_connection.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_browser.py(Depends On)_connection.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="188" target="1791" label="_browser.py(Depends On)_network.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_browser.py(Depends On)_network.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="188" target="181" label="_browser.py(Depends On)_api_structures.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_browser.py(Depends On)_api_structures.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="188" target="714" label="_browser.py(Depends On)_page.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_browser.py(Depends On)_page.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="188" target="1" label="_browser.py(Depends On)_browser_type.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_browser.py(Depends On)_browser_type.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="188" target="191" label="_browser.py(Depends On)_helper.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_browser.py(Depends On)_helper.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="188" target="3459" label="_browser.py(Depends On)_cdp_session.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_browser.py(Depends On)_cdp_session.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="189" target="190" label="_browser_context.py(Depends On)_connection.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_browser_context.py(Depends On)_connection.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="189" target="1791" label="_browser_context.py(Depends On)_network.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_browser_context.py(Depends On)_network.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="189" target="194" label="_browser_context.py(Depends On)_wait_helper.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_browser_context.py(Depends On)_wait_helper.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="189" target="1785" label="_browser_context.py(Depends On)_event_context_manager.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_browser_context.py(Depends On)_event_context_manager.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Use, Import From"/>
+     </edge>
+     <edge source="189" target="181" label="_browser_context.py(Depends On)_api_structures.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_browser_context.py(Depends On)_api_structures.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="189" target="186" label="_browser_context.py(Depends On)_api_types.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_browser_context.py(Depends On)_api_types.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Raise, Import From"/>
+     </edge>
+     <edge source="189" target="714" label="_browser_context.py(Depends On)_page.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_browser_context.py(Depends On)_page.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="189" target="535" label="_browser_context.py(Depends On)_tracing.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_browser_context.py(Depends On)_tracing.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Use, Import From"/>
+     </edge>
+     <edge source="189" target="191" label="_browser_context.py(Depends On)_helper.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_browser_context.py(Depends On)_helper.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="189" target="188" label="_browser_context.py(Depends On)_browser.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_browser_context.py(Depends On)_browser.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="189" target="3459" label="_browser_context.py(Depends On)_cdp_session.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_browser_context.py(Depends On)_cdp_session.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="1783" target="569" label="_download.py(Depends On)_artifact.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_download.py(Depends On)_artifact.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="1783" target="714" label="_download.py(Depends On)_page.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_download.py(Depends On)_page.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="527" target="190" label="_frame.py(Depends On)_connection.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_frame.py(Depends On)_connection.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="527" target="522" label="_frame.py(Depends On)_js_handle.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_frame.py(Depends On)_js_handle.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Use, Import From"/>
+     </edge>
+     <edge source="527" target="1791" label="_frame.py(Depends On)_network.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_frame.py(Depends On)_network.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="527" target="194" label="_frame.py(Depends On)_wait_helper.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_frame.py(Depends On)_wait_helper.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Use, Import From"/>
+     </edge>
+     <edge source="527" target="520" label="_frame.py(Depends On)_file_chooser.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_frame.py(Depends On)_file_chooser.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="527" target="1785" label="_frame.py(Depends On)_event_context_manager.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_frame.py(Depends On)_event_context_manager.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Use, Import From"/>
+     </edge>
+     <edge source="527" target="181" label="_frame.py(Depends On)_api_structures.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_frame.py(Depends On)_api_structures.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="527" target="186" label="_frame.py(Depends On)_api_types.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_frame.py(Depends On)_api_types.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Raise, Import From"/>
+     </edge>
+     <edge source="527" target="714" label="_frame.py(Depends On)_page.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_frame.py(Depends On)_page.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="527" target="266" label="_frame.py(Depends On)_element_handle.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_frame.py(Depends On)_element_handle.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Use, Import From"/>
+     </edge>
+     <edge source="527" target="191" label="_frame.py(Depends On)_helper.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_frame.py(Depends On)_helper.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="192" target="186" label="_transport.py(Depends On)_api_types.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_transport.py(Depends On)_api_types.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Raise, Import From"/>
+     </edge>
+     <edge source="192" target="191" label="_transport.py(Depends On)_helper.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_transport.py(Depends On)_helper.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="1781" target="190" label="_console_message.py(Depends On)_connection.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_console_message.py(Depends On)_connection.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="1781" target="522" label="_console_message.py(Depends On)_js_handle.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_console_message.py(Depends On)_js_handle.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="1781" target="181" label="_console_message.py(Depends On)_api_structures.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_console_message.py(Depends On)_api_structures.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="520" target="181" label="_file_chooser.py(Depends On)_api_structures.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_file_chooser.py(Depends On)_api_structures.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="520" target="714" label="_file_chooser.py(Depends On)_page.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_file_chooser.py(Depends On)_page.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="520" target="191" label="_file_chooser.py(Depends On)_helper.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_file_chooser.py(Depends On)_helper.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="520" target="266" label="_file_chooser.py(Depends On)_element_handle.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_file_chooser.py(Depends On)_element_handle.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="3594" target="190" label="_dialog.py(Depends On)_connection.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_dialog.py(Depends On)_connection.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From, Inherit"/>
+     </edge>
+     <edge source="3594" target="191" label="_dialog.py(Depends On)_helper.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_dialog.py(Depends On)_helper.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="6449" target="190" label="_stream.py(Depends On)_connection.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_stream.py(Depends On)_connection.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="735" target="186" label="_impl_to_api_mapping.py(Depends On)_api_types.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_impl_to_api_mapping.py(Depends On)_api_types.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Raise, Import From"/>
+     </edge>
+     <edge source="266" target="190" label="_element_handle.py(Depends On)_connection.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_element_handle.py(Depends On)_connection.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="266" target="522" label="_element_handle.py(Depends On)_js_handle.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_element_handle.py(Depends On)_js_handle.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Use, Import From, Inherit"/>
+     </edge>
+     <edge source="266" target="527" label="_element_handle.py(Depends On)_frame.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_element_handle.py(Depends On)_frame.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="266" target="520" label="_element_handle.py(Depends On)_file_chooser.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_element_handle.py(Depends On)_file_chooser.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="266" target="181" label="_element_handle.py(Depends On)_api_structures.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_element_handle.py(Depends On)_api_structures.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="266" target="191" label="_element_handle.py(Depends On)_helper.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_element_handle.py(Depends On)_helper.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="230" target="1783" label="_generated.py(Depends On)_download.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_download.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="230" target="189" label="_generated.py(Depends On)_browser_context.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_browser_context.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="230" target="1791" label="_generated.py(Depends On)_network.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_network.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="230" target="1080" label="_generated.py(Depends On)_playwright.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_playwright.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="230" target="522" label="_generated.py(Depends On)_js_handle.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_js_handle.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="230" target="527" label="_generated.py(Depends On)_frame.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_frame.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="230" target="823" label="_generated.py(Depends On)_video.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_video.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="230" target="520" label="_generated.py(Depends On)_file_chooser.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_file_chooser.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="230" target="1787" label="_generated.py(Depends On)_input.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_input.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="230" target="181" label="_generated.py(Depends On)_api_structures.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_api_structures.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="230" target="229" label="_generated.py(Depends On)__init__.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)__init__.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import Implicit"/>
+     </edge>
+     <edge source="230" target="714" label="_generated.py(Depends On)_page.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_page.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="230" target="1781" label="_generated.py(Depends On)_console_message.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_console_message.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="230" target="1" label="_generated.py(Depends On)_browser_type.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_browser_type.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="230" target="535" label="_generated.py(Depends On)_tracing.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_tracing.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="230" target="188" label="_generated.py(Depends On)_browser.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_browser.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="230" target="266" label="_generated.py(Depends On)_element_handle.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_element_handle.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="230" target="5377" label="_generated.py(Depends On)_async_base.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_async_base.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Use, Import From, Inherit"/>
+     </edge>
+     <edge source="230" target="5384" label="_generated.py(Depends On)_selectors.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_selectors.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="230" target="3594" label="_generated.py(Depends On)_dialog.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_dialog.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="230" target="3459" label="_generated.py(Depends On)_cdp_session.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_cdp_session.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="230" target="1780" label="_generated.py(Depends On)_accessibility.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_accessibility.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="569" target="190" label="_artifact.py(Depends On)_connection.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_artifact.py(Depends On)_connection.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="569" target="186" label="_artifact.py(Depends On)_api_types.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_artifact.py(Depends On)_api_types.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Raise"/>
+     </edge>
+     <edge source="569" target="6449" label="_artifact.py(Depends On)_stream.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_artifact.py(Depends On)_stream.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="569" target="191" label="_artifact.py(Depends On)_helper.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_artifact.py(Depends On)_helper.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="1791" target="190" label="_network.py(Depends On)_connection.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_network.py(Depends On)_connection.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="1791" target="194" label="_network.py(Depends On)_wait_helper.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_network.py(Depends On)_wait_helper.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="1791" target="527" label="_network.py(Depends On)_frame.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_network.py(Depends On)_frame.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="1791" target="1785" label="_network.py(Depends On)_event_context_manager.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_network.py(Depends On)_event_context_manager.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Use, Import From"/>
+     </edge>
+     <edge source="1791" target="181" label="_network.py(Depends On)_api_structures.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_network.py(Depends On)_api_structures.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="1791" target="186" label="_network.py(Depends On)_api_types.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_network.py(Depends On)_api_types.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Raise, Import From"/>
+     </edge>
+     <edge source="1791" target="191" label="_network.py(Depends On)_helper.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_network.py(Depends On)_helper.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="3461" target="735" label="_sync_base.py(Depends On)_impl_to_api_mapping.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_sync_base.py(Depends On)_impl_to_api_mapping.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From, Inherit"/>
+     </edge>
+     <edge source="194" target="190" label="_wait_helper.py(Depends On)_connection.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_wait_helper.py(Depends On)_connection.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="194" target="186" label="_wait_helper.py(Depends On)_api_types.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_wait_helper.py(Depends On)_api_types.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="716" target="229" label="__main__.py(Depends On)__init__.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="__main__.py(Depends On)__init__.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import Implicit"/>
+     </edge>
+     <edge source="716" target="731" label="__main__.py(Depends On)_driver.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="__main__.py(Depends On)_driver.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="1" target="189" label="_browser_type.py(Depends On)_browser_context.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_browser_type.py(Depends On)_browser_context.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="1" target="190" label="_browser_type.py(Depends On)_connection.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_browser_type.py(Depends On)_connection.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="1" target="194" label="_browser_type.py(Depends On)_wait_helper.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_browser_type.py(Depends On)_wait_helper.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="1" target="192" label="_browser_type.py(Depends On)_transport.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_browser_type.py(Depends On)_transport.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="1" target="181" label="_browser_type.py(Depends On)_api_structures.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_browser_type.py(Depends On)_api_structures.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="1" target="186" label="_browser_type.py(Depends On)_api_types.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_browser_type.py(Depends On)_api_types.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="1" target="188" label="_browser_type.py(Depends On)_browser.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_browser_type.py(Depends On)_browser.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="1" target="191" label="_browser_type.py(Depends On)_helper.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_browser_type.py(Depends On)_helper.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="1080" target="190" label="_playwright.py(Depends On)_connection.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_playwright.py(Depends On)_connection.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Use, Import From, Inherit"/>
+     </edge>
+     <edge source="1080" target="1" label="_playwright.py(Depends On)_browser_type.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_playwright.py(Depends On)_browser_type.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="1080" target="5384" label="_playwright.py(Depends On)_selectors.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_playwright.py(Depends On)_selectors.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="190" target="192" label="_connection.py(Depends On)_transport.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_connection.py(Depends On)_transport.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="190" target="191" label="_connection.py(Depends On)_helper.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_connection.py(Depends On)_helper.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Use, Import From"/>
+     </edge>
+     <edge source="1787" target="190" label="_input.py(Depends On)_connection.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_input.py(Depends On)_connection.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="1787" target="191" label="_input.py(Depends On)_helper.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_input.py(Depends On)_helper.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="3459" target="190" label="_cdp_session.py(Depends On)_connection.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_cdp_session.py(Depends On)_connection.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="3459" target="191" label="_cdp_session.py(Depends On)_helper.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_cdp_session.py(Depends On)_helper.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="5384" target="190" label="_selectors.py(Depends On)_connection.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_selectors.py(Depends On)_connection.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From, Inherit"/>
+     </edge>
+     <edge source="5384" target="186" label="_selectors.py(Depends On)_api_types.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_selectors.py(Depends On)_api_types.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Raise, Import From"/>
+     </edge>
+     <edge source="5384" target="191" label="_selectors.py(Depends On)_helper.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_selectors.py(Depends On)_helper.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="1078" target="189" label="_object_factory.py(Depends On)_browser_context.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_object_factory.py(Depends On)_browser_context.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="1078" target="190" label="_object_factory.py(Depends On)_connection.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_object_factory.py(Depends On)_connection.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From, Inherit"/>
+     </edge>
+     <edge source="1078" target="522" label="_object_factory.py(Depends On)_js_handle.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_object_factory.py(Depends On)_js_handle.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="1078" target="1791" label="_object_factory.py(Depends On)_network.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_object_factory.py(Depends On)_network.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="1078" target="1080" label="_object_factory.py(Depends On)_playwright.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_object_factory.py(Depends On)_playwright.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="1078" target="569" label="_object_factory.py(Depends On)_artifact.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_object_factory.py(Depends On)_artifact.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="1078" target="527" label="_object_factory.py(Depends On)_frame.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_object_factory.py(Depends On)_frame.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="1078" target="714" label="_object_factory.py(Depends On)_page.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_object_factory.py(Depends On)_page.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="1078" target="6449" label="_object_factory.py(Depends On)_stream.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_object_factory.py(Depends On)_stream.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="1078" target="1" label="_object_factory.py(Depends On)_browser_type.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_object_factory.py(Depends On)_browser_type.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Use, Import From"/>
+     </edge>
+     <edge source="1078" target="1781" label="_object_factory.py(Depends On)_console_message.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_object_factory.py(Depends On)_console_message.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="1078" target="188" label="_object_factory.py(Depends On)_browser.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_object_factory.py(Depends On)_browser.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="1078" target="266" label="_object_factory.py(Depends On)_element_handle.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_object_factory.py(Depends On)_element_handle.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="1078" target="5384" label="_object_factory.py(Depends On)_selectors.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_object_factory.py(Depends On)_selectors.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="1078" target="3594" label="_object_factory.py(Depends On)_dialog.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_object_factory.py(Depends On)_dialog.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="1078" target="3459" label="_object_factory.py(Depends On)_cdp_session.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_object_factory.py(Depends On)_cdp_session.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="1009" target="1008" label="_context_manager.py(Depends On)_generated.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_context_manager.py(Depends On)_generated.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="1009" target="190" label="_context_manager.py(Depends On)_connection.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_context_manager.py(Depends On)_connection.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="1009" target="1080" label="_context_manager.py(Depends On)_playwright.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_context_manager.py(Depends On)_playwright.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="1009" target="192" label="_context_manager.py(Depends On)_transport.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_context_manager.py(Depends On)_transport.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="1009" target="1078" label="_context_manager.py(Depends On)_object_factory.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_context_manager.py(Depends On)_object_factory.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="1009" target="229" label="_context_manager.py(Depends On)__init__.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_context_manager.py(Depends On)__init__.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import Implicit"/>
+     </edge>
+     <edge source="1009" target="186" label="_context_manager.py(Depends On)_api_types.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_context_manager.py(Depends On)_api_types.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Raise, Import From"/>
+     </edge>
+     <edge source="1009" target="731" label="_context_manager.py(Depends On)_driver.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_context_manager.py(Depends On)_driver.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="5377" target="735" label="_async_base.py(Depends On)_impl_to_api_mapping.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_async_base.py(Depends On)_impl_to_api_mapping.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From, Inherit"/>
+     </edge>
+     <edge source="985" target="1008" label="__init__.py(Depends On)_generated.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="__init__.py(Depends On)_generated.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="985" target="229" label="__init__.py(Depends On)__init__.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="__init__.py(Depends On)__init__.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import Implicit"/>
+     </edge>
+     <edge source="985" target="181" label="__init__.py(Depends On)_api_structures.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="__init__.py(Depends On)_api_structures.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use"/>
+     </edge>
+     <edge source="985" target="186" label="__init__.py(Depends On)_api_types.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="__init__.py(Depends On)_api_types.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use"/>
+     </edge>
+     <edge source="985" target="1009" label="__init__.py(Depends On)_context_manager.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="__init__.py(Depends On)_context_manager.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Use, Import From"/>
+     </edge>
+     <edge source="535" target="190" label="_tracing.py(Depends On)_connection.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_tracing.py(Depends On)_connection.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="535" target="189" label="_tracing.py(Depends On)_browser_context.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_tracing.py(Depends On)_browser_context.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="535" target="569" label="_tracing.py(Depends On)_artifact.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_tracing.py(Depends On)_artifact.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="535" target="191" label="_tracing.py(Depends On)_helper.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_tracing.py(Depends On)_helper.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="1008" target="1783" label="_generated.py(Depends On)_download.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_download.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="1008" target="189" label="_generated.py(Depends On)_browser_context.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_browser_context.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="1008" target="1791" label="_generated.py(Depends On)_network.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_network.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="1008" target="1080" label="_generated.py(Depends On)_playwright.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_playwright.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="1008" target="522" label="_generated.py(Depends On)_js_handle.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_js_handle.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="1008" target="527" label="_generated.py(Depends On)_frame.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_frame.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="1008" target="823" label="_generated.py(Depends On)_video.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_video.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="1008" target="520" label="_generated.py(Depends On)_file_chooser.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_file_chooser.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="1008" target="1787" label="_generated.py(Depends On)_input.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_input.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="1008" target="181" label="_generated.py(Depends On)_api_structures.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_api_structures.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="1008" target="229" label="_generated.py(Depends On)__init__.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)__init__.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import Implicit"/>
+     </edge>
+     <edge source="1008" target="714" label="_generated.py(Depends On)_page.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_page.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="1008" target="1781" label="_generated.py(Depends On)_console_message.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_console_message.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="1008" target="1" label="_generated.py(Depends On)_browser_type.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_browser_type.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="1008" target="535" label="_generated.py(Depends On)_tracing.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_tracing.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="1008" target="188" label="_generated.py(Depends On)_browser.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_browser.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="1008" target="266" label="_generated.py(Depends On)_element_handle.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_element_handle.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="1008" target="3461" label="_generated.py(Depends On)_sync_base.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_sync_base.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Use, Import From, Inherit"/>
+     </edge>
+     <edge source="1008" target="5384" label="_generated.py(Depends On)_selectors.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_selectors.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="1008" target="3594" label="_generated.py(Depends On)_dialog.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_dialog.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="1008" target="3459" label="_generated.py(Depends On)_cdp_session.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_cdp_session.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="1008" target="1780" label="_generated.py(Depends On)_accessibility.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_generated.py(Depends On)_accessibility.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="714" target="1783" label="_page.py(Depends On)_download.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_page.py(Depends On)_download.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Use, Import From"/>
+     </edge>
+     <edge source="714" target="189" label="_page.py(Depends On)_browser_context.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_page.py(Depends On)_browser_context.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="714" target="1791" label="_page.py(Depends On)_network.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_page.py(Depends On)_network.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="714" target="194" label="_page.py(Depends On)_wait_helper.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_page.py(Depends On)_wait_helper.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="714" target="190" label="_page.py(Depends On)_connection.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_page.py(Depends On)_connection.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="714" target="522" label="_page.py(Depends On)_js_handle.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_page.py(Depends On)_js_handle.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Use, Import From"/>
+     </edge>
+     <edge source="714" target="569" label="_page.py(Depends On)_artifact.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_page.py(Depends On)_artifact.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="714" target="527" label="_page.py(Depends On)_frame.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_page.py(Depends On)_frame.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="714" target="823" label="_page.py(Depends On)_video.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_page.py(Depends On)_video.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Use, Import From"/>
+     </edge>
+     <edge source="714" target="520" label="_page.py(Depends On)_file_chooser.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_page.py(Depends On)_file_chooser.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="714" target="1787" label="_page.py(Depends On)_input.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_page.py(Depends On)_input.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Use, Import From"/>
+     </edge>
+     <edge source="714" target="1785" label="_page.py(Depends On)_event_context_manager.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_page.py(Depends On)_event_context_manager.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Use, Import From"/>
+     </edge>
+     <edge source="714" target="181" label="_page.py(Depends On)_api_structures.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_page.py(Depends On)_api_structures.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="714" target="186" label="_page.py(Depends On)_api_types.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_page.py(Depends On)_api_types.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Raise, Import From"/>
+     </edge>
+     <edge source="714" target="1781" label="_page.py(Depends On)_console_message.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_page.py(Depends On)_console_message.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="714" target="266" label="_page.py(Depends On)_element_handle.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_page.py(Depends On)_element_handle.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="714" target="191" label="_page.py(Depends On)_helper.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_page.py(Depends On)_helper.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="714" target="1780" label="_page.py(Depends On)_accessibility.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_page.py(Depends On)_accessibility.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="206" target="230" label="__init__.py(Depends On)_generated.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="__init__.py(Depends On)_generated.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="206" target="229" label="__init__.py(Depends On)__init__.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="__init__.py(Depends On)__init__.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import Implicit"/>
+     </edge>
+     <edge source="206" target="181" label="__init__.py(Depends On)_api_structures.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="__init__.py(Depends On)_api_structures.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use"/>
+     </edge>
+     <edge source="206" target="186" label="__init__.py(Depends On)_api_types.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="__init__.py(Depends On)_api_types.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use"/>
+     </edge>
+     <edge source="206" target="231" label="__init__.py(Depends On)_context_manager.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="__init__.py(Depends On)_context_manager.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Use, Import From"/>
+     </edge>
+     <edge source="191" target="1791" label="_helper.py(Depends On)_network.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_helper.py(Depends On)_network.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="191" target="186" label="_helper.py(Depends On)_api_types.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_helper.py(Depends On)_api_types.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Use, Import From"/>
+     </edge>
+     <edge source="1780" target="190" label="_accessibility.py(Depends On)_connection.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_accessibility.py(Depends On)_connection.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="1780" target="266" label="_accessibility.py(Depends On)_element_handle.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_accessibility.py(Depends On)_element_handle.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="1780" target="191" label="_accessibility.py(Depends On)_helper.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_accessibility.py(Depends On)_helper.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="522" target="190" label="_js_handle.py(Depends On)_connection.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_js_handle.py(Depends On)_connection.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="522" target="186" label="_js_handle.py(Depends On)_api_types.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_js_handle.py(Depends On)_api_types.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Raise, Import From"/>
+     </edge>
+     <edge source="522" target="266" label="_js_handle.py(Depends On)_element_handle.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_js_handle.py(Depends On)_element_handle.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="823" target="569" label="_video.py(Depends On)_artifact.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_video.py(Depends On)_artifact.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="823" target="186" label="_video.py(Depends On)_api_types.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_video.py(Depends On)_api_types.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Raise"/>
+     </edge>
+     <edge source="823" target="714" label="_video.py(Depends On)_page.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_video.py(Depends On)_page.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="823" target="191" label="_video.py(Depends On)_helper.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_video.py(Depends On)_helper.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="231" target="230" label="_context_manager.py(Depends On)_generated.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_context_manager.py(Depends On)_generated.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="231" target="190" label="_context_manager.py(Depends On)_connection.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_context_manager.py(Depends On)_connection.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Use, Import From"/>
+     </edge>
+     <edge source="231" target="192" label="_context_manager.py(Depends On)_transport.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_context_manager.py(Depends On)_transport.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="231" target="1078" label="_context_manager.py(Depends On)_object_factory.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_context_manager.py(Depends On)_object_factory.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="231" target="229" label="_context_manager.py(Depends On)__init__.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_context_manager.py(Depends On)__init__.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import Implicit"/>
+     </edge>
+     <edge source="231" target="731" label="_context_manager.py(Depends On)_driver.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_context_manager.py(Depends On)_driver.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+</graph>

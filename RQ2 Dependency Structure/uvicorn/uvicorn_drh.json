@@ -1,0 +1,344 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "uvicorn_drh",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L0",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L0/M0",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "uvicorn/loops/asyncio.py"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L1/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L1/M0/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L1/M0/L0/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L1/M0/L0/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L1/M0/L0/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L1/M0/L0/M0/L0/M0/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L1/M0/L0/M0/L0/M0/L0/M0",
+                  "nested" : [ {
+                    "@type" : "group",
+                    "name" : "L1/M0/L0/M0/L0/M0/L0/M0/L0",
+                    "nested" : [ {
+                      "@type" : "group",
+                      "name" : "L1/M0/L0/M0/L0/M0/L0/M0/L0/M0",
+                      "nested" : [ {
+                        "@type" : "group",
+                        "name" : "L1/M0/L0/M0/L0/M0/L0/M0/L0/M0/Control",
+                        "nested" : [ {
+                          "@type" : "group",
+                          "name" : "L1/M0/L0/M0/L0/M0/L0/M0/L0/M0/Control/M0",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "uvicorn/__init__.py"
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L1/M0/L0/M0/L0/M0/L0/M0/L0/M0/Control/M1",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "uvicorn/_handlers/http.py"
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L1/M0/L0/M0/L0/M0/L0/M0/L0/M0/Control/M2",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "uvicorn/logging.py"
+                          } ]
+                        } ]
+                      }, {
+                        "@type" : "group",
+                        "name" : "L1/M0/L0/M0/L0/M0/L0/M0/L0/M0/M1",
+                        "nested" : [ {
+                          "@type" : "item",
+                          "name" : "uvicorn/subprocess.py"
+                        } ]
+                      } ]
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L1/M0/L0/M0/L0/M0/L0/M0/L1",
+                    "nested" : [ {
+                      "@type" : "group",
+                      "name" : "L1/M0/L0/M0/L0/M0/L0/M0/L1/M0",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "uvicorn/supervisors/multiprocess.py"
+                      }, {
+                        "@type" : "item",
+                        "name" : "uvicorn/supervisors/basereload.py"
+                      } ]
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L1/M0/L0/M0/L0/M0/L0/M0/Control",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "uvicorn/main.py"
+                    } ]
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L1/M0/L0/M0/L0/M0/L1",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L1/M0/L0/M0/L0/M0/L1/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "uvicorn/supervisors/statreload.py"
+                  }, {
+                    "@type" : "item",
+                    "name" : "uvicorn/supervisors/watchgodreload.py"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L1/M0/L0/M0/L0/M0/Control",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "uvicorn/supervisors/__init__.py"
+                } ]
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L1/M0/L0/M0/L1",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L1/M0/L0/M0/L1/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "uvicorn/importer.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L1/M0/L0/M0/L1/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "uvicorn/_types.py"
+              }, {
+                "@type" : "item",
+                "name" : "uvicorn/middleware/wsgi.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L1/M0/L0/M0/L1/M2",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "uvicorn/middleware/proxy_headers.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L1/M0/L0/M0/L1/M3",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "uvicorn/middleware/asgi2.py"
+              }, {
+                "@type" : "item",
+                "name" : "uvicorn/middleware/__init__.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L1/M0/L0/M0/L1/M4",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "uvicorn/middleware/debug.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L1/M0/L0/M0/L1/M5",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L1/M0/L0/M0/L1/M5/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L1/M0/L0/M0/L1/M5/L0/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "uvicorn/protocols/utils.py"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L1/M0/L0/M0/L1/M5/L1",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L1/M0/L0/M0/L1/M5/L1/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "uvicorn/protocols/websockets/websockets_impl.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L1/M0/L0/M0/L1/M5/L1/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "uvicorn/protocols/websockets/wsproto_impl.py"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L1/M0/L0/M0/L1/M5/Control",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "uvicorn/protocols/websockets/auto.py"
+                } ]
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L1/M0/L0/M0/L1/M6",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "uvicorn/middleware/message_logger.py"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L1/M0/L0/M0/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "uvicorn/config.py"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L1/M0/L0/M0/M3",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "uvicorn/protocols/websockets/__init__.py"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L1/M0/L0/M0/M4",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "uvicorn/protocols/http/flow_control.py"
+            } ]
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1/M0/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L1/M0/L1/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "uvicorn/protocols/__init__.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1/M0/L1/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "uvicorn/protocols/http/h11_impl.py"
+          }, {
+            "@type" : "item",
+            "name" : "uvicorn/protocols/http/__init__.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1/M0/L1/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "uvicorn/_handlers/__init__.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1/M0/L1/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "uvicorn/protocols/http/httptools_impl.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1/M0/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "uvicorn/server.py"
+        } ]
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L2/M0",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "uvicorn/__main__.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L2/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "uvicorn/lifespan/off.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L2/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "uvicorn/loops/auto.py"
+      }, {
+        "@type" : "item",
+        "name" : "uvicorn/loops/uvloop.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L2/M3",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "uvicorn/workers.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L2/M4",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "uvicorn/lifespan/on.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L2/M5",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "uvicorn/protocols/http/auto.py"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "Isolated",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "uvicorn/lifespan/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "uvicorn/loops/__init__.py"
+    } ]
+  } ]
+}

@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graph xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cy="http://www.cytoscape.org" xmlns="http://www.cs.rpi.edu/XGMML" label=" File Dependencies" Directed="0" Graphic="0" Layout="Circular">
+       <att name="documentVersion" value="1.1"/>
+       <att name="networkMetadata">
+               <rdf:RDF>
+                       <rdf:Description rdf:about="http://www.cytoscape.org/">
+                               <dc:type>File Dependencies</dc:type>
+                               <dc:description/>
+                               <dc:identifier>-</dc:identifier>
+                               <dc:date/>
+                               <dc:title/>
+                               <dc:source>http://localhost/?p=</dc:source>
+                               <dc:format>Cytoscape-XGMML</dc:format>
+                       </rdf:Description>
+               </rdf:RDF>
+       </att>
+   <node id="1030" label="_show_versions.py id:1030">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_show_versions.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\pyproj\pyproj\_show_versions.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="0" y="0" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="21" label="transformer.py id:21">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="transformer.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\pyproj\pyproj\transformer.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="115" y="0" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="1025" label="geod.py id:1025">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="geod.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\pyproj\pyproj\geod.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="230" y="0" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="3378" label="__main__.py id:3378">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="__main__.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\pyproj\pyproj\__main__.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="345" y="0" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="644" label="crs.py id:644">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="crs.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\pyproj\pyproj\crs\crs.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="0" y="115" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="1019" label="coordinate_operation.py id:1019">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="coordinate_operation.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\pyproj\pyproj\crs\coordinate_operation.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="115" y="115" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="1012" label="_cf1x8.py id:1012">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="_cf1x8.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\pyproj\pyproj\crs\_cf1x8.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="230" y="115" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="1068" label="__init__.py id:1068">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="__init__.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\pyproj\pyproj\__init__.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="345" y="115" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="1187" label="aoi.py id:1187">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="aoi.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\pyproj\pyproj\aoi.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="0" y="230" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="1021" label="coordinate_system.py id:1021">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="coordinate_system.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\pyproj\pyproj\crs\coordinate_system.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="115" y="230" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="352" label="proj.py id:352">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="proj.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\pyproj\pyproj\proj.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="230" y="230" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="2511" label="enums.py id:2511">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="enums.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\pyproj\pyproj\crs\enums.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="345" y="230" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="336" label="sync.py id:336">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="sync.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\pyproj\pyproj\sync.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="0" y="345" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="328" label="__init__.py id:328">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="__init__.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\pyproj\pyproj\crs\__init__.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="115" y="345" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="331" label="datadir.py id:331">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="datadir.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\pyproj\pyproj\datadir.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="230" y="345" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="1" label="exceptions.py id:1">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="exceptions.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\pyproj\pyproj\exceptions.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="345" y="345" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="338" label="utils.py id:338">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="utils.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\pyproj\pyproj\utils.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="0" y="460" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="1086" label="network.py id:1086">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="network.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\pyproj\pyproj\network.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="115" y="460" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="361" label="datum.py id:361">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="datum.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\pyproj\pyproj\crs\datum.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="230" y="460" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="329" label="compat.py id:329">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="compat.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\pyproj\pyproj\compat.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="345" y="460" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+   <node id="332" label="enums.py id:332">
+           <att type="string" name="node.shape" value="rect"/>
+           <att type="string" name="node.fontSize" value="5"/>
+           <att type="string" name="node.label" value="enums.py"/>
+           <att type="string" name="longName" value="C:\Users\ding7\Desktop\git\pyproj\pyproj\enums.py"/>
+           <graphics type="RECTANGLE" h="35" w="35" x="0" y="575" fill="#ffffff" width="1" outline="#000000" cy:nodeTransparency="1.0" cy:nodeLabelFont="Default-0-8" cy:borderLineType="solid"/>
+   </node>
+     <edge source="1030" target="1068" label="_show_versions.py(Depends On)__init__.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_show_versions.py(Depends On)__init__.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Use"/>
+     </edge>
+     <edge source="1030" target="1" label="_show_versions.py(Depends On)exceptions.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_show_versions.py(Depends On)exceptions.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="21" target="352" label="transformer.py(Depends On)proj.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="transformer.py(Depends On)proj.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Use"/>
+     </edge>
+     <edge source="21" target="1" label="transformer.py(Depends On)exceptions.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="transformer.py(Depends On)exceptions.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Use, Raise, Import From"/>
+     </edge>
+     <edge source="21" target="338" label="transformer.py(Depends On)utils.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="transformer.py(Depends On)utils.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="21" target="336" label="transformer.py(Depends On)sync.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="transformer.py(Depends On)sync.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="21" target="328" label="transformer.py(Depends On)__init__.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="transformer.py(Depends On)__init__.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import Implicit"/>
+     </edge>
+     <edge source="21" target="331" label="transformer.py(Depends On)datadir.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="transformer.py(Depends On)datadir.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="21" target="329" label="transformer.py(Depends On)compat.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="transformer.py(Depends On)compat.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="21" target="332" label="transformer.py(Depends On)enums.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="transformer.py(Depends On)enums.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="1025" target="1" label="geod.py(Depends On)exceptions.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="geod.py(Depends On)exceptions.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Raise, Import From"/>
+     </edge>
+     <edge source="1025" target="338" label="geod.py(Depends On)utils.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="geod.py(Depends On)utils.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="1025" target="332" label="geod.py(Depends On)enums.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="geod.py(Depends On)enums.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="3378" target="1068" label="__main__.py(Depends On)__init__.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="__main__.py(Depends On)__init__.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use"/>
+     </edge>
+     <edge source="3378" target="1187" label="__main__.py(Depends On)aoi.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="__main__.py(Depends On)aoi.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="3378" target="336" label="__main__.py(Depends On)sync.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="__main__.py(Depends On)sync.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="3378" target="331" label="__main__.py(Depends On)datadir.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="__main__.py(Depends On)datadir.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="644" target="1025" label="crs.py(Depends On)geod.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="crs.py(Depends On)geod.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import From"/>
+     </edge>
+     <edge source="644" target="1012" label="crs.py(Depends On)_cf1x8.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="crs.py(Depends On)_cf1x8.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Use, Import From"/>
+     </edge>
+     <edge source="644" target="1019" label="crs.py(Depends On)coordinate_operation.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="crs.py(Depends On)coordinate_operation.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="644" target="1021" label="crs.py(Depends On)coordinate_system.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="crs.py(Depends On)coordinate_system.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="644" target="1" label="crs.py(Depends On)exceptions.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="crs.py(Depends On)exceptions.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Raise, Import From"/>
+     </edge>
+     <edge source="644" target="332" label="crs.py(Depends On)enums.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="crs.py(Depends On)enums.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="1019" target="644" label="coordinate_operation.py(Depends On)crs.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="coordinate_operation.py(Depends On)crs.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Use"/>
+     </edge>
+     <edge source="1019" target="1" label="coordinate_operation.py(Depends On)exceptions.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="coordinate_operation.py(Depends On)exceptions.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Raise, Import From"/>
+     </edge>
+     <edge source="1012" target="1019" label="_cf1x8.py(Depends On)coordinate_operation.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_cf1x8.py(Depends On)coordinate_operation.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="1012" target="1" label="_cf1x8.py(Depends On)exceptions.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_cf1x8.py(Depends On)exceptions.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="1012" target="361" label="_cf1x8.py(Depends On)datum.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="_cf1x8.py(Depends On)datum.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="1068" target="1030" label="__init__.py(Depends On)_show_versions.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="__init__.py(Depends On)_show_versions.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="1068" target="1025" label="__init__.py(Depends On)geod.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="__init__.py(Depends On)geod.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="1068" target="21" label="__init__.py(Depends On)transformer.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="__init__.py(Depends On)transformer.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="1068" target="644" label="__init__.py(Depends On)crs.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="__init__.py(Depends On)crs.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import"/>
+     </edge>
+     <edge source="1068" target="352" label="__init__.py(Depends On)proj.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="__init__.py(Depends On)proj.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="1068" target="1" label="__init__.py(Depends On)exceptions.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="__init__.py(Depends On)exceptions.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="1068" target="1086" label="__init__.py(Depends On)network.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="__init__.py(Depends On)network.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Use"/>
+     </edge>
+     <edge source="1068" target="328" label="__init__.py(Depends On)__init__.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="__init__.py(Depends On)__init__.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import Implicit"/>
+     </edge>
+     <edge source="1187" target="338" label="aoi.py(Depends On)utils.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="aoi.py(Depends On)utils.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="1021" target="2511" label="coordinate_system.py(Depends On)enums.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="coordinate_system.py(Depends On)enums.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="352" target="21" label="proj.py(Depends On)transformer.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="proj.py(Depends On)transformer.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From, Inherit"/>
+     </edge>
+     <edge source="352" target="644" label="proj.py(Depends On)crs.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="proj.py(Depends On)crs.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Use"/>
+     </edge>
+     <edge source="352" target="338" label="proj.py(Depends On)utils.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="proj.py(Depends On)utils.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="352" target="328" label="proj.py(Depends On)__init__.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="proj.py(Depends On)__init__.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import Implicit"/>
+     </edge>
+     <edge source="352" target="329" label="proj.py(Depends On)compat.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="proj.py(Depends On)compat.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="352" target="332" label="proj.py(Depends On)enums.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="proj.py(Depends On)enums.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Use, Import From"/>
+     </edge>
+     <edge source="2511" target="332" label="enums.py(Depends On)enums.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="enums.py(Depends On)enums.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From, Inherit"/>
+     </edge>
+     <edge source="336" target="1187" label="sync.py(Depends On)aoi.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="sync.py(Depends On)aoi.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Use, Import From"/>
+     </edge>
+     <edge source="336" target="331" label="sync.py(Depends On)datadir.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="sync.py(Depends On)datadir.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Call, Import, Import From"/>
+     </edge>
+     <edge source="328" target="644" label="__init__.py(Depends On)crs.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="__init__.py(Depends On)crs.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="328" target="1" label="__init__.py(Depends On)exceptions.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="__init__.py(Depends On)exceptions.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Import From"/>
+     </edge>
+     <edge source="331" target="1" label="datadir.py(Depends On)exceptions.py">
+             <att type="string" name="edge.targetArrowShape" value="ARROW"/>
+             <att type="string" name="edge.color" value="#0000FF"/>
+             <att type="string" name="canonicalName" value="datadir.py(Depends On)exceptions.py"/>
+             <att type="string" name="interaction" value="Depends On"/>
+             <att type="string" name="dependency kind" value="Import, Raise, Import From"/>
+     </edge>
+</graph>

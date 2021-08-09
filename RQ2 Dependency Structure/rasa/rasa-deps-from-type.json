@@ -1,0 +1,419 @@
+{
+    "@schemaVersion": 1.0,
+    "name": "rasa-deps-from-type",
+    "variables": [
+        "rasa/__init__.py",
+        "rasa/__main__.py",
+        "rasa/api.py",
+        "rasa/cli/__init__.py",
+        "rasa/cli/arguments/__init__.py",
+        "rasa/cli/arguments/data.py",
+        "rasa/cli/arguments/default_arguments.py",
+        "rasa/cli/arguments/export.py",
+        "rasa/cli/arguments/interactive.py",
+        "rasa/cli/arguments/run.py",
+        "rasa/cli/arguments/shell.py",
+        "rasa/cli/arguments/test.py",
+        "rasa/cli/arguments/train.py",
+        "rasa/cli/arguments/visualize.py",
+        "rasa/cli/arguments/x.py",
+        "rasa/cli/data.py",
+        "rasa/cli/export.py",
+        "rasa/cli/initial_project/actions/__init__.py",
+        "rasa/cli/initial_project/actions/actions.py",
+        "rasa/cli/interactive.py",
+        "rasa/cli/run.py",
+        "rasa/cli/scaffold.py",
+        "rasa/cli/shell.py",
+        "rasa/cli/telemetry.py",
+        "rasa/cli/test.py",
+        "rasa/cli/train.py",
+        "rasa/cli/utils.py",
+        "rasa/cli/visualize.py",
+        "rasa/cli/x.py",
+        "rasa/constants.py",
+        "rasa/core/__init__.py",
+        "rasa/core/actions/__init__.py",
+        "rasa/core/actions/action.py",
+        "rasa/core/actions/forms.py",
+        "rasa/core/actions/loops.py",
+        "rasa/core/actions/two_stage_fallback.py",
+        "rasa/core/agent.py",
+        "rasa/core/brokers/__init__.py",
+        "rasa/core/brokers/broker.py",
+        "rasa/core/brokers/file.py",
+        "rasa/core/brokers/kafka.py",
+        "rasa/core/brokers/pika.py",
+        "rasa/core/brokers/sql.py",
+        "rasa/core/channels/__init__.py",
+        "rasa/core/channels/botframework.py",
+        "rasa/core/channels/callback.py",
+        "rasa/core/channels/channel.py",
+        "rasa/core/channels/console.py",
+        "rasa/core/channels/facebook.py",
+        "rasa/core/channels/hangouts.py",
+        "rasa/core/channels/mattermost.py",
+        "rasa/core/channels/rasa_chat.py",
+        "rasa/core/channels/rest.py",
+        "rasa/core/channels/rocketchat.py",
+        "rasa/core/channels/slack.py",
+        "rasa/core/channels/socketio.py",
+        "rasa/core/channels/telegram.py",
+        "rasa/core/channels/twilio.py",
+        "rasa/core/channels/twilio_voice.py",
+        "rasa/core/channels/webexteams.py",
+        "rasa/core/config.py",
+        "rasa/core/constants.py",
+        "rasa/core/exceptions.py",
+        "rasa/core/exporter.py",
+        "rasa/core/featurizers/__init__.py",
+        "rasa/core/featurizers/single_state_featurizer.py",
+        "rasa/core/featurizers/tracker_featurizers.py",
+        "rasa/core/interpreter.py",
+        "rasa/core/jobs.py",
+        "rasa/core/lock.py",
+        "rasa/core/lock_store.py",
+        "rasa/core/nlg/__init__.py",
+        "rasa/core/nlg/callback.py",
+        "rasa/core/nlg/generator.py",
+        "rasa/core/nlg/interpolator.py",
+        "rasa/core/nlg/response.py",
+        "rasa/core/policies/__init__.py",
+        "rasa/core/policies/ensemble.py",
+        "rasa/core/policies/fallback.py",
+        "rasa/core/policies/form_policy.py",
+        "rasa/core/policies/mapping_policy.py",
+        "rasa/core/policies/memoization.py",
+        "rasa/core/policies/policy.py",
+        "rasa/core/policies/registry.py",
+        "rasa/core/policies/rule_policy.py",
+        "rasa/core/policies/sklearn_policy.py",
+        "rasa/core/policies/ted_policy.py",
+        "rasa/core/policies/two_stage_fallback.py",
+        "rasa/core/policies/unexpected_intent_policy.py",
+        "rasa/core/processor.py",
+        "rasa/core/registry.py",
+        "rasa/core/run.py",
+        "rasa/core/test.py",
+        "rasa/core/tracker_store.py",
+        "rasa/core/train.py",
+        "rasa/core/training/__init__.py",
+        "rasa/core/training/converters/__init__.py",
+        "rasa/core/training/converters/responses_prefix_converter.py",
+        "rasa/core/training/converters/story_markdown_to_yaml_converter.py",
+        "rasa/core/training/interactive.py",
+        "rasa/core/training/story_conflict.py",
+        "rasa/core/training/training.py",
+        "rasa/core/utils.py",
+        "rasa/core/visualize.py",
+        "rasa/exceptions.py",
+        "rasa/jupyter.py",
+        "rasa/model.py",
+        "rasa/model_testing.py",
+        "rasa/model_training.py",
+        "rasa/nlu/__init__.py",
+        "rasa/nlu/classifiers/__init__.py",
+        "rasa/nlu/classifiers/classifier.py",
+        "rasa/nlu/classifiers/diet_classifier.py",
+        "rasa/nlu/classifiers/fallback_classifier.py",
+        "rasa/nlu/classifiers/keyword_intent_classifier.py",
+        "rasa/nlu/classifiers/mitie_intent_classifier.py",
+        "rasa/nlu/classifiers/sklearn_intent_classifier.py",
+        "rasa/nlu/components.py",
+        "rasa/nlu/config.py",
+        "rasa/nlu/constants.py",
+        "rasa/nlu/convert.py",
+        "rasa/nlu/emulators/__init__.py",
+        "rasa/nlu/emulators/dialogflow.py",
+        "rasa/nlu/emulators/emulator.py",
+        "rasa/nlu/emulators/luis.py",
+        "rasa/nlu/emulators/no_emulator.py",
+        "rasa/nlu/emulators/wit.py",
+        "rasa/nlu/extractors/__init__.py",
+        "rasa/nlu/extractors/crf_entity_extractor.py",
+        "rasa/nlu/extractors/duckling_entity_extractor.py",
+        "rasa/nlu/extractors/entity_synonyms.py",
+        "rasa/nlu/extractors/extractor.py",
+        "rasa/nlu/extractors/mitie_entity_extractor.py",
+        "rasa/nlu/extractors/regex_entity_extractor.py",
+        "rasa/nlu/extractors/spacy_entity_extractor.py",
+        "rasa/nlu/featurizers/__init__.py",
+        "rasa/nlu/featurizers/dense_featurizer/__init__.py",
+        "rasa/nlu/featurizers/dense_featurizer/convert_featurizer.py",
+        "rasa/nlu/featurizers/dense_featurizer/lm_featurizer.py",
+        "rasa/nlu/featurizers/dense_featurizer/mitie_featurizer.py",
+        "rasa/nlu/featurizers/dense_featurizer/spacy_featurizer.py",
+        "rasa/nlu/featurizers/featurizer.py",
+        "rasa/nlu/featurizers/sparse_featurizer/__init__.py",
+        "rasa/nlu/featurizers/sparse_featurizer/count_vectors_featurizer.py",
+        "rasa/nlu/featurizers/sparse_featurizer/lexical_syntactic_featurizer.py",
+        "rasa/nlu/featurizers/sparse_featurizer/ngram_featurizer.py",
+        "rasa/nlu/featurizers/sparse_featurizer/regex_featurizer.py",
+        "rasa/nlu/model.py",
+        "rasa/nlu/persistor.py",
+        "rasa/nlu/registry.py",
+        "rasa/nlu/run.py",
+        "rasa/nlu/selectors/__init__.py",
+        "rasa/nlu/selectors/response_selector.py",
+        "rasa/nlu/test.py",
+        "rasa/nlu/tokenizers/__init__.py",
+        "rasa/nlu/tokenizers/convert_tokenizer.py",
+        "rasa/nlu/tokenizers/jieba_tokenizer.py",
+        "rasa/nlu/tokenizers/lm_tokenizer.py",
+        "rasa/nlu/tokenizers/mitie_tokenizer.py",
+        "rasa/nlu/tokenizers/spacy_tokenizer.py",
+        "rasa/nlu/tokenizers/tokenizer.py",
+        "rasa/nlu/tokenizers/whitespace_tokenizer.py",
+        "rasa/nlu/train.py",
+        "rasa/nlu/training_data/__init__.py",
+        "rasa/nlu/training_data/converters/__init__.py",
+        "rasa/nlu/training_data/converters/nlg_markdown_to_yaml_converter.py",
+        "rasa/nlu/training_data/converters/nlu_markdown_to_yaml_converter.py",
+        "rasa/nlu/utils/__init__.py",
+        "rasa/nlu/utils/bilou_utils.py",
+        "rasa/nlu/utils/hugging_face/__init__.py",
+        "rasa/nlu/utils/hugging_face/hf_transformers.py",
+        "rasa/nlu/utils/hugging_face/registry.py",
+        "rasa/nlu/utils/hugging_face/transformers_pre_post_processors.py",
+        "rasa/nlu/utils/mitie_utils.py",
+        "rasa/nlu/utils/pattern_utils.py",
+        "rasa/nlu/utils/spacy_utils.py",
+        "rasa/server.py",
+        "rasa/shared/__init__.py",
+        "rasa/shared/constants.py",
+        "rasa/shared/core/__init__.py",
+        "rasa/shared/core/constants.py",
+        "rasa/shared/core/conversation.py",
+        "rasa/shared/core/domain.py",
+        "rasa/shared/core/events.py",
+        "rasa/shared/core/generator.py",
+        "rasa/shared/core/slots.py",
+        "rasa/shared/core/trackers.py",
+        "rasa/shared/core/training_data/__init__.py",
+        "rasa/shared/core/training_data/loading.py",
+        "rasa/shared/core/training_data/story_reader/__init__.py",
+        "rasa/shared/core/training_data/story_reader/markdown_story_reader.py",
+        "rasa/shared/core/training_data/story_reader/story_reader.py",
+        "rasa/shared/core/training_data/story_reader/story_step_builder.py",
+        "rasa/shared/core/training_data/story_reader/yaml_story_reader.py",
+        "rasa/shared/core/training_data/story_writer/__init__.py",
+        "rasa/shared/core/training_data/story_writer/markdown_story_writer.py",
+        "rasa/shared/core/training_data/story_writer/story_writer.py",
+        "rasa/shared/core/training_data/story_writer/yaml_story_writer.py",
+        "rasa/shared/core/training_data/structures.py",
+        "rasa/shared/core/training_data/visualization.py",
+        "rasa/shared/data.py",
+        "rasa/shared/exceptions.py",
+        "rasa/shared/importers/__init__.py",
+        "rasa/shared/importers/autoconfig.py",
+        "rasa/shared/importers/importer.py",
+        "rasa/shared/importers/multi_project.py",
+        "rasa/shared/importers/rasa.py",
+        "rasa/shared/importers/utils.py",
+        "rasa/shared/nlu/__init__.py",
+        "rasa/shared/nlu/constants.py",
+        "rasa/shared/nlu/interpreter.py",
+        "rasa/shared/nlu/training_data/__init__.py",
+        "rasa/shared/nlu/training_data/entities_parser.py",
+        "rasa/shared/nlu/training_data/features.py",
+        "rasa/shared/nlu/training_data/formats/__init__.py",
+        "rasa/shared/nlu/training_data/formats/dialogflow.py",
+        "rasa/shared/nlu/training_data/formats/luis.py",
+        "rasa/shared/nlu/training_data/formats/markdown.py",
+        "rasa/shared/nlu/training_data/formats/markdown_nlg.py",
+        "rasa/shared/nlu/training_data/formats/rasa.py",
+        "rasa/shared/nlu/training_data/formats/rasa_yaml.py",
+        "rasa/shared/nlu/training_data/formats/readerwriter.py",
+        "rasa/shared/nlu/training_data/formats/wit.py",
+        "rasa/shared/nlu/training_data/loading.py",
+        "rasa/shared/nlu/training_data/lookup_tables_parser.py",
+        "rasa/shared/nlu/training_data/message.py",
+        "rasa/shared/nlu/training_data/schemas/__init__.py",
+        "rasa/shared/nlu/training_data/schemas/data_schema.py",
+        "rasa/shared/nlu/training_data/synonyms_parser.py",
+        "rasa/shared/nlu/training_data/training_data.py",
+        "rasa/shared/nlu/training_data/util.py",
+        "rasa/shared/utils/__init__.py",
+        "rasa/shared/utils/cli.py",
+        "rasa/shared/utils/common.py",
+        "rasa/shared/utils/io.py",
+        "rasa/shared/utils/pykwalify_extensions.py",
+        "rasa/shared/utils/schemas/__init__.py",
+        "rasa/shared/utils/schemas/events.py",
+        "rasa/shared/utils/validation.py",
+        "rasa/telemetry.py",
+        "rasa/utils/__init__.py",
+        "rasa/utils/common.py",
+        "rasa/utils/converter.py",
+        "rasa/utils/endpoints.py",
+        "rasa/utils/io.py",
+        "rasa/utils/plotting.py",
+        "rasa/utils/tensorflow/__init__.py",
+        "rasa/utils/tensorflow/callback.py",
+        "rasa/utils/tensorflow/constants.py",
+        "rasa/utils/tensorflow/crf.py",
+        "rasa/utils/tensorflow/data_generator.py",
+        "rasa/utils/tensorflow/environment.py",
+        "rasa/utils/tensorflow/exceptions.py",
+        "rasa/utils/tensorflow/layers.py",
+        "rasa/utils/tensorflow/layers_utils.py",
+        "rasa/utils/tensorflow/model_data.py",
+        "rasa/utils/tensorflow/model_data_utils.py",
+        "rasa/utils/tensorflow/models.py",
+        "rasa/utils/tensorflow/rasa_layers.py",
+        "rasa/utils/tensorflow/temp_keras_modules.py",
+        "rasa/utils/tensorflow/transformer.py",
+        "rasa/utils/train_utils.py",
+        "rasa/validator.py",
+        "rasa/version.py"
+    ],
+    "cells": [
+        {
+            "src": 2,
+            "dest": 102,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 2,
+            "dest": 108,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 105,
+            "dest": 36,
+            "values": {
+                "type-use": 3.0
+            }
+        },
+        {
+            "src": 105,
+            "dest": 210,
+            "values": {
+                "type-use": 3.0
+            }
+        },
+        {
+            "src": 105,
+            "dest": 67,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 106,
+            "dest": 241,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 106,
+            "dest": 182,
+            "values": {
+                "type-use": 3.0
+            }
+        },
+        {
+            "src": 106,
+            "dest": 198,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 106,
+            "dest": 229,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 107,
+            "dest": 241,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 107,
+            "dest": 36,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 107,
+            "dest": 229,
+            "values": {
+                "type-use": 4.0
+            }
+        },
+        {
+            "src": 107,
+            "dest": 118,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 107,
+            "dest": 153,
+            "values": {
+                "type-use": 3.0
+            }
+        },
+        {
+            "src": 108,
+            "dest": 204,
+            "values": {
+                "type-use": 3.0
+            }
+        },
+        {
+            "src": 108,
+            "dest": 182,
+            "values": {
+                "type-use": 7.0
+            }
+        },
+        {
+            "src": 108,
+            "dest": 106,
+            "values": {
+                "type-use": 6.0
+            }
+        },
+        {
+            "src": 108,
+            "dest": 198,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 108,
+            "dest": 229,
+            "values": {
+                "type-use": 3.0
+            }
+        },
+        {
+            "src": 108,
+            "dest": 210,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 108,
+            "dest": 36,
+            "values": {
+                "type-use": 1.0
+            }
+        }
+    ]
+}

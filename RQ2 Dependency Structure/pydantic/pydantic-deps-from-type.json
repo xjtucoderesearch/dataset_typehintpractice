@@ -1,0 +1,313 @@
+{
+    "@schemaVersion": 1.0,
+    "name": "pydantic-deps-from-type",
+    "variables": [
+        "pydantic/__init__.py",
+        "pydantic/_hypothesis_plugin.py",
+        "pydantic/annotated_types.py",
+        "pydantic/class_validators.py",
+        "pydantic/color.py",
+        "pydantic/dataclasses.py",
+        "pydantic/datetime_parse.py",
+        "pydantic/decorator.py",
+        "pydantic/env_settings.py",
+        "pydantic/error_wrappers.py",
+        "pydantic/errors.py",
+        "pydantic/fields.py",
+        "pydantic/generics.py",
+        "pydantic/json.py",
+        "pydantic/main.py",
+        "pydantic/mypy.py",
+        "pydantic/networks.py",
+        "pydantic/parse.py",
+        "pydantic/schema.py",
+        "pydantic/tools.py",
+        "pydantic/types.py",
+        "pydantic/typing.py",
+        "pydantic/utils.py",
+        "pydantic/validators.py",
+        "pydantic/version.py"
+    ],
+    "cells": [
+        {
+            "src": 2,
+            "dest": 14,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 14,
+            "values": {
+                "type-use": 16.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 5,
+            "values": {
+                "type-use": 9.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 11,
+            "values": {
+                "type-use": 7.0
+            }
+        },
+        {
+            "src": 5,
+            "dest": 11,
+            "values": {
+                "type-use": 3.0
+            }
+        },
+        {
+            "src": 5,
+            "dest": 9,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 5,
+            "dest": 14,
+            "values": {
+                "type-use": 3.0
+            }
+        },
+        {
+            "src": 7,
+            "dest": 14,
+            "values": {
+                "type-use": 6.0
+            }
+        },
+        {
+            "src": 8,
+            "dest": 14,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 8,
+            "dest": 9,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 8,
+            "dest": 11,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 9,
+            "dest": 14,
+            "values": {
+                "type-use": 8.0
+            }
+        },
+        {
+            "src": 9,
+            "dest": 5,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 11,
+            "dest": 3,
+            "values": {
+                "type-use": 5.0
+            }
+        },
+        {
+            "src": 11,
+            "dest": 14,
+            "values": {
+                "type-use": 35.0
+            }
+        },
+        {
+            "src": 11,
+            "dest": 5,
+            "values": {
+                "type-use": 21.0
+            }
+        },
+        {
+            "src": 11,
+            "dest": 9,
+            "values": {
+                "type-use": 20.0
+            }
+        },
+        {
+            "src": 11,
+            "dest": 10,
+            "values": {
+                "type-use": 7.0
+            }
+        },
+        {
+            "src": 11,
+            "dest": 22,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 12,
+            "dest": 14,
+            "values": {
+                "type-use": 4.0
+            }
+        },
+        {
+            "src": 12,
+            "dest": 11,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 14,
+            "dest": 11,
+            "values": {
+                "type-use": 4.0
+            }
+        },
+        {
+            "src": 14,
+            "dest": 9,
+            "values": {
+                "type-use": 4.0
+            }
+        },
+        {
+            "src": 14,
+            "dest": 17,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 14,
+            "dest": 22,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 14,
+            "dest": 5,
+            "values": {
+                "type-use": 3.0
+            }
+        },
+        {
+            "src": 16,
+            "dest": 11,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 16,
+            "dest": 14,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 18,
+            "dest": 14,
+            "values": {
+                "type-use": 68.0
+            }
+        },
+        {
+            "src": 18,
+            "dest": 5,
+            "values": {
+                "type-use": 5.0
+            }
+        },
+        {
+            "src": 18,
+            "dest": 11,
+            "values": {
+                "type-use": 26.0
+            }
+        },
+        {
+            "src": 19,
+            "dest": 17,
+            "values": {
+                "type-use": 4.0
+            }
+        },
+        {
+            "src": 21,
+            "dest": 11,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 22,
+            "dest": 14,
+            "values": {
+                "type-use": 9.0
+            }
+        },
+        {
+            "src": 22,
+            "dest": 11,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 22,
+            "dest": 5,
+            "values": {
+                "type-use": 3.0
+            }
+        },
+        {
+            "src": 23,
+            "dest": 11,
+            "values": {
+                "type-use": 16.0
+            }
+        },
+        {
+            "src": 23,
+            "dest": 14,
+            "values": {
+                "type-use": 22.0
+            }
+        },
+        {
+            "src": 23,
+            "dest": 2,
+            "values": {
+                "type-use": 4.0
+            }
+        },
+        {
+            "src": 1,
+            "dest": 20,
+            "values": {
+                "type-use": 23.0
+            }
+        }
+    ]
+}

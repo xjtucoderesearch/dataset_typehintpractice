@@ -1,0 +1,553 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "pytest_drh",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L0",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L0/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L0/M0/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L0/M0/L0/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L0/M0/L0/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L0/M0/L0/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L0/M0/L0/M0/L0/M0/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L0/M0/L0/M0",
+                  "nested" : [ {
+                    "@type" : "group",
+                    "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0",
+                    "nested" : [ {
+                      "@type" : "group",
+                      "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0",
+                      "nested" : [ {
+                        "@type" : "group",
+                        "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L0",
+                        "nested" : [ {
+                          "@type" : "group",
+                          "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L0/M0",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "src/_pytest/warnings.py"
+                          } ]
+                        } ]
+                      }, {
+                        "@type" : "group",
+                        "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L1",
+                        "nested" : [ {
+                          "@type" : "group",
+                          "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L1/M0",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "src/_pytest/warning_types.py"
+                          }, {
+                            "@type" : "item",
+                            "name" : "src/_pytest/deprecated.py"
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L1/M1",
+                          "nested" : [ {
+                            "@type" : "group",
+                            "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L1/M1/M0",
+                            "nested" : [ {
+                              "@type" : "item",
+                              "name" : "src/_pytest/_io/wcwidth.py"
+                            } ]
+                          }, {
+                            "@type" : "group",
+                            "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L1/M1/M1",
+                            "nested" : [ {
+                              "@type" : "item",
+                              "name" : "src/_pytest/_io/terminalwriter.py"
+                            } ]
+                          }, {
+                            "@type" : "group",
+                            "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L1/M1/M2",
+                            "nested" : [ {
+                              "@type" : "item",
+                              "name" : "src/_pytest/_io/__init__.py"
+                            } ]
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L1/M2",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "src/_pytest/_io/saferepr.py"
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L1/M3",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "src/_pytest/outcomes.py"
+                          } ]
+                        } ]
+                      }, {
+                        "@type" : "group",
+                        "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/Control",
+                        "nested" : [ {
+                          "@type" : "group",
+                          "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/Control/M2",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "src/_pytest/compat.py"
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/Control/M3",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "src/_pytest/pathlib.py"
+                          } ]
+                        } ]
+                      } ]
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L1",
+                    "nested" : [ {
+                      "@type" : "group",
+                      "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L1/M0",
+                      "nested" : [ {
+                        "@type" : "group",
+                        "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L1/M0/M0",
+                        "nested" : [ {
+                          "@type" : "item",
+                          "name" : "src/_pytest/_code/source.py"
+                        } ]
+                      }, {
+                        "@type" : "group",
+                        "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L1/M0/M1",
+                        "nested" : [ {
+                          "@type" : "item",
+                          "name" : "src/_pytest/_code/code.py"
+                        } ]
+                      }, {
+                        "@type" : "group",
+                        "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L1/M0/M2",
+                        "nested" : [ {
+                          "@type" : "item",
+                          "name" : "src/_pytest/_code/__init__.py"
+                        } ]
+                      } ]
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L2",
+                    "nested" : [ {
+                      "@type" : "group",
+                      "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L2/M0",
+                      "nested" : [ {
+                        "@type" : "group",
+                        "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L2/M0/L0",
+                        "nested" : [ {
+                          "@type" : "group",
+                          "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L2/M0/L0/M0",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "src/_pytest/mark/expression.py"
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L2/M0/L0/M1",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "src/_pytest/store.py"
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L2/M0/L0/M2",
+                          "nested" : [ {
+                            "@type" : "group",
+                            "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L2/M0/L0/M2/L0",
+                            "nested" : [ {
+                              "@type" : "group",
+                              "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L2/M0/L0/M2/L0/M0",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "src/_pytest/_argcomplete.py"
+                              } ]
+                            }, {
+                              "@type" : "group",
+                              "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L2/M0/L0/M2/L0/M1",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "src/_pytest/config/exceptions.py"
+                              } ]
+                            } ]
+                          }, {
+                            "@type" : "group",
+                            "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L2/M0/L0/M2/Control",
+                            "nested" : [ {
+                              "@type" : "item",
+                              "name" : "src/_pytest/config/argparsing.py"
+                            } ]
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L2/M0/L0/M3",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "src/_pytest/mark/structures.py"
+                          } ]
+                        } ]
+                      }, {
+                        "@type" : "group",
+                        "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L2/M0/Control",
+                        "nested" : [ {
+                          "@type" : "item",
+                          "name" : "src/_pytest/mark/__init__.py"
+                        } ]
+                      } ]
+                    }, {
+                      "@type" : "group",
+                      "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L2/M1",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "src/_pytest/config/compat.py"
+                      } ]
+                    }, {
+                      "@type" : "group",
+                      "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L2/M2",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "src/_pytest/reports.py"
+                      } ]
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L0/M0/L0/M0/L0/M0/L0/M0/Control",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "src/_pytest/main.py"
+                    } ]
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L0/M0/L0/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "src/_pytest/timing.py"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L0/M0/L0/M0/L0/M0/Control",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L0/M0/Control/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "src/_pytest/runner.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L0/M0/Control/M2",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "src/_pytest/nodes.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L0/M0/Control/M3",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "src/_pytest/terminal.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L0/M0/Control/M4",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "src/_pytest/fixtures.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L0/M0/Control/M5",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "src/_pytest/python.py"
+                  } ]
+                } ]
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L0/M0/L0/M0/L1",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L0/M0/L0/M0/L1/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "src/_pytest/__init__.py"
+              }, {
+                "@type" : "item",
+                "name" : "src/_pytest/helpconfig.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L0/M0/L0/M0/L1/M1",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L0/M0/L0/M0/L1/M1/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L1/M1/L0/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "src/_pytest/assertion/truncate.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L1/M1/L0/M1",
+                  "nested" : [ {
+                    "@type" : "group",
+                    "name" : "L0/M0/L0/M0/L1/M1/L0/M1/M0",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "src/_pytest/python_api.py"
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L0/M0/L0/M0/L1/M1/L0/M1/M1",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "src/_pytest/assertion/util.py"
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L0/M0/L0/M0/L1/M1/L0/M1/M2",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "src/_pytest/assertion/rewrite.py"
+                    } ]
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L0/M0/L0/M0/L1/M1/Control",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "src/_pytest/assertion/__init__.py"
+                } ]
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L0/M0/L0/M0/L1/M2",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "src/_pytest/config/findpaths.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L0/M0/L0/M0/L1/M3",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "src/_pytest/cacheprovider.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L0/M0/L0/M0/L1/M4",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "src/_pytest/hookspec.py"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L0/M0/L0/M0/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "src/_pytest/config/__init__.py"
+            } ]
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L0/M0/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L0/M0/L1/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "src/_pytest/capture.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L0/M0/L2",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L0/M0/L2/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "src/_pytest/freeze_support.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L0/M0/L2/M1",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L0/M0/L2/M1/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L0/M0/L2/M1/L0/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "src/_pytest/tmpdir.py"
+              }, {
+                "@type" : "item",
+                "name" : "src/_pytest/monkeypatch.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L0/M0/L2/M1/L0/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "src/_pytest/pytester_assertions.py"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L0/M0/L2/M1/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "src/_pytest/pytester.py"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L0/M0/L2/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "src/_pytest/doctest.py"
+          }, {
+            "@type" : "item",
+            "name" : "src/_pytest/debugging.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L0/M0/L2/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "src/pytest/collect.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L0/M0/L2/M4",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "src/_pytest/recwarn.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L0/M0/L2/M5",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "src/_pytest/logging.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L0/M0/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "src/pytest/__init__.py"
+        } ]
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L1/M0",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "src/_pytest/skipping.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "src/_pytest/setuponly.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "src/_pytest/setupplan.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M3",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "src/pytest/__main__.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M4",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "src/_pytest/unraisableexception.py"
+      }, {
+        "@type" : "item",
+        "name" : "src/_pytest/threadexception.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M5",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "src/_pytest/stepwise.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M6",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "src/_pytest/pastebin.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M7",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "src/_pytest/junitxml.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M8",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "src/_pytest/faulthandler.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M9",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "src/_pytest/nose.py"
+      }, {
+        "@type" : "item",
+        "name" : "src/_pytest/unittest.py"
+      } ]
+    } ]
+  } ]
+}

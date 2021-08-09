@@ -1,0 +1,402 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "werkzeug",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L0",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L0/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L0/M0/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L0/M0/L0/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L0/M0/L0/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L0/M0/L0/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L0/M0/L0/M0/L0/M0/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L0/M0/L0/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "werkzeug/wrappers/etag.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L0/M0/L0/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "werkzeug/wrappers/user_agent.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L0/M0/L0/M2",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "werkzeug/wrappers/auth.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L0/M0/L0/M3",
+                  "nested" : [ {
+                    "@type" : "group",
+                    "name" : "L0/M0/L0/M0/L0/M0/L0/M3/L0",
+                    "nested" : [ {
+                      "@type" : "group",
+                      "name" : "L0/M0/L0/M0/L0/M0/L0/M3/L0/M0",
+                      "nested" : [ {
+                        "@type" : "group",
+                        "name" : "L0/M0/L0/M0/L0/M0/L0/M3/L0/M0/L0",
+                        "nested" : [ {
+                          "@type" : "group",
+                          "name" : "L0/M0/L0/M0/L0/M0/L0/M3/L0/M0/L0/M0",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "werkzeug/filesystem.py"
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L0/M0/L0/M0/L0/M0/L0/M3/L0/M0/L0/M1",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "werkzeug/_internal.py"
+                          } ]
+                        } ]
+                      }, {
+                        "@type" : "group",
+                        "name" : "L0/M0/L0/M0/L0/M0/L0/M3/L0/M0/Control",
+                        "nested" : [ {
+                          "@type" : "group",
+                          "name" : "L0/M0/L0/M0/L0/M0/L0/M3/L0/M0/Control/M1",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "werkzeug/datastructures.py"
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L0/M0/L0/M0/L0/M0/L0/M3/L0/M0/Control/M2",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "werkzeug/urls.py"
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L0/M0/L0/M0/L0/M0/L0/M3/L0/M0/Control/M3",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "werkzeug/http.py"
+                          } ]
+                        } ]
+                      } ]
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L0/M0/L0/M0/L0/M0/L0/M3/L1",
+                    "nested" : [ {
+                      "@type" : "group",
+                      "name" : "L0/M0/L0/M0/L0/M0/L0/M3/L1/M0",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "werkzeug/sansio/utils.py"
+                      } ]
+                    }, {
+                      "@type" : "group",
+                      "name" : "L0/M0/L0/M0/L0/M0/L0/M3/L1/M1",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "werkzeug/sansio/response.py"
+                      } ]
+                    }, {
+                      "@type" : "group",
+                      "name" : "L0/M0/L0/M0/L0/M0/L0/M3/L1/M2",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "werkzeug/sansio/__init__.py"
+                      } ]
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L0/M0/L0/M0/L0/M0/L0/M3/Control",
+                    "nested" : [ {
+                      "@type" : "group",
+                      "name" : "L0/M0/L0/M0/L0/M0/L0/M3/Control/M2",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "werkzeug/exceptions.py"
+                      } ]
+                    }, {
+                      "@type" : "group",
+                      "name" : "L0/M0/L0/M0/L0/M0/L0/M3/Control/M3",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "werkzeug/wsgi.py"
+                      } ]
+                    } ]
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L0/M0/L0/M4",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "werkzeug/wrappers/accept.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L0/M0/L0/M5",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "werkzeug/wrappers/common_descriptors.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L0/M0/L0/M6",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "werkzeug/wrappers/base_response.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L0/M0/L0/M7",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "werkzeug/wrappers/base_request.py"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L0/M0/L0/M0/L0/M0/Control",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "werkzeug/wrappers/__init__.py"
+                } ]
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L0/M0/L0/M0/L0/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "werkzeug/security.py"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L0/M0/L0/M0/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "werkzeug/utils.py"
+            } ]
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L0/M0/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L0/M0/L1/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "werkzeug/wrappers/json.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L0/M0/L1/M1",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L0/M0/L1/M1/M0",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "werkzeug/user_agent.py"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L0/M0/L1/M1/M1",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "werkzeug/useragents.py"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L0/M0/L1/M1/M2",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "werkzeug/sansio/request.py"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L0/M0/L1/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "werkzeug/sansio/multipart.py"
+          }, {
+            "@type" : "item",
+            "name" : "werkzeug/formparser.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L0/M0/Control",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L0/M0/Control/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "werkzeug/wrappers/request.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L0/M0/Control/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "werkzeug/wrappers/response.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L0/M0/Control/M4",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "werkzeug/test.py"
+          } ]
+        } ]
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L1/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L1/M0/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L1/M0/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "werkzeug/__init__.py"
+          }, {
+            "@type" : "item",
+            "name" : "werkzeug/testapp.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1/M0/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "werkzeug/middleware/__init__.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1/M0/L0/M2",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L1/M0/L0/M2/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L1/M0/L0/M2/L0/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "werkzeug/debug/repr.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L1/M0/L0/M2/L0/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "werkzeug/debug/__init__.py"
+              }, {
+                "@type" : "item",
+                "name" : "werkzeug/debug/tbtools.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L1/M0/L0/M2/L0/M2",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "werkzeug/local.py"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L1/M0/L0/M2/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "werkzeug/debug/console.py"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1/M0/L0/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "werkzeug/middleware/shared_data.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1/M0/L0/M4",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "werkzeug/_reloader.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1/M0/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "werkzeug/serving.py"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "werkzeug/routing.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "werkzeug/middleware/lint.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M3",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "werkzeug/middleware/http_proxy.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M4",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "werkzeug/middleware/proxy_fix.py"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "Isolated",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "werkzeug/middleware/profiler.py"
+    }, {
+      "@type" : "item",
+      "name" : "werkzeug/middleware/dispatcher.py"
+    }, {
+      "@type" : "item",
+      "name" : "werkzeug/wrappers/cors.py"
+    } ]
+  } ]
+}

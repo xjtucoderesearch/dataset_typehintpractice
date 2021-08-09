@@ -1,0 +1,4699 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "scipy_drh",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L0",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L0/M0",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/_lib/_boost_utils.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/io/arff/arffread.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/signal/_max_len_seq_inner.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/signal/_max_len_seq.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M3",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/io/idl.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M4",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/constants/codata.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/constants/constants.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M5",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/_lib/_testutils.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M6",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/signal/_arraytools.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M7",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L0/M7/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L0/M7/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/fft/_pocketfft/helper.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L0/M7/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L0/M7/L1/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/fft/_pocketfft/realtransforms.py"
+          }, {
+            "@type" : "item",
+            "name" : "scipy/fft/_pocketfft/basic.py"
+          } ]
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M8",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/_lsap.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M9",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/_lib/doccer.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M10",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/special/_precompute/__init__.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M11",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/linesearch.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M12",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/_lib/_bunch.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M13",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/spatial/transform/setup.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M14",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/special/sf_error.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M15",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/integrate/odepack.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M16",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/signal/waveforms.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M17",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/io/matlab/byteordercodes.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M18",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/special/_testutils.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M19",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/io/wavfile.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M20",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/_lib/_gcutils.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M21",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/special/_lambertw.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M22",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/_nnls.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M23",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/_trlib/__init__.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M24",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/io/_fortran.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M25",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/ndimage/tests/__init__.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M26",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/special/_spherical_bessel.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M27",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/special/spfun_stats.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M28",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/_lib/_ccallback.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M29",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/_lib/decorator.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M30",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/_lib/_tmpdirs.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M31",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/special/_precompute/utils.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M32",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/linalg/_testutils.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M33",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/stats/_binned_statistic.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M34",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/io/netcdf.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M35",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/integrate/_ode.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M36",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/io/harwell_boeing/_fortran_format_parser.py"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L1/M0",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/special/_mptestutils.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/_lib/__init__.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/_lib/_threadsafety.py"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L2/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L2/M0/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L2/M0/L0/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L2/M0/L0/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L2/M0/L0/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L2/M0/L0/M0/L0/M0/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L2/M0/L0/M0/L0/M0/L0/M0",
+                  "nested" : [ {
+                    "@type" : "group",
+                    "name" : "L2/M0/L0/M0/L0/M0/L0/M0/M0",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "scipy/_lib/_util.py"
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L2/M0/L0/M0/L0/M0/L0/M0/M1",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "scipy/sparse/sputils.py"
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L2/M0/L0/M0/L0/M0/L0/M0/M2",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "scipy/sparse/csc.py"
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L2/M0/L0/M0/L0/M0/L0/M0/M3",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "scipy/sparse/base.py"
+                    } ]
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L2/M0/L0/M0/L0/M0/L1",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L2/M0/L0/M0/L0/M0/L1/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "scipy/sparse/lil.py"
+                  }, {
+                    "@type" : "item",
+                    "name" : "scipy/sparse/_index.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L2/M0/L0/M0/L0/M0/L1/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "scipy/sparse/data.py"
+                  }, {
+                    "@type" : "item",
+                    "name" : "scipy/sparse/bsr.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L2/M0/L0/M0/L0/M0/L1/M2",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "scipy/sparse/spfuncs.py"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L2/M0/L0/M0/L0/M0/Control",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "scipy/sparse/csr.py"
+                } ]
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L2/M0/L0/M0/L1",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L2/M0/L0/M0/L1/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "scipy/sparse/dok.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L2/M0/L0/M0/L1/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "scipy/sparse/dia.py"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L2/M0/L0/M0/Control",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L2/M0/L0/M0/Control/M2",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "scipy/sparse/coo.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L2/M0/L0/M0/Control/M3",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "scipy/sparse/compressed.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L2/M0/L0/M0/Control/M4",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "scipy/sparse/construct.py"
+              } ]
+            } ]
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L2/M0/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L2/M0/L1/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/sparse/extract.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L2/M0/L1/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/sparse/csgraph/__init__.py"
+          }, {
+            "@type" : "item",
+            "name" : "scipy/sparse/csgraph/_laplacian.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L2/M0/L1/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/sparse/_matrix_io.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L2/M0/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "scipy/sparse/__init__.py"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L2/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/ndimage/_ni_docstrings.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L2/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/ndimage/_ni_support.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L2/M3",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/misc/doccer.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L2/M4",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/constants/__init__.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L2/M5",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/io/matlab/miobase.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L2/M6",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/spatial/_plotutils.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L2/M7",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/_lib/_pep440.py"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L3",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L3/M0",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/linalg/blas.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/linalg/lapack.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M1",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L3/M1/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L3/M1/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/_build_utils/system_info.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L3/M1/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/_build_utils/compiler_helper.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L3/M1/Control",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L3/M1/Control/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/_build_utils/_fortran.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L3/M1/Control/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/_build_utils/__init__.py"
+          } ]
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M2",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L3/M2/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L3/M2/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/io/matlab/__init__.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L3/M2/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L3/M2/L1/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/io/matlab/mio5_params.py"
+          }, {
+            "@type" : "item",
+            "name" : "scipy/io/matlab/mio5.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L3/M2/L1/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/io/matlab/mio4.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L3/M2/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "scipy/io/matlab/mio.py"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M3",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/io/harwell_boeing/hb.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M4",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/integrate/_quad_vec.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/special/_logsumexp.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/stats/tests/common_tests.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M5",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/ndimage/filters.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M6",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/_trustregion_constr/canonical_constraint.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M7",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/io/mmio.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M8",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/sparse/linalg/interface.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M9",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/sparse/linalg/_norm.py"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L4",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L4/M0",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/integrate/quadpack.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/integrate/setup.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L4/M1",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L4/M1/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "scipy/setup.py"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L4/M1/M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "scipy/optimize/zeros.py"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L4/M1/M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "scipy/optimize/_root_scalar.py"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L4/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/ndimage/measurements.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/ndimage/morphology.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L4/M3",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/io/harwell_boeing/__init__.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/io/__init__.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L4/M4",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/spatial/setup.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L4/M5",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/linalg/misc.py"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L5",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L5/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L5/M0/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L5/M0/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/_lib/deprecation.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L5/M0/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/_distributor_init.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L5/M0/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "scipy/__init__.py"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L5/M0/M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "scipy/linalg/decomp_cholesky.py"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/spatial/kdtree.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L5/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/linalg/decomp.py"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L6",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L6/M0",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/linalg/decomp_svd.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/linalg/_decomp_polar.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L6/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/linalg/_decomp_ldl.py"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L7",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L7/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L7/M0/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L7/M0/L0/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L7/M0/L0/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L7/M0/L0/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L7/M0/L0/M0/L0/M0/M0",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "scipy/special/orthogonal.py"
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L7/M0/L0/M0/L0/M0/M1",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "scipy/special/_basic.py"
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L7/M0/L0/M0/L0/M0/M2",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "scipy/linalg/special_matrices.py"
+                } ]
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L7/M0/L0/M0/L0/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "scipy/special/_ellip_harm.py"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L7/M0/L0/M0/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "scipy/special/__init__.py"
+            } ]
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L7/M0/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L7/M0/L1/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L7/M0/L1/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L7/M0/L1/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "scipy/linalg/flinalg.py"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L7/M0/L1/M0/L1",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L7/M0/L1/M0/L1/M0",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L7/M0/L1/M0/L1/M0/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L7/M0/L1/M0/L1/M0/L0/M0",
+                  "nested" : [ {
+                    "@type" : "group",
+                    "name" : "L7/M0/L1/M0/L1/M0/L0/M0/M0",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "scipy/_lib/_uarray/_backend.py"
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L7/M0/L1/M0/L1/M0/L0/M0/M1",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "scipy/_lib/_uarray/__init__.py"
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L7/M0/L1/M0/L1/M0/L0/M0/M2",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "scipy/_lib/uarray.py"
+                    } ]
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L7/M0/L1/M0/L1/M0/L0/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "scipy/fft/_pocketfft/__init__.py"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L7/M0/L1/M0/L1/M0/L1",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L7/M0/L1/M0/L1/M0/L1/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "scipy/fft/_basic.py"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L7/M0/L1/M0/L1/M0/L2",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L7/M0/L1/M0/L1/M0/L2/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "scipy/linalg/basic.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L7/M0/L1/M0/L1/M0/L2/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "scipy/fft/_fftlog.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L7/M0/L1/M0/L1/M0/L2/M2",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "scipy/fft/_realtransforms.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L7/M0/L1/M0/L1/M0/L2/M3",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "scipy/fft/_helper.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L7/M0/L1/M0/L1/M0/L2/M4",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "scipy/fft/_backend.py"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L7/M0/L1/M0/L1/M0/Control",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "scipy/fft/__init__.py"
+                } ]
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L7/M0/L1/M0/L1/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "scipy/linalg/decomp_lu.py"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L7/M0/L1/M0/M2",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "scipy/linalg/decomp_qr.py"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L7/M0/L1/M0/M3",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "scipy/linalg/decomp_schur.py"
+            } ]
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L7/M0/L2",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L7/M0/L2/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L7/M0/L2/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L7/M0/L2/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "scipy/sparse/linalg/isolve/utils.py"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L7/M0/L2/M0/L1",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L7/M0/L2/M0/L1/M0",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L7/M0/L2/M0/L1/M0/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L7/M0/L2/M0/L1/M0/L0/M0",
+                  "nested" : [ {
+                    "@type" : "group",
+                    "name" : "L7/M0/L2/M0/L1/M0/L0/M0/L0",
+                    "nested" : [ {
+                      "@type" : "group",
+                      "name" : "L7/M0/L2/M0/L1/M0/L0/M0/L0/M0",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "scipy/sparse/linalg/eigen/arpack/setup.py"
+                      } ]
+                    }, {
+                      "@type" : "group",
+                      "name" : "L7/M0/L2/M0/L1/M0/L0/M0/L0/M1",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "scipy/sparse/linalg/eigen/lobpcg/__init__.py"
+                      }, {
+                        "@type" : "item",
+                        "name" : "scipy/sparse/linalg/eigen/lobpcg/lobpcg.py"
+                      } ]
+                    }, {
+                      "@type" : "group",
+                      "name" : "L7/M0/L2/M0/L1/M0/L0/M0/L0/M2",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "scipy/sparse/linalg/eigen/arpack/__init__.py"
+                      } ]
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L7/M0/L2/M0/L1/M0/L0/M0/Control",
+                    "nested" : [ {
+                      "@type" : "group",
+                      "name" : "L7/M0/L2/M0/L1/M0/L0/M0/Control/M1",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "scipy/sparse/linalg/eigen/arpack/arpack.py"
+                      } ]
+                    }, {
+                      "@type" : "group",
+                      "name" : "L7/M0/L2/M0/L1/M0/L0/M0/Control/M2",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "scipy/sparse/linalg/eigen/_svds.py"
+                      } ]
+                    }, {
+                      "@type" : "group",
+                      "name" : "L7/M0/L2/M0/L1/M0/L0/M0/Control/M3",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "scipy/sparse/linalg/eigen/__init__.py"
+                      } ]
+                    } ]
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L7/M0/L2/M0/L1/M0/L0/M1",
+                  "nested" : [ {
+                    "@type" : "group",
+                    "name" : "L7/M0/L2/M0/L1/M0/L0/M1/L0",
+                    "nested" : [ {
+                      "@type" : "group",
+                      "name" : "L7/M0/L2/M0/L1/M0/L0/M1/L0/M0",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "scipy/sparse/linalg/dsolve/_add_newdocs.py"
+                      } ]
+                    }, {
+                      "@type" : "group",
+                      "name" : "L7/M0/L2/M0/L1/M0/L0/M1/L0/M1",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "scipy/sparse/linalg/dsolve/linsolve.py"
+                      } ]
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L7/M0/L2/M0/L1/M0/L0/M1/Control",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "scipy/sparse/linalg/dsolve/__init__.py"
+                    } ]
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L7/M0/L2/M0/L1/M0/L0/M2",
+                  "nested" : [ {
+                    "@type" : "group",
+                    "name" : "L7/M0/L2/M0/L1/M0/L0/M2/L0",
+                    "nested" : [ {
+                      "@type" : "group",
+                      "name" : "L7/M0/L2/M0/L1/M0/L0/M2/L0/M0",
+                      "nested" : [ {
+                        "@type" : "group",
+                        "name" : "L7/M0/L2/M0/L1/M0/L0/M2/L0/M0/L0",
+                        "nested" : [ {
+                          "@type" : "group",
+                          "name" : "L7/M0/L2/M0/L1/M0/L0/M2/L0/M0/L0/M0",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "scipy/linalg/_matfuncs_sqrtm.py"
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L7/M0/L2/M0/L1/M0/L0/M2/L0/M0/L0/M1",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "scipy/linalg/_expm_frechet.py"
+                          } ]
+                        } ]
+                      }, {
+                        "@type" : "group",
+                        "name" : "L7/M0/L2/M0/L1/M0/L0/M2/L0/M0/Control",
+                        "nested" : [ {
+                          "@type" : "item",
+                          "name" : "scipy/linalg/matfuncs.py"
+                        } ]
+                      } ]
+                    }, {
+                      "@type" : "group",
+                      "name" : "L7/M0/L2/M0/L1/M0/L0/M2/L0/M1",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "scipy/sparse/linalg/_onenormest.py"
+                      } ]
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L7/M0/L2/M0/L1/M0/L0/M2/Control",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "scipy/linalg/_matfuncs_inv_ssq.py"
+                    } ]
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L7/M0/L2/M0/L1/M0/L0/M3",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "scipy/sparse/linalg/matfuncs.py"
+                  }, {
+                    "@type" : "item",
+                    "name" : "scipy/sparse/linalg/_expm_multiply.py"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L7/M0/L2/M0/L1/M0/Control",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "scipy/sparse/linalg/__init__.py"
+                } ]
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L7/M0/L2/M0/L1/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "scipy/sparse/linalg/isolve/lgmres.py"
+              }, {
+                "@type" : "item",
+                "name" : "scipy/sparse/linalg/isolve/_gcrotmk.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L7/M0/L2/M0/L1/M2",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "scipy/sparse/linalg/isolve/lsqr.py"
+              }, {
+                "@type" : "item",
+                "name" : "scipy/sparse/linalg/isolve/lsmr.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L7/M0/L2/M0/L1/M3",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "scipy/sparse/linalg/isolve/iterative.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L7/M0/L2/M0/L1/M4",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "scipy/sparse/linalg/isolve/minres.py"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L7/M0/L2/M0/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "scipy/sparse/linalg/isolve/__init__.py"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L7/M0/L2/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/linalg/_decomp_qz.py"
+          }, {
+            "@type" : "item",
+            "name" : "scipy/linalg/_solvers.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L7/M0/L2/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/linalg/_sketches.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L7/M0/L2/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/linalg/_procrustes.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L7/M0/L2/M4",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/linalg/_decomp_cossin.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L7/M0/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "scipy/linalg/__init__.py"
+        } ]
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L8",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L8/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M0/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "scipy/interpolate/_fitpack_impl.py"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M0/M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "scipy/interpolate/_bsplines.py"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M0/M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "scipy/interpolate/fitpack.py"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/linalg/_interpolative_backend.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/linalg/interpolative.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/_group_columns.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/optimize/_numdiff.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M3",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L8/M3/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "scipy/odr/setup.py"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M3/M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "scipy/odr/odrpack.py"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L8/M3/M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "scipy/odr/models.py"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M4",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/interpolate/_pade.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/misc/common.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M5",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/integrate/_quadrature.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M6",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/spatial/_procrustes.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M7",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/stats/_tukeylambda_stats.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M8",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/stats/kde.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M9",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/fftpack/pseudo_diffs.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/fftpack/helper.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M10",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/_hessian_update_strategy.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M11",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/spatial/distance.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M12",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/_trustregion_constr/projections.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M13",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/signal/bsplines.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M14",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/ndimage/interpolation.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L8/M15",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/_trustregion_constr/qp_subproblem.py"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L9",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L9/M0",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/ndimage/__init__.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/ndimage/fourier.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L9/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/spatial/_geometric_slerp.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L9/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/fftpack/basic.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/fftpack/realtransforms.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L9/M3",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/_differentiable_functions.py"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L10",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L10/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L10/M0/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L10/M0/L0/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L10/M0/L0/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L10/M0/L0/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "scipy/interpolate/fitpack2.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L10/M0/L0/M0/L0/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "scipy/interpolate/polyint.py"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L10/M0/L0/M0/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "scipy/interpolate/interpolate.py"
+            } ]
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L10/M0/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L10/M0/L1/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L10/M0/L1/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L10/M0/L1/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "scipy/spatial/_spherical_voronoi.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L10/M0/L1/M0/L0/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "scipy/spatial/transform/__init__.py"
+              }, {
+                "@type" : "item",
+                "name" : "scipy/spatial/transform/_rotation_spline.py"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L10/M0/L1/M0/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "scipy/spatial/__init__.py"
+            } ]
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L10/M0/L2",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L10/M0/L2/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/interpolate/_rbfinterp.py"
+          }, {
+            "@type" : "item",
+            "name" : "scipy/interpolate/_rbfinterp_pythran.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L10/M0/L2/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/interpolate/_cubic.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L10/M0/L2/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/interpolate/ndgriddata.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L10/M0/L2/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/interpolate/rbf.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L10/M0/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "scipy/interpolate/__init__.py"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L10/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/signal/_savitzky_golay.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L10/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/optimize.py"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L11",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L11/M0",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/cluster/hierarchy.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/_lib/_disjoint_set.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L11/M1",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L11/M1/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L11/M1/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/optimize/_lsq/common.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L11/M1/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L11/M1/L1/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/optimize/_lsq/bvls.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L11/M1/L1/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/optimize/_lsq/trf_linear.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L11/M1/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "scipy/optimize/_lsq/lsq_linear.py"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L11/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/_trustregion_exact.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/optimize/_trustregion.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L11/M3",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/_remove_redundancy.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/optimize/_linprog_util.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L11/M4",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/cluster/vq.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L11/M5",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/_basinhopping.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L11/M6",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/_qap.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L11/M7",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/_constraints.py"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L12",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L12/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L12/M0/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L12/M0/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/optimize/_linprog_ip.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L12/M0/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/optimize/_linprog_rs.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L12/M0/L0/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/optimize/_linprog_doc.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L12/M0/L0/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/optimize/_linprog_highs.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L12/M0/L0/M4",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/optimize/_linprog_simplex.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L12/M0/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "scipy/optimize/_linprog.py"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L12/M1",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L12/M1/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L12/M1/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/optimize/_lsq/dogbox.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L12/M1/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/optimize/_lsq/__init__.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L12/M1/L0/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/optimize/_lsq/trf.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L12/M1/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "scipy/optimize/_lsq/least_squares.py"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L12/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/tnc.py"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L13",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L13/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L13/M0/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L13/M0/L0/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L13/M0/L0/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L13/M0/L0/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "scipy/optimize/_trustregion_constr/equality_constrained_sqp.py"
+              }, {
+                "@type" : "item",
+                "name" : "scipy/optimize/_trustregion_constr/tr_interior_point.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L13/M0/L0/M0/L0/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "scipy/optimize/_trustregion_constr/__init__.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L13/M0/L0/M0/L0/M2",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "scipy/optimize/_trustregion_constr/report.py"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L13/M0/L0/M0/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "scipy/optimize/_trustregion_constr/minimize_trustregion_constr.py"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L13/M0/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/optimize/slsqp.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L13/M0/L0/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/optimize/lbfgsb.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L13/M0/L0/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/optimize/cobyla.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L13/M0/L0/M4",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/optimize/_trustregion_ncg.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L13/M0/L0/M5",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/optimize/_trustregion_krylov.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L13/M0/L0/M6",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/optimize/_trustregion_dogleg.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L13/M0/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "scipy/optimize/_minimize.py"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L13/M1",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L13/M1/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L13/M1/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/optimize/nonlin.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L13/M1/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/optimize/_spectral.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L13/M1/L0/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/optimize/minpack.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L13/M1/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "scipy/optimize/_root.py"
+        } ]
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L14",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L14/M0",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/_dual_annealing.py"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L15",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L15/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L15/M0/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L15/M0/L0/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L15/M0/L0/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L15/M0/L0/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L15/M0/L0/M0/L0/M0/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L15/M0/L0/M0/L0/M0/L0/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "scipy/stats/_qmc.py"
+                  }, {
+                    "@type" : "item",
+                    "name" : "scipy/stats/qmc.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L15/M0/L0/M0/L0/M0/L0/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "scipy/misc/__init__.py"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L15/M0/L0/M0/L0/M0/L1",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L15/M0/L0/M0/L0/M0/L1/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "scipy/stats/_rvs_sampling.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L15/M0/L0/M0/L0/M0/L1/M1",
+                  "nested" : [ {
+                    "@type" : "group",
+                    "name" : "L15/M0/L0/M0/L0/M0/L1/M1/L0",
+                    "nested" : [ {
+                      "@type" : "group",
+                      "name" : "L15/M0/L0/M0/L0/M0/L1/M1/L0/M0",
+                      "nested" : [ {
+                        "@type" : "group",
+                        "name" : "L15/M0/L0/M0/L0/M0/L1/M1/L0/M0/L0",
+                        "nested" : [ {
+                          "@type" : "group",
+                          "name" : "L15/M0/L0/M0/L0/M0/L1/M1/L0/M0/L0/M0",
+                          "nested" : [ {
+                            "@type" : "group",
+                            "name" : "L15/M0/L0/M0/L0/M0/L1/M1/L0/M0/L0/M0/L0",
+                            "nested" : [ {
+                              "@type" : "group",
+                              "name" : "L15/M0/L0/M0/L0/M0/L1/M1/L0/M0/L0/M0/L0/M0",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "scipy/optimize/_shgo_lib/__init__.py"
+                              } ]
+                            }, {
+                              "@type" : "group",
+                              "name" : "L15/M0/L0/M0/L0/M0/L1/M1/L0/M0/L0/M0/L0/M1",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "scipy/optimize/_shgo_lib/triangulation.py"
+                              } ]
+                            } ]
+                          }, {
+                            "@type" : "group",
+                            "name" : "L15/M0/L0/M0/L0/M0/L1/M1/L0/M0/L0/M0/Control",
+                            "nested" : [ {
+                              "@type" : "item",
+                              "name" : "scipy/optimize/_shgo.py"
+                            } ]
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L15/M0/L0/M0/L0/M0/L1/M1/L0/M0/L0/M1",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "scipy/optimize/_differentialevolution.py"
+                          } ]
+                        } ]
+                      }, {
+                        "@type" : "group",
+                        "name" : "L15/M0/L0/M0/L0/M0/L1/M1/L0/M0/Control",
+                        "nested" : [ {
+                          "@type" : "item",
+                          "name" : "scipy/optimize/__init__.py"
+                        } ]
+                      } ]
+                    }, {
+                      "@type" : "group",
+                      "name" : "L15/M0/L0/M0/L0/M0/L1/M1/L0/M1",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "scipy/stats/_distr_params.py"
+                      } ]
+                    }, {
+                      "@type" : "group",
+                      "name" : "L15/M0/L0/M0/L0/M0/L1/M1/L0/M2",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "scipy/stats/_constants.py"
+                      } ]
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L15/M0/L0/M0/L0/M0/L1/M1/Control",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "scipy/stats/_distn_infrastructure.py"
+                    } ]
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L15/M0/L0/M0/L0/M0/L1/M2",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "scipy/stats/_boost/__init__.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L15/M0/L0/M0/L0/M0/L1/M3",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "scipy/stats/_ksstats.py"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L15/M0/L0/M0/L0/M0/Control",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "scipy/stats/_continuous_distns.py"
+                } ]
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L15/M0/L0/M0/L1",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L15/M0/L0/M0/L1/M0",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L15/M0/L0/M0/L1/M0/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L15/M0/L0/M0/L1/M0/L0/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "scipy/integrate/_ivp/common.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L15/M0/L0/M0/L1/M0/L0/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "scipy/integrate/_ivp/base.py"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L15/M0/L0/M0/L1/M0/L1",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L15/M0/L0/M0/L1/M0/L1/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "scipy/integrate/_ivp/lsoda.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L15/M0/L0/M0/L1/M0/L1/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "scipy/integrate/_ivp/radau.py"
+                  }, {
+                    "@type" : "item",
+                    "name" : "scipy/integrate/_ivp/bdf.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L15/M0/L0/M0/L1/M0/L1/M2",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "scipy/integrate/_ivp/dop853_coefficients.py"
+                  }, {
+                    "@type" : "item",
+                    "name" : "scipy/integrate/_ivp/rk.py"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L15/M0/L0/M0/L1/M0/Control",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L15/M0/L0/M0/L1/M0/Control/M2",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "scipy/integrate/_ivp/ivp.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L15/M0/L0/M0/L1/M0/Control/M3",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "scipy/integrate/_ivp/__init__.py"
+                  } ]
+                } ]
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L15/M0/L0/M0/L1/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "scipy/integrate/_bvp.py"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L15/M0/L0/M0/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "scipy/integrate/__init__.py"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L15/M0/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/stats/_common.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L15/M0/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L15/M0/L1/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/stats/_discrete_distns.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L15/M0/L2",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L15/M0/L2/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L15/M0/L2/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L15/M0/L2/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "scipy/stats/_wilcoxon_data.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L15/M0/L2/M0/L0/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "scipy/stats/_hypotests_pythran.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L15/M0/L2/M0/L0/M2",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L15/M0/L2/M0/L0/M2/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L15/M0/L2/M0/L0/M2/L0/M0",
+                  "nested" : [ {
+                    "@type" : "group",
+                    "name" : "L15/M0/L2/M0/L0/M2/L0/M0/M0",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "scipy/stats/_entropy.py"
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L15/M0/L2/M0/L0/M2/L0/M0/M1",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "scipy/stats/distributions.py"
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L15/M0/L2/M0/L0/M2/L0/M0/M2",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "scipy/stats/stats.py"
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L15/M0/L2/M0/L0/M2/L0/M0/M3",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "scipy/stats/_stats_mstats_common.py"
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L15/M0/L2/M0/L0/M2/L0/M0/M4",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "scipy/stats/mstats_basic.py"
+                    } ]
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L15/M0/L2/M0/L0/M2/L0/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "scipy/stats/_relative_risk.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L15/M0/L2/M0/L0/M2/L0/M2",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "scipy/stats/_crosstab.py"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L15/M0/L2/M0/L0/M2/Control",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "scipy/stats/contingency.py"
+                } ]
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L15/M0/L2/M0/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "scipy/stats/_hypotests.py"
+            } ]
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L15/M0/L3",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L15/M0/L3/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/stats/_mannwhitneyu.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L15/M0/L3/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/stats/mstats.py"
+          }, {
+            "@type" : "item",
+            "name" : "scipy/stats/mstats_extras.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L15/M0/L3/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/stats/_page_trend_test.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L15/M0/L3/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/stats/_multivariate.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L15/M0/L3/M4",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/stats/morestats.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L15/M0/L3/M5",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/stats/_binomtest.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L15/M0/L3/M6",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/stats/_bootstrap.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L15/M0/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "scipy/stats/__init__.py"
+        } ]
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L16",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L16/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L16/M0/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "scipy/signal/filter_design.py"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L16/M0/M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "scipy/signal/lti_conversion.py"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L16/M0/M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "scipy/signal/ltisys.py"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L16/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/stats/tests/test_continuous_basic.py"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L17",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L17/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L17/M0/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L17/M0/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/signal/windows/windows.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L17/M0/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L17/M0/L1/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/signal/_upfirdn.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L17/M0/L1/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/signal/windows/__init__.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L17/M0/L1/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/signal/fir_filter_design.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L17/M0/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "scipy/signal/signaltools.py"
+        } ]
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L18",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L18/M0",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/signal/spectral.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/signal/_spectral.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L18/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/signal/wavelets.py"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L19",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L19/M0",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/signal/_peak_finding.py"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L20",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L20/M0",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/fft/tests/test_backend.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/fft/tests/mock_backend.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/special/utils/convert.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/special/utils/datafunc.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M2",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L20/M2/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L20/M2/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/stats/_boost/include/_info.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L20/M2/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/stats/_boost/include/gen_func_defs_pxd.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L20/M2/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "scipy/stats/_boost/include/code_gen.py"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M3",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/tests/test_cython_optimize.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/optimize/cython_optimize/__init__.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M4",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/cluster/tests/test_hierarchy.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/cluster/tests/hierarchy_test_data.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M5",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/signal/tests/__init__.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/signal/tests/test_cont2discrete.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M6",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/stats/_generate_pyx.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/stats/setup.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M7",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/special/tests/test_precompute_expn_asy.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/special/_precompute/expn_asy.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M8",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L20/M8/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L20/M8/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/sparse/csgraph/tests/__init__.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L20/M8/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/sparse/csgraph/tests/test_matching.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L20/M8/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "scipy/optimize/tests/test_linear_assignment.py"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M9",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/signal/setup.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/_build_utils/tempita.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M10",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/odr/__init__.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/odr/_add_newdocs.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M11",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/sparse/linalg/isolve/tests/test_lsmr.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/sparse/linalg/isolve/tests/test_lsqr.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M12",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/interpolate/tests/__init__.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/interpolate/tests/test_fitpack2.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M13",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/signal/tests/test_filter_design.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/signal/tests/mpsig.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M14",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/io/matlab/tests/test_mio5_utils.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/io/matlab/tests/__init__.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M15",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/fftpack/tests/test_helper.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/fftpack/tests/test_basic.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M16",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L20/M16/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L20/M16/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/special/_precompute/gammainc_asy.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L20/M16/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "scipy/special/_precompute/gammainc_data.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L20/M16/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "scipy/special/tests/test_precompute_gammainc.py"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M17",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/tests/test_constraint_conversion.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/optimize/tests/test_minimize_constrained.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M18",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/fftpack/__init__.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/fft/tests/test_real_transforms.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M19",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/stats/tests/test_discrete_basic.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/stats/tests/test_distributions.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M20",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/fft/_pocketfft/tests/test_real_transforms.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/fft/_pocketfft/tests/test_basic.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M21",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/sparse/linalg/isolve/tests/test_minres.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/sparse/linalg/isolve/tests/test_iterative.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M22",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/tests/test_linprog.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/optimize/tests/test__remove_redundancy.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M23",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/tests/test_zeros.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/optimize/_tstutils.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M24",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/tests/test_minpack.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/optimize/tests/test_nonlin.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M25",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/linalg/tests/test_solve_toeplitz.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/linalg/tests/test_matmul_toeplitz.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M26",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/sparse/linalg/tests/test_onenormest.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M27",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/special/basic.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/special/tests/test_zeta.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M28",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/io/arff/tests/test_arffread.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M29",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/tests/test_least_squares.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M30",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/signal/tests/test_max_len_seq.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M31",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/linalg/tests/test_cython_lapack.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M32",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/linalg/tests/test_blas.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M33",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/tests/test__shgo.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M34",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/stats/tests/test_qmc.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M35",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/stats/_result_classes.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M36",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/stats/tests/test_mstats_extras.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M37",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/stats/tests/test_entropy.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M38",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/stats/tests/test_crosstab.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M39",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/stats/tests/test_rank.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M40",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/stats/tests/test_relative_risk.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M41",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/special/tests/test_orthogonal.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M42",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/stats/tests/test_contingency.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M43",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/io/tests/test_idl.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M44",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/special/tests/test_precompute_utils.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M45",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/constants/tests/test_constants.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M46",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/constants/tests/test_codata.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M47",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/_lib/tests/test__testutils.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M48",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/sparse/csgraph/tests/test_flow.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M49",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/sparse/csgraph/_validation.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M50",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/sparse/csgraph/tests/test_graph_laplacian.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M51",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/sparse/csgraph/tests/test_spanning_tree.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/sparse/csgraph/tests/test_conversions.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/sparse/tests/test_csr.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M52",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/sparse/tests/test_csc.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/sparse/csgraph/tests/test_shortest_path.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M53",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/sparse/tests/test_spfuncs.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M54",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/sparse/tests/test_sputils.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M55",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/sparse/tests/test_extract.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M56",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/sparse/tests/test_matrix_io.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M57",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/sparse/csgraph/tests/test_reordering.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M58",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/_lib/tests/test__util.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M59",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/linalg/tests/test_solvers.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M60",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/sparse/linalg/tests/test_expm_multiply.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M61",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/sparse/linalg/tests/test_pydata_sparse.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M62",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/signal/tests/test_array_tools.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M63",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/_lib/tests/test__pep440.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M64",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/special/tests/test_mpmath.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M65",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/sparse/linalg/isolve/setup.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/linalg/setup.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M66",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/sparse/linalg/dsolve/setup.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/optimize/_trlib/setup.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M67",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/ndimage/setup.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M68",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/special/setup.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M69",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/sparse/setup.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/_lib/_uarray/setup.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/fft/_pocketfft/setup.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/optimize/_highs/setup.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M70",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/interpolate/setup.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M71",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/setup.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M72",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/ndimage/utils/generate_label_testvectors.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M73",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/_lib/setup.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M74",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/spatial/transform/tests/test_rotation_groups.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M75",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/cluster/tests/test_disjoint_set.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M76",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/conftest.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M77",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/tests/test_linesearch.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M78",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/io/arff/__init__.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M79",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/linalg/tests/test_interpolative.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M80",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/_lib/tests/test_bunch.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M81",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/tests/test_optimize.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M82",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/stats/_boost/setup.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M83",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/interpolate/tests/test_regression.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M84",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/special/tests/test_sf_error.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M85",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/integrate/tests/test_odeint_jac.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M86",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/interpolate/tests/test_interpnd.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M87",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/stats/tests/test_bootstrap.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M88",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/signal/tests/test_waveforms.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M89",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/spatial/transform/tests/test_rotation.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M90",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/sparse/tests/test_sparsetools.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M91",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/sparse/tests/test_construct.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M92",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/io/matlab/tests/test_byteordercodes.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M93",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/special/tests/test_wrightomega.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/special/tests/test_loggamma.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/special/tests/test_ndtri_exp.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/special/tests/test_spence.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/special/tests/test_sici.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/special/tests/test_kolmogorov.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/special/tests/test_faddeeva.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/special/tests/test_gammainc.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M94",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/special/tests/test_digamma.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M95",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/special/tests/test_orthogonal_eval.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M96",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/io/tests/test_wavfile.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M97",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/interpolate/tests/test_polyint.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M98",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/_lib/tests/test__gcutils.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M99",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/io/matlab/tests/test_mio.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M100",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/tests/test_nnls.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M101",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/signal/tests/test_signaltools.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M102",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/tests/test_trustregion_krylov.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M103",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/io/tests/test_fortran.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M104",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/ndimage/tests/test_morphology.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M105",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/linalg/tests/test_misc.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M106",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/linalg/tests/test_lapack.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M107",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/linalg/tests/test_special_matrices.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M108",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/special/tests/test_logsumexp.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/special/tests/test_log_softmax.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M109",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/special/tests/test_cython_special.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M110",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/special/tests/test_spfun_stats.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M111",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/fft/tests/test_numpy.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M112",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/fft/tests/test_fftlog.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M113",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/fft/tests/test_fft_function.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M114",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/fft/tests/test_helper.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M115",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/_lib/tests/test_ccallback.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M116",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/_lib/tests/test__threadsafety.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M117",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/linalg/tests/test_decomp_ldl.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M118",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/spatial/tests/test_distance.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M119",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/integrate/_ivp/tests/test_rk.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M120",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/_lib/tests/test_tmpdirs.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M121",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/spatial/tests/test_spherical_voronoi.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M122",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/special/tests/test_ellip_harm.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M123",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/fftpack/tests/gendata.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M124",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/ndimage/tests/test_c_api.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M125",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/sparse/linalg/tests/test_matfuncs.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M126",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/interpolate/tests/test_rbf.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M127",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/interpolate/tests/test_ndgriddata.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M128",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/linalg/tests/test_decomp_cossin.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M129",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/sparse/linalg/tests/test_interface.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M130",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/sparse/linalg/tests/test_norm.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M131",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/fft/tests/test_multithreading.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M132",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/fftpack/tests/test_pseudo_diffs.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M133",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/tests/test__numdiff.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M134",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/tests/test_cobyla.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M135",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/integrate/tests/test_banded_ode_solvers.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M136",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/tests/test_lbfgsb_hessinv.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M137",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/special/tests/test_spherical_bessel.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M138",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/io/harwell_boeing/tests/test_fortran_format.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M139",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/signal/tests/test_upfirdn.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M140",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/signal/tests/test_windows.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M141",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/spatial/tests/test_slerp.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M142",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/spatial/tests/test__procrustes.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M143",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/sparse/tests/test_base.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M144",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/special/tests/test_lambertw.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M145",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/linalg/tests/test_decomp.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M146",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/signal/tests/test_spectral.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M147",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/sparse/linalg/dsolve/tests/test_linsolve.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M148",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/interpolate/tests/test_pade.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M149",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/spatial/tests/test_hausdorff.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M150",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/stats/tests/test_stats.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M151",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/integrate/tests/test_quadpack.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M152",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/tests/test_hessian_update_strategy.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M153",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/misc/tests/test_common.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M154",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/misc/tests/test_doccer.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M155",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/spatial/tests/test_qhull.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M156",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/integrate/tests/test__quad_vec.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M157",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/spatial/transform/tests/test_rotation_spline.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M158",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/tests/test_trustregion.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M159",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/stats/tests/test_tukeylambda_stats.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M160",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/stats/tests/test_discrete_distns.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M161",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/linalg/tests/test_decomp_polar.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M162",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/tests/test_constraints.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M163",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/stats/tests/test_kdeoth.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M164",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/tests/test__spectral.py"
+      }, {
+        "@type" : "item",
+        "name" : "scipy/optimize/tests/test__root.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M165",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/tests/test__linprog_clean_inputs.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M166",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/integrate/tests/test_integrate.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M167",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/signal/tests/test_dltisys.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M168",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/_trustregion_constr/tests/test_projections.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M169",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/tests/test_tnc.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M170",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/integrate/tests/test_quadrature.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M171",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/fftpack/tests/test_real_transforms.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M172",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/linalg/tests/test_procrustes.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M173",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/spatial/tests/test__plotutils.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M174",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/special/tests/test_data.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M175",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/interpolate/tests/test_fitpack.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M176",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/sparse/linalg/isolve/tests/test_gcrotmk.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M177",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/sparse/linalg/isolve/tests/test_lgmres.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M178",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/io/matlab/tests/test_pathological.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M179",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/io/matlab/tests/test_mio_funcs.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M180",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/special/_precompute/wright_bessel_data.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M181",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/sparse/linalg/eigen/tests/test_svds.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M182",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/special/tests/test_basic.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M183",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/signal/tests/test_ltisys.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M184",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/interpolate/tests/test_bsplines.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M185",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/linalg/tests/test_sketches.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M186",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/linalg/tests/test_decomp_cholesky.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M187",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/signal/tests/test_savitzky_golay.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M188",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/io/matlab/tests/test_miobase.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M189",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/stats/tests/test_morestats.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M190",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/stats/tests/test_hypotests.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M191",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/stats/tests/test_mstats_basic.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M192",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/stats/tests/test_fit.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M193",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/signal/tests/test_wavelets.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M194",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/interpolate/tests/test_rbfinterp.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M195",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/integrate/_ivp/tests/test_ivp.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M196",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/cluster/tests/test_vq.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M197",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/linalg/tests/test_matfuncs.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M198",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/ndimage/tests/test_filters.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M199",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/ndimage/tests/test_measurements.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M200",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/ndimage/tests/test_interpolation.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M201",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/spatial/transform/_rotation_groups.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M202",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/io/tests/test_netcdf.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M203",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/tests/test_lsq_linear.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M204",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/special/tests/test_cdflib.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M205",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/_trustregion_constr/tests/test_report.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M206",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/tests/test_slsqp.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M207",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/stats/tests/test_multivariate.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M208",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/signal/tests/test_bsplines.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M209",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/spatial/tests/test_kdtree.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M210",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/signal/__init__.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M211",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/signal/tests/test_peak_finding.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M212",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/sparse/linalg/eigen/lobpcg/tests/test_lobpcg.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M213",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/cluster/__init__.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M214",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/sparse/linalg/eigen/arpack/tests/test_arpack.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M215",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/tests/test_lsq_common.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M216",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/_trustregion_constr/tests/test_canonical_constraint.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M217",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/sparse/linalg/isolve/tests/demo_lgmres.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M218",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/interpolate/tests/test_interpolate.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M219",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/signal/tests/test_result_type.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M220",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/signal/tests/test_fir_filter_design.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M221",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/tests/test_quadratic_assignment.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M222",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/io/tests/test_mmio.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M223",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/io/harwell_boeing/tests/test_hb.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M224",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/io/tests/test_paths.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M225",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/_trustregion_constr/tests/test_qp_subproblem.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M226",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/linalg/tests/test_basic.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M227",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/odr/tests/test_odr.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M228",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/tests/test_trustregion_exact.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M229",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/special/_precompute/wright_bessel.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M230",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/integrate/tests/test_bvp.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M231",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/tests/test__basinhopping.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M232",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/stats/tests/test_binned_statistic.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M233",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/tests/test__differential_evolution.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M234",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/tests/test__dual_annealing.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L20/M235",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "scipy/optimize/tests/test_differentiable_functions.py"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "Isolated",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "scipy/special/tests/test_logit.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/sparse/generate_sparsetools.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/spatial/tests/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/sparse/linalg/eigen/lobpcg/setup.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/sparse/csgraph/tests/test_traversal.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/io/arff/tests/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/special/_precompute/loggamma.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/special/_precompute/setup.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/special/tests/test_erfinv.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/sparse/linalg/eigen/setup.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/ndimage/tests/test_datatypes.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/optimize/_highs/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/special/tests/test_hypergeometric.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/sparse/linalg/tests/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/special/tests/test_exponential_integrals.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/optimize/_trustregion_constr/setup.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/cluster/tests/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/special/tests/test_pcf.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/_build_utils/tests/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/sparse/linalg/eigen/_svds_doc.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/io/harwell_boeing/setup.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/sparse/csgraph/setup.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/odr/tests/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/sparse/linalg/eigen/tests/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/fft/_pocketfft/tests/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/special/tests/test_trig.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/special/_precompute/lambertw.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/special/_precompute/cosine_cdf.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/io/setup.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/io/matlab/setup.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/linalg/tests/test_cython_blas.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/linalg/tests/test_decomp_update.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/sparse/linalg/setup.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/sparse/sparsetools.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/special/tests/test_bdtr.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/linalg/_cython_signature_generator.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/sparse/csgraph/tests/test_connected_components.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/io/matlab/tests/test_streams.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/signal/windows/setup.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/linalg/tests/test_fblas.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/_build_utils/setup.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/sparse/linalg/eigen/arpack/tests/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/ndimage/tests/test_splines.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/fftpack/tests/gen_fftw_ref.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/optimize/cython_optimize/setup.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/special/tests/test_sph_harm.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/special/tests/test_cosine_distr.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/special/_precompute/struve_convergence.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/_build_utils/tests/test_scipy_version.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/sparse/linalg/dsolve/tests/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/optimize/_highs/cython/src/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/io/arff/setup.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/fft/_debug_backends.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/special/tests/test_owens_t.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/integrate/_ivp/setup.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/optimize/tests/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/io/matlab/tests/test_mio_utils.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/ndimage/tests/test_fourier.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/interpolate/interpnd_info.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/linalg/tests/test_build.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/sparse/linalg/eigen/lobpcg/tests/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/spatial/transform/tests/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/sparse/tests/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/constants/tests/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/special/tests/test_nan_inputs.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/fft/setup.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/fftpack/tests/test_import.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/stats/tests/studentized_range_mpmath_ref.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/misc/setup.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/optimize/tests/test_lbfgsb_setulb.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/special/tests/test_wright_bessel.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/special/add_newdocs.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/special/utils/makenpz.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/stats/tests/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/special/tests/test_ndtr.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/_lib/tests/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/sparse/linalg/isolve/tests/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/special/tests/test_boxcox.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/fftpack/setup.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/sparse/linalg/isolve/tests/test_utils.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/optimize/_highs/cython/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/_lib/tests/test_warnings.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/misc/tests/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/_lib/tests/test_import_cycles.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/special/tests/test_gamma.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/special/_precompute/wrightomega.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/special/_precompute/zetac.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/linalg/tests/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/optimize/_trustregion_constr/tests/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/integrate/tests/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/special/tests/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/optimize/tests/test_regression.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/io/harwell_boeing/tests/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/fftpack/tests/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/special/_generate_pyx.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/io/tests/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/interpolate/tests/test_gil.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/special/tests/test_round.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/linalg/_generate_pyx.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/cluster/setup.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/optimize/_lsq/setup.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/constants/setup.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/special/tests/test_pdtr.py"
+    }, {
+      "@type" : "item",
+      "name" : "scipy/_lib/tests/test_deprecation.py"
+    } ]
+  } ]
+}

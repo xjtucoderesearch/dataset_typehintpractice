@@ -1,0 +1,28 @@
+{
+    "@schemaVersion": 1.0,
+    "name": "pynamodb-deps-from-type",
+    "variables": [
+        "pynamodb/__init__.py",
+        "pynamodb/_compat.py",
+        "pynamodb/attributes.py",
+        "pynamodb/connection/__init__.py",
+        "pynamodb/connection/base.py",
+        "pynamodb/connection/table.py",
+        "pynamodb/constants.py",
+        "pynamodb/exceptions.py",
+        "pynamodb/expressions/__init__.py",
+        "pynamodb/expressions/condition.py",
+        "pynamodb/expressions/operand.py",
+        "pynamodb/expressions/projection.py",
+        "pynamodb/expressions/update.py",
+        "pynamodb/expressions/util.py",
+        "pynamodb/indexes.py",
+        "pynamodb/models.py",
+        "pynamodb/pagination.py",
+        "pynamodb/settings.py",
+        "pynamodb/signals.py",
+        "pynamodb/transactions.py",
+        "pynamodb/types.py"
+    ],
+    "cells": []
+}

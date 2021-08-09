@@ -1,0 +1,4 @@
+Layer,file_count,typed_count,untyped_count,typed/file,rate_sum,avg_notanytyperate
+L0,29,27,2,93.10%,26.961722488038276,0.998582314371788
+L1,15,13,2,86.67%,13.0,1.0
+Isolated,3,3,0,100.00%,3.0,1.0

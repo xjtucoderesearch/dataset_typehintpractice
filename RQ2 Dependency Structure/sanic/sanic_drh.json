@@ -1,0 +1,348 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "sanic_drh",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L0",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L0/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L0/M0/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L0/M0/L0/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L0/M0/L0/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L0/M0/L0/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L0/M0/L0/M0/L0/M0/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L0/M0/L0/M0",
+                  "nested" : [ {
+                    "@type" : "group",
+                    "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0",
+                    "nested" : [ {
+                      "@type" : "group",
+                      "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "sanic/helpers.py"
+                      } ]
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L1",
+                    "nested" : [ {
+                      "@type" : "group",
+                      "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L1/M0",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "sanic/compat.py"
+                      } ]
+                    }, {
+                      "@type" : "group",
+                      "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L1/M1",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "sanic/log.py"
+                      } ]
+                    }, {
+                      "@type" : "group",
+                      "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L1/M2",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "sanic/headers.py"
+                      }, {
+                        "@type" : "item",
+                        "name" : "sanic/exceptions.py"
+                      } ]
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L0/M0/L0/M0/L0/M0/L0/M0/Control",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "sanic/http.py"
+                    } ]
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L0/M0/L0/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "sanic/models/__init__.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L0/M0/L0/M2",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "sanic/models/protocol_types.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L0/M0/L0/M3",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "sanic/constants.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L0/M0/L0/M4",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "sanic/cookies.py"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L0/M0/L0/M0/L0/M0/Control",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L0/M0/Control/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "sanic/response.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L0/M0/Control/M2",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "sanic/request.py"
+                  } ]
+                } ]
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L0/M0/L0/M0/L1",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L0/M0/L0/M0/L1/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "sanic/models/handler_types.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L0/M0/L0/M0/L1/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "sanic/utils.py"
+              }, {
+                "@type" : "item",
+                "name" : "sanic/config.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L0/M0/L0/M0/L1/M2",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "sanic/errorpages.py"
+              }, {
+                "@type" : "item",
+                "name" : "sanic/handlers.py"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L0/M0/L0/M0/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "sanic/server.py"
+            } ]
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L0/M0/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L0/M0/L1/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L0/M0/L1/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L0/M0/L1/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "sanic/models/futures.py"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L0/M0/L1/M0/L1",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L0/M0/L1/M0/L1/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "sanic/mixins/exceptions.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L0/M0/L1/M0/L1/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "sanic/mixins/listeners.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L0/M0/L1/M0/L1/M2",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "sanic/mixins/middleware.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L0/M0/L1/M0/L1/M3",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "sanic/signals.py"
+              }, {
+                "@type" : "item",
+                "name" : "sanic/mixins/signals.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L0/M0/L1/M0/L1/M4",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L0/M0/L1/M0/L1/M4/M0",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "sanic/blueprint_group.py"
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L0/M0/L1/M0/L1/M4/M1",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "sanic/blueprints.py"
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L0/M0/L1/M0/L1/M4/M2",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "sanic/views.py"
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L0/M0/L1/M0/L1/M4/M3",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "sanic/mixins/routes.py"
+                } ]
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L0/M0/L1/M0/L1/M5",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "sanic/mixins/__init__.py"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L0/M0/L1/M0/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "sanic/base.py"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L0/M0/L1/M1",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L0/M0/L1/M1/M0",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "sanic/websocket.py"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L0/M0/L1/M1/M1",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "sanic/models/asgi.py"
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L0/M0/L1/M1/M2",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "sanic/asgi.py"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L0/M0/L1/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "sanic/reloader_helpers.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L0/M0/L1/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "sanic/router.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L0/M0/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "sanic/app.py"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "sanic/__version__.py"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L1/M0",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "sanic/simple.py"
+      }, {
+        "@type" : "item",
+        "name" : "sanic/__main__.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "sanic/worker.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "sanic/__init__.py"
+      } ]
+    } ]
+  } ]
+}

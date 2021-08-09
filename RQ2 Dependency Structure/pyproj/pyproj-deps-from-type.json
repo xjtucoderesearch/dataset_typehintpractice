@@ -1,0 +1,134 @@
+{
+    "@schemaVersion": 1.0,
+    "name": "pyproj-deps-from-type",
+    "variables": [
+        "pyproj/__init__.py",
+        "pyproj/__main__.py",
+        "pyproj/_show_versions.py",
+        "pyproj/aoi.py",
+        "pyproj/compat.py",
+        "pyproj/crs/__init__.py",
+        "pyproj/crs/_cf1x8.py",
+        "pyproj/crs/coordinate_operation.py",
+        "pyproj/crs/coordinate_system.py",
+        "pyproj/crs/crs.py",
+        "pyproj/crs/datum.py",
+        "pyproj/crs/enums.py",
+        "pyproj/datadir.py",
+        "pyproj/enums.py",
+        "pyproj/exceptions.py",
+        "pyproj/geod.py",
+        "pyproj/network.py",
+        "pyproj/proj.py",
+        "pyproj/sync.py",
+        "pyproj/transformer.py",
+        "pyproj/utils.py"
+    ],
+    "cells": [
+        {
+            "src": 15,
+            "dest": 2,
+            "values": {
+                "type-use": 3.0
+            }
+        },
+        {
+            "src": 15,
+            "dest": 13,
+            "values": {
+                "type-use": 4.0
+            }
+        },
+        {
+            "src": 17,
+            "dest": 9,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 17,
+            "dest": 13,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 17,
+            "dest": 3,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 18,
+            "dest": 3,
+            "values": {
+                "type-use": 11.0
+            }
+        },
+        {
+            "src": 19,
+            "dest": 3,
+            "values": {
+                "type-use": 9.0
+            }
+        },
+        {
+            "src": 19,
+            "dest": 2,
+            "values": {
+                "type-use": 3.0
+            }
+        },
+        {
+            "src": 19,
+            "dest": 13,
+            "values": {
+                "type-use": 10.0
+            }
+        },
+        {
+            "src": 1,
+            "dest": 3,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 8,
+            "dest": 11,
+            "values": {
+                "type-use": 8.0
+            }
+        },
+        {
+            "src": 9,
+            "dest": 2,
+            "values": {
+                "type-use": 4.0
+            }
+        },
+        {
+            "src": 9,
+            "dest": 15,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 9,
+            "dest": 13,
+            "values": {
+                "type-use": 4.0
+            }
+        },
+        {
+            "src": 6,
+            "dest": 10,
+            "values": {
+                "type-use": 4.0
+            }
+        }
+    ]
+}

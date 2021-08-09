@@ -1,0 +1,176 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "pynamodb_drh",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L0",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L0/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L0/M0/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L0/M0/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "pynamodb/exceptions.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L0/M0/L0/M1",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L0/M0/L0/M1/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L0/M0/L0/M1/L0/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "pynamodb/expressions/util.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L0/M0/L0/M1/L0/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "pynamodb/constants.py"
+              }, {
+                "@type" : "item",
+                "name" : "pynamodb/expressions/update.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L0/M0/L0/M1/L0/M2",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "pynamodb/expressions/condition.py"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L0/M0/L0/M1/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "pynamodb/expressions/operand.py"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L0/M0/L0/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "pynamodb/expressions/__init__.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L0/M0/L0/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "pynamodb/_compat.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L0/M0/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "pynamodb/attributes.py"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L0/M0/M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "pynamodb/types.py"
+        }, {
+          "@type" : "item",
+          "name" : "pynamodb/settings.py"
+        } ]
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L1/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L1/M0/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L1/M0/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "pynamodb/signals.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1/M0/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "pynamodb/connection/table.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1/M0/L0/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "pynamodb/expressions/projection.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1/M0/Control",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L1/M0/Control/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "pynamodb/connection/base.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1/M0/Control/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "pynamodb/connection/__init__.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1/M0/Control/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "pynamodb/transactions.py"
+          } ]
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "pynamodb/pagination.py"
+      }, {
+        "@type" : "item",
+        "name" : "pynamodb/indexes.py"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "Control",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "pynamodb/models.py"
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "Isolated",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "pynamodb/__init__.py"
+    } ]
+  } ]
+}

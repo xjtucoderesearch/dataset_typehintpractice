@@ -1,0 +1,390 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "playwright",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L0",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L0/M0",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "playwright/_impl/__init__.py"
+      }, {
+        "@type" : "item",
+        "name" : "playwright/_impl/_driver.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L0/M1",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L0/M1/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L0/M1/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "playwright/_impl/_api_types.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L0/M1/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L0/M1/L1/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L0/M1/L1/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L0/M1/L1/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L0/M1/L1/M0/L0/M0/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L0/M1/L1/M0/L0/M0/L0/M0",
+                  "nested" : [ {
+                    "@type" : "group",
+                    "name" : "L0/M1/L1/M0/L0/M0/L0/M0/M0",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "playwright/_impl/_helper.py"
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L0/M1/L1/M0/L0/M0/L0/M0/M1",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "playwright/_impl/_transport.py"
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L0/M1/L1/M0/L0/M0/L0/M0/M2",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "playwright/_impl/_connection.py"
+                    } ]
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L0/M1/L1/M0/L0/M0/L1",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L0/M1/L1/M0/L0/M0/L1/M0",
+                  "nested" : [ {
+                    "@type" : "group",
+                    "name" : "L0/M1/L1/M0/L0/M0/L1/M0/L0",
+                    "nested" : [ {
+                      "@type" : "group",
+                      "name" : "L0/M1/L1/M0/L0/M0/L1/M0/L0/M0",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "playwright/_impl/_api_structures.py"
+                      }, {
+                        "@type" : "item",
+                        "name" : "playwright/_impl/_file_chooser.py"
+                      } ]
+                    }, {
+                      "@type" : "group",
+                      "name" : "L0/M1/L1/M0/L0/M0/L1/M0/L0/M1",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "playwright/_impl/_js_handle.py"
+                      } ]
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L0/M1/L1/M0/L0/M0/L1/M0/Control",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "playwright/_impl/_element_handle.py"
+                    } ]
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M1/L1/M0/L0/M0/L1/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "playwright/_impl/_event_context_manager.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M1/L1/M0/L0/M0/L1/M2",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "playwright/_impl/_wait_helper.py"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L0/M1/L1/M0/L0/M0/Control",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L0/M1/L1/M0/L0/M0/Control/M2",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "playwright/_impl/_network.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M1/L1/M0/L0/M0/Control/M3",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "playwright/_impl/_frame.py"
+                  } ]
+                } ]
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L0/M1/L1/M0/L1",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L0/M1/L1/M0/L1/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "playwright/_impl/_artifact.py"
+              }, {
+                "@type" : "item",
+                "name" : "playwright/_impl/_stream.py"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L0/M1/L1/M0/L2",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L0/M1/L1/M0/L2/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "playwright/_impl/_input.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L0/M1/L1/M0/L2/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "playwright/_impl/_accessibility.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L0/M1/L1/M0/L2/M2",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L0/M1/L1/M0/L2/M2/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L0/M1/L1/M0/L2/M2/L0/M0",
+                  "nested" : [ {
+                    "@type" : "group",
+                    "name" : "L0/M1/L1/M0/L2/M2/L0/M0/L0",
+                    "nested" : [ {
+                      "@type" : "group",
+                      "name" : "L0/M1/L1/M0/L2/M2/L0/M0/L0/M0",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "playwright/_impl/_selectors.py"
+                      } ]
+                    }, {
+                      "@type" : "group",
+                      "name" : "L0/M1/L1/M0/L2/M2/L0/M0/L0/M1",
+                      "nested" : [ {
+                        "@type" : "group",
+                        "name" : "L0/M1/L1/M0/L2/M2/L0/M0/L0/M1/L0",
+                        "nested" : [ {
+                          "@type" : "group",
+                          "name" : "L0/M1/L1/M0/L2/M2/L0/M0/L0/M1/L0/M0",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "playwright/_impl/_cdp_session.py"
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L0/M1/L1/M0/L2/M2/L0/M0/L0/M1/L0/M1",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "playwright/_impl/_browser_type.py"
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L0/M1/L1/M0/L2/M2/L0/M0/L0/M1/L0/M2",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "playwright/_impl/_tracing.py"
+                          } ]
+                        } ]
+                      }, {
+                        "@type" : "group",
+                        "name" : "L0/M1/L1/M0/L2/M2/L0/M0/L0/M1/Control",
+                        "nested" : [ {
+                          "@type" : "item",
+                          "name" : "playwright/_impl/_browser_context.py"
+                        } ]
+                      } ]
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L0/M1/L1/M0/L2/M2/L0/M0/Control",
+                    "nested" : [ {
+                      "@type" : "group",
+                      "name" : "L0/M1/L1/M0/L2/M2/L0/M0/Control/M1",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "playwright/_impl/_playwright.py"
+                      } ]
+                    }, {
+                      "@type" : "group",
+                      "name" : "L0/M1/L1/M0/L2/M2/L0/M0/Control/M2",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "playwright/_impl/_browser.py"
+                      } ]
+                    } ]
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M1/L1/M0/L2/M2/L0/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "playwright/_impl/_dialog.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M1/L1/M0/L2/M2/L0/M2",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "playwright/_impl/_console_message.py"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L0/M1/L1/M0/L2/M2/Control",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "playwright/_impl/_object_factory.py"
+                } ]
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L0/M1/L1/M0/L2/M3",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "playwright/_impl/_video.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L0/M1/L1/M0/L2/M4",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "playwright/_impl/_download.py"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L0/M1/L1/M0/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "playwright/_impl/_page.py"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L0/M1/L1/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "playwright/_impl/_impl_to_api_mapping.py"
+          } ]
+        } ]
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L1/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L1/M0/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "playwright/_impl/_async_base.py"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1/M0/M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "playwright/async_api/_generated.py"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1/M0/M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "playwright/async_api/_context_manager.py"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1/M0/M3",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "playwright/async_api/__init__.py"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M1",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L1/M1/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "playwright/_impl/_sync_base.py"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1/M1/M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "playwright/sync_api/_generated.py"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1/M1/M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "playwright/sync_api/_context_manager.py"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1/M1/M3",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "playwright/sync_api/__init__.py"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "playwright/__main__.py"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "Isolated",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "playwright/_impl/_path_utils.py"
+    }, {
+      "@type" : "item",
+      "name" : "playwright/__init__.py"
+    } ]
+  } ]
+}

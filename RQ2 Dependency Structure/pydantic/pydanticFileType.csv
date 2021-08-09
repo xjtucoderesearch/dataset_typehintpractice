@@ -1,0 +1,26 @@
+file path,file type,any rate
+pydantic\annotated_types.py,typed,0.15384615384615385
+pydantic\class_validators.py,typed,0.0
+pydantic\color.py,typed,0.04
+pydantic\dataclasses.py,typed,0.11392405063291139
+pydantic\datetime_parse.py,typed,0.0
+pydantic\decorator.py,typed,0.22727272727272727
+pydantic\env_settings.py,typed,0.023255813953488372
+pydantic\errors.py,typed,0.02127659574468085
+pydantic\error_wrappers.py,typed,0.0
+pydantic\fields.py,typed,0.18791946308724833
+pydantic\generics.py,typed,0.12
+pydantic\json.py,typed,0.3333333333333333
+pydantic\main.py,typed,0.10857142857142857
+pydantic\mypy.py,typed,0.00847457627118644
+pydantic\networks.py,typed,0.03529411764705882
+pydantic\parse.py,typed,0.14285714285714285
+pydantic\schema.py,typed,0.05263157894736842
+pydantic\tools.py,typed,0.14814814814814814
+pydantic\types.py,typed,0.0392156862745098
+pydantic\typing.py,typed,0.2753623188405797
+pydantic\utils.py,typed,0.2018348623853211
+pydantic\validators.py,typed,0.3014705882352941
+pydantic\version.py,typed,0.0
+pydantic\_hypothesis_plugin.py,typed,0.0
+pydantic\__init__.py,untyped,0

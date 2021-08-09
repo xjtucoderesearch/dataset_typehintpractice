@@ -1,0 +1,640 @@
+{
+    "@schemaVersion": 1.0,
+    "name": "elasticsearch-deps-from-type",
+    "variables": [
+        "elasticsearch/__init__.py",
+        "elasticsearch/_async/__init__.py",
+        "elasticsearch/_async/_extra_imports.py",
+        "elasticsearch/_async/client/__init__.py",
+        "elasticsearch/_async/client/async_search.py",
+        "elasticsearch/_async/client/autoscaling.py",
+        "elasticsearch/_async/client/cat.py",
+        "elasticsearch/_async/client/ccr.py",
+        "elasticsearch/_async/client/cluster.py",
+        "elasticsearch/_async/client/dangling_indices.py",
+        "elasticsearch/_async/client/enrich.py",
+        "elasticsearch/_async/client/eql.py",
+        "elasticsearch/_async/client/features.py",
+        "elasticsearch/_async/client/fleet.py",
+        "elasticsearch/_async/client/graph.py",
+        "elasticsearch/_async/client/ilm.py",
+        "elasticsearch/_async/client/indices.py",
+        "elasticsearch/_async/client/ingest.py",
+        "elasticsearch/_async/client/license.py",
+        "elasticsearch/_async/client/logstash.py",
+        "elasticsearch/_async/client/migration.py",
+        "elasticsearch/_async/client/ml.py",
+        "elasticsearch/_async/client/monitoring.py",
+        "elasticsearch/_async/client/nodes.py",
+        "elasticsearch/_async/client/rollup.py",
+        "elasticsearch/_async/client/searchable_snapshots.py",
+        "elasticsearch/_async/client/security.py",
+        "elasticsearch/_async/client/shutdown.py",
+        "elasticsearch/_async/client/slm.py",
+        "elasticsearch/_async/client/snapshot.py",
+        "elasticsearch/_async/client/sql.py",
+        "elasticsearch/_async/client/ssl.py",
+        "elasticsearch/_async/client/tasks.py",
+        "elasticsearch/_async/client/text_structure.py",
+        "elasticsearch/_async/client/transform.py",
+        "elasticsearch/_async/client/utils.py",
+        "elasticsearch/_async/client/watcher.py",
+        "elasticsearch/_async/client/xpack.py",
+        "elasticsearch/_async/compat.py",
+        "elasticsearch/_async/helpers.py",
+        "elasticsearch/_async/http_aiohttp.py",
+        "elasticsearch/_async/transport.py",
+        "elasticsearch/_version.py",
+        "elasticsearch/client/__init__.py",
+        "elasticsearch/client/async_search.py",
+        "elasticsearch/client/autoscaling.py",
+        "elasticsearch/client/cat.py",
+        "elasticsearch/client/ccr.py",
+        "elasticsearch/client/cluster.py",
+        "elasticsearch/client/dangling_indices.py",
+        "elasticsearch/client/enrich.py",
+        "elasticsearch/client/eql.py",
+        "elasticsearch/client/features.py",
+        "elasticsearch/client/fleet.py",
+        "elasticsearch/client/graph.py",
+        "elasticsearch/client/ilm.py",
+        "elasticsearch/client/indices.py",
+        "elasticsearch/client/ingest.py",
+        "elasticsearch/client/license.py",
+        "elasticsearch/client/logstash.py",
+        "elasticsearch/client/migration.py",
+        "elasticsearch/client/ml.py",
+        "elasticsearch/client/monitoring.py",
+        "elasticsearch/client/nodes.py",
+        "elasticsearch/client/rollup.py",
+        "elasticsearch/client/searchable_snapshots.py",
+        "elasticsearch/client/security.py",
+        "elasticsearch/client/shutdown.py",
+        "elasticsearch/client/slm.py",
+        "elasticsearch/client/snapshot.py",
+        "elasticsearch/client/sql.py",
+        "elasticsearch/client/ssl.py",
+        "elasticsearch/client/tasks.py",
+        "elasticsearch/client/text_structure.py",
+        "elasticsearch/client/transform.py",
+        "elasticsearch/client/utils.py",
+        "elasticsearch/client/watcher.py",
+        "elasticsearch/client/xpack.py",
+        "elasticsearch/compat.py",
+        "elasticsearch/connection/__init__.py",
+        "elasticsearch/connection/base.py",
+        "elasticsearch/connection/http_requests.py",
+        "elasticsearch/connection/http_urllib3.py",
+        "elasticsearch/connection/pooling.py",
+        "elasticsearch/connection_pool.py",
+        "elasticsearch/exceptions.py",
+        "elasticsearch/helpers/__init__.py",
+        "elasticsearch/helpers/actions.py",
+        "elasticsearch/helpers/errors.py",
+        "elasticsearch/helpers/test.py",
+        "elasticsearch/serializer.py",
+        "elasticsearch/transport.py",
+        "elasticsearch/utils.py"
+    ],
+    "cells": [
+        {
+            "src": 84,
+            "dest": 80,
+            "values": {
+                "type-use": 24.0
+            }
+        },
+        {
+            "src": 75,
+            "dest": 90,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 75,
+            "dest": 43,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 75,
+            "dest": 91,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 43,
+            "dest": 44,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 43,
+            "dest": 45,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 43,
+            "dest": 46,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 43,
+            "dest": 48,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 43,
+            "dest": 52,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 43,
+            "dest": 56,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 43,
+            "dest": 57,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 43,
+            "dest": 63,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 43,
+            "dest": 69,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 43,
+            "dest": 72,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 43,
+            "dest": 77,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 43,
+            "dest": 47,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 43,
+            "dest": 49,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 43,
+            "dest": 50,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 43,
+            "dest": 51,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 43,
+            "dest": 53,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 43,
+            "dest": 54,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 43,
+            "dest": 55,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 43,
+            "dest": 58,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 43,
+            "dest": 59,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 43,
+            "dest": 60,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 43,
+            "dest": 61,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 43,
+            "dest": 62,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 43,
+            "dest": 64,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 43,
+            "dest": 65,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 43,
+            "dest": 66,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 43,
+            "dest": 68,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 43,
+            "dest": 67,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 43,
+            "dest": 70,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 43,
+            "dest": 71,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 43,
+            "dest": 73,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 43,
+            "dest": 74,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 43,
+            "dest": 76,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 82,
+            "dest": 79,
+            "values": {
+                "type-use": 3.0
+            }
+        },
+        {
+            "src": 83,
+            "dest": 80,
+            "values": {
+                "type-use": 4.0
+            }
+        },
+        {
+            "src": 87,
+            "dest": 90,
+            "values": {
+                "type-use": 2.0
+            }
+        },
+        {
+            "src": 87,
+            "dest": 43,
+            "values": {
+                "type-use": 13.0
+            }
+        },
+        {
+            "src": 39,
+            "dest": 3,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 41,
+            "dest": 40,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 41,
+            "dest": 80,
+            "values": {
+                "type-use": 6.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 4,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 5,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 6,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 8,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 12,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 16,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 17,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 23,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 29,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 32,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 37,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 7,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 9,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 10,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 11,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 13,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 14,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 15,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 18,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 19,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 20,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 21,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 22,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 24,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 25,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 26,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 28,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 27,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 30,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 31,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 33,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 34,
+            "values": {
+                "type-use": 1.0
+            }
+        },
+        {
+            "src": 3,
+            "dest": 36,
+            "values": {
+                "type-use": 1.0
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+file path,file type,any rate
+pynamodb\attributes.py,typed,0.2389937106918239
+pynamodb\connection\base.py,typed,0.013636363636363636
+pynamodb\connection\table.py,typed,0.0
+pynamodb\connection\__init__.py,untyped,0
+pynamodb\constants.py,untyped,0
+pynamodb\exceptions.py,typed,0.0625
+pynamodb\expressions\condition.py,typed,0.0
+pynamodb\expressions\operand.py,typed,0.2638888888888889
+pynamodb\expressions\projection.py,typed,0.0
+pynamodb\expressions\update.py,typed,0.0
+pynamodb\expressions\util.py,typed,0.125
+pynamodb\expressions\__init__.py,untyped,0
+pynamodb\indexes.py,typed,0.08571428571428572
+pynamodb\models.py,typed,0.03680981595092025
+pynamodb\pagination.py,typed,0.07692307692307693
+pynamodb\settings.py,typed,0.2
+pynamodb\signals.py,untyped,0
+pynamodb\transactions.py,typed,0.07142857142857142
+pynamodb\types.py,untyped,0
+pynamodb\_compat.py,untyped,0
+pynamodb\__init__.py,untyped,0

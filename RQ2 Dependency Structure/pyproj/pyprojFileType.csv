@@ -1,0 +1,22 @@
+file path,file type,any rate
+pyproj\aoi.py,typed,0.0
+pyproj\compat.py,untyped,0
+pyproj\crs\coordinate_operation.py,typed,0.009523809523809525
+pyproj\crs\coordinate_system.py,typed,0.0
+pyproj\crs\crs.py,typed,0.1794871794871795
+pyproj\crs\datum.py,typed,0.2
+pyproj\crs\enums.py,untyped,0
+pyproj\crs\_cf1x8.py,untyped,0
+pyproj\crs\__init__.py,untyped,0
+pyproj\datadir.py,typed,0.0
+pyproj\enums.py,untyped,0
+pyproj\exceptions.py,typed,0.0
+pyproj\geod.py,typed,0.3283582089552239
+pyproj\network.py,typed,0.0
+pyproj\proj.py,typed,0.2777777777777778
+pyproj\sync.py,typed,0.0
+pyproj\transformer.py,typed,0.19130434782608696
+pyproj\utils.py,typed,0.45454545454545453
+pyproj\_show_versions.py,untyped,0
+pyproj\__init__.py,untyped,0
+pyproj\__main__.py,untyped,0

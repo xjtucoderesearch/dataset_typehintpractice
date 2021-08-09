@@ -1,0 +1,488 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "test",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L0",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L0/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L0/M0/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L0/M0/L0/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L0/M0/L0/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L0/M0/L0/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L0/M0/L0/M0/L0/M0/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L0/M0/L0/M0",
+                  "nested" : [ {
+                    "@type" : "group",
+                    "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0",
+                    "nested" : [ {
+                      "@type" : "group",
+                      "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0",
+                      "nested" : [ {
+                        "@type" : "group",
+                        "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L0",
+                        "nested" : [ {
+                          "@type" : "group",
+                          "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L0/M0",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "elasticsearch/compat.py"
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L0/M1",
+                          "nested" : [ {
+                            "@type" : "group",
+                            "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L0/M1/L0",
+                            "nested" : [ {
+                              "@type" : "group",
+                              "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L0/M1/L0/M0",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "elasticsearch/_version.py"
+                              } ]
+                            }, {
+                              "@type" : "group",
+                              "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L0/M1/L0/M1",
+                              "nested" : [ {
+                                "@type" : "item",
+                                "name" : "elasticsearch/exceptions.py"
+                              } ]
+                            } ]
+                          }, {
+                            "@type" : "group",
+                            "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L0/M1/Control",
+                            "nested" : [ {
+                              "@type" : "item",
+                              "name" : "elasticsearch/connection/base.py"
+                            } ]
+                          } ]
+                        } ]
+                      }, {
+                        "@type" : "group",
+                        "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L1",
+                        "nested" : [ {
+                          "@type" : "group",
+                          "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L1/M0",
+                          "nested" : [ {
+                            "@type" : "group",
+                            "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L1/M0/L0",
+                            "nested" : [ {
+                              "@type" : "group",
+                              "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L1/M0/L0/M0",
+                              "nested" : [ {
+                                "@type" : "group",
+                                "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L1/M0/L0/M0/M0",
+                                "nested" : [ {
+                                  "@type" : "item",
+                                  "name" : "elasticsearch/serializer.py"
+                                } ]
+                              }, {
+                                "@type" : "group",
+                                "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L1/M0/L0/M0/M1",
+                                "nested" : [ {
+                                  "@type" : "item",
+                                  "name" : "elasticsearch/client/utils.py"
+                                } ]
+                              }, {
+                                "@type" : "group",
+                                "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L1/M0/L0/M0/M2",
+                                "nested" : [ {
+                                  "@type" : "item",
+                                  "name" : "elasticsearch/_async/client/utils.py"
+                                } ]
+                              }, {
+                                "@type" : "group",
+                                "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L1/M0/L0/M0/M3",
+                                "nested" : [ {
+                                  "@type" : "item",
+                                  "name" : "elasticsearch/_async/client/ssl.py"
+                                } ]
+                              } ]
+                            }, {
+                              "@type" : "group",
+                              "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L1/M0/L0/M1",
+                              "nested" : [ {
+                                "@type" : "group",
+                                "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L1/M0/L0/M1/M0",
+                                "nested" : [ {
+                                  "@type" : "item",
+                                  "name" : "elasticsearch/utils.py"
+                                } ]
+                              }, {
+                                "@type" : "group",
+                                "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L1/M0/L0/M1/M1",
+                                "nested" : [ {
+                                  "@type" : "item",
+                                  "name" : "elasticsearch/connection/http_requests.py"
+                                } ]
+                              }, {
+                                "@type" : "group",
+                                "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L1/M0/L0/M1/M2",
+                                "nested" : [ {
+                                  "@type" : "item",
+                                  "name" : "elasticsearch/connection/__init__.py"
+                                } ]
+                              } ]
+                            } ]
+                          }, {
+                            "@type" : "group",
+                            "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L1/M0/Control",
+                            "nested" : [ {
+                              "@type" : "item",
+                              "name" : "elasticsearch/connection/http_urllib3.py"
+                            } ]
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L1/M1",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "elasticsearch/_async/compat.py"
+                          }, {
+                            "@type" : "item",
+                            "name" : "elasticsearch/_async/transport.py"
+                          } ]
+                        }, {
+                          "@type" : "group",
+                          "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/L1/M2",
+                          "nested" : [ {
+                            "@type" : "item",
+                            "name" : "elasticsearch/connection_pool.py"
+                          } ]
+                        } ]
+                      }, {
+                        "@type" : "group",
+                        "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M0/Control",
+                        "nested" : [ {
+                          "@type" : "item",
+                          "name" : "elasticsearch/transport.py"
+                        } ]
+                      } ]
+                    }, {
+                      "@type" : "group",
+                      "name" : "L0/M0/L0/M0/L0/M0/L0/M0/L0/M1",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "elasticsearch/_async/_extra_imports.py"
+                      } ]
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L0/M0/L0/M0/L0/M0/L0/M0/Control",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "elasticsearch/_async/http_aiohttp.py"
+                    } ]
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L0/M0/L0/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "elasticsearch/_async/__init__.py"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L0/M0/L0/M0/L0/M0/Control",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "elasticsearch/__init__.py"
+                } ]
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L0/M0/L0/M0/L1",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L0/M0/L0/M0/L1/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "elasticsearch/client/monitoring.py"
+              }, {
+                "@type" : "item",
+                "name" : "elasticsearch/client/dangling_indices.py"
+              }, {
+                "@type" : "item",
+                "name" : "elasticsearch/client/security.py"
+              }, {
+                "@type" : "item",
+                "name" : "elasticsearch/client/nodes.py"
+              }, {
+                "@type" : "item",
+                "name" : "elasticsearch/client/rollup.py"
+              }, {
+                "@type" : "item",
+                "name" : "elasticsearch/client/ingest.py"
+              }, {
+                "@type" : "item",
+                "name" : "elasticsearch/client/ml.py"
+              }, {
+                "@type" : "item",
+                "name" : "elasticsearch/client/features.py"
+              }, {
+                "@type" : "item",
+                "name" : "elasticsearch/client/watcher.py"
+              }, {
+                "@type" : "item",
+                "name" : "elasticsearch/client/graph.py"
+              }, {
+                "@type" : "item",
+                "name" : "elasticsearch/client/enrich.py"
+              }, {
+                "@type" : "item",
+                "name" : "elasticsearch/client/ssl.py"
+              }, {
+                "@type" : "item",
+                "name" : "elasticsearch/client/xpack.py"
+              }, {
+                "@type" : "item",
+                "name" : "elasticsearch/client/fleet.py"
+              }, {
+                "@type" : "item",
+                "name" : "elasticsearch/client/async_search.py"
+              }, {
+                "@type" : "item",
+                "name" : "elasticsearch/client/shutdown.py"
+              }, {
+                "@type" : "item",
+                "name" : "elasticsearch/client/cat.py"
+              }, {
+                "@type" : "item",
+                "name" : "elasticsearch/client/ccr.py"
+              }, {
+                "@type" : "item",
+                "name" : "elasticsearch/client/transform.py"
+              }, {
+                "@type" : "item",
+                "name" : "elasticsearch/client/logstash.py"
+              }, {
+                "@type" : "item",
+                "name" : "elasticsearch/client/text_structure.py"
+              }, {
+                "@type" : "item",
+                "name" : "elasticsearch/client/ilm.py"
+              }, {
+                "@type" : "item",
+                "name" : "elasticsearch/client/sql.py"
+              }, {
+                "@type" : "item",
+                "name" : "elasticsearch/client/cluster.py"
+              }, {
+                "@type" : "item",
+                "name" : "elasticsearch/client/eql.py"
+              }, {
+                "@type" : "item",
+                "name" : "elasticsearch/client/slm.py"
+              }, {
+                "@type" : "item",
+                "name" : "elasticsearch/client/searchable_snapshots.py"
+              }, {
+                "@type" : "item",
+                "name" : "elasticsearch/client/license.py"
+              }, {
+                "@type" : "item",
+                "name" : "elasticsearch/client/snapshot.py"
+              }, {
+                "@type" : "item",
+                "name" : "elasticsearch/client/tasks.py"
+              }, {
+                "@type" : "item",
+                "name" : "elasticsearch/client/autoscaling.py"
+              }, {
+                "@type" : "item",
+                "name" : "elasticsearch/client/indices.py"
+              }, {
+                "@type" : "item",
+                "name" : "elasticsearch/client/migration.py"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L0/M0/L0/M0/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "elasticsearch/client/__init__.py"
+            } ]
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L0/M0/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L0/M0/L1/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "elasticsearch/_async/client/cluster.py"
+          }, {
+            "@type" : "item",
+            "name" : "elasticsearch/_async/client/license.py"
+          }, {
+            "@type" : "item",
+            "name" : "elasticsearch/_async/client/rollup.py"
+          }, {
+            "@type" : "item",
+            "name" : "elasticsearch/_async/client/watcher.py"
+          }, {
+            "@type" : "item",
+            "name" : "elasticsearch/_async/client/ml.py"
+          }, {
+            "@type" : "item",
+            "name" : "elasticsearch/_async/client/text_structure.py"
+          }, {
+            "@type" : "item",
+            "name" : "elasticsearch/_async/client/ingest.py"
+          }, {
+            "@type" : "item",
+            "name" : "elasticsearch/_async/client/transform.py"
+          }, {
+            "@type" : "item",
+            "name" : "elasticsearch/_async/client/features.py"
+          }, {
+            "@type" : "item",
+            "name" : "elasticsearch/_async/client/xpack.py"
+          }, {
+            "@type" : "item",
+            "name" : "elasticsearch/_async/client/logstash.py"
+          }, {
+            "@type" : "item",
+            "name" : "elasticsearch/_async/client/autoscaling.py"
+          }, {
+            "@type" : "item",
+            "name" : "elasticsearch/_async/client/eql.py"
+          }, {
+            "@type" : "item",
+            "name" : "elasticsearch/_async/client/snapshot.py"
+          }, {
+            "@type" : "item",
+            "name" : "elasticsearch/_async/client/security.py"
+          }, {
+            "@type" : "item",
+            "name" : "elasticsearch/_async/client/cat.py"
+          }, {
+            "@type" : "item",
+            "name" : "elasticsearch/_async/client/ccr.py"
+          }, {
+            "@type" : "item",
+            "name" : "elasticsearch/_async/client/enrich.py"
+          }, {
+            "@type" : "item",
+            "name" : "elasticsearch/_async/client/indices.py"
+          }, {
+            "@type" : "item",
+            "name" : "elasticsearch/_async/client/slm.py"
+          }, {
+            "@type" : "item",
+            "name" : "elasticsearch/_async/client/nodes.py"
+          }, {
+            "@type" : "item",
+            "name" : "elasticsearch/_async/client/graph.py"
+          }, {
+            "@type" : "item",
+            "name" : "elasticsearch/_async/client/async_search.py"
+          }, {
+            "@type" : "item",
+            "name" : "elasticsearch/_async/client/searchable_snapshots.py"
+          }, {
+            "@type" : "item",
+            "name" : "elasticsearch/_async/client/ilm.py"
+          }, {
+            "@type" : "item",
+            "name" : "elasticsearch/_async/client/sql.py"
+          }, {
+            "@type" : "item",
+            "name" : "elasticsearch/_async/client/dangling_indices.py"
+          }, {
+            "@type" : "item",
+            "name" : "elasticsearch/_async/client/tasks.py"
+          }, {
+            "@type" : "item",
+            "name" : "elasticsearch/_async/client/migration.py"
+          }, {
+            "@type" : "item",
+            "name" : "elasticsearch/_async/client/shutdown.py"
+          }, {
+            "@type" : "item",
+            "name" : "elasticsearch/_async/client/monitoring.py"
+          }, {
+            "@type" : "item",
+            "name" : "elasticsearch/_async/client/fleet.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L0/M0/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "elasticsearch/_async/client/__init__.py"
+        } ]
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L1/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L1/M0/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "elasticsearch/helpers/errors.py"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1/M0/M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "elasticsearch/helpers/actions.py"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1/M0/M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "elasticsearch/_async/helpers.py"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1/M0/M3",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "elasticsearch/helpers/__init__.py"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "elasticsearch/connection/pooling.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "elasticsearch/helpers/test.py"
+      } ]
+    } ]
+  } ]
+}

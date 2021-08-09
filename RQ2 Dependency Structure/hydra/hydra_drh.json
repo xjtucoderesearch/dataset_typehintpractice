@@ -1,0 +1,576 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "hydra_drh",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L0",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L0/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L0/M0/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L0/M0/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "hydra/core/__init__.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L0/M0/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "hydra/core/object_type.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L0/M0/L0/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "hydra/errors.py"
+          }, {
+            "@type" : "item",
+            "name" : "hydra/core/default_element.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L0/M0/L0/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "hydra/plugins/plugin.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L0/M0/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "hydra/plugins/config_source.py"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L0/M0/M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "hydra/plugins/__init__.py"
+        } ]
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L1/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L1/M0/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L1/M0/L0/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L1/M0/L0/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L1/M0/L0/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "hydra/core/config_search_path.py"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L1/M0/L0/M0/L1",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L1/M0/L0/M0/L1/M0",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L1/M0/L0/M0/L1/M0/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L1/M0/L0/M0/L1/M0/L0/M0",
+                  "nested" : [ {
+                    "@type" : "group",
+                    "name" : "L1/M0/L0/M0/L1/M0/L0/M0/M0",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "hydra/core/singleton.py"
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L1/M0/L0/M0/L1/M0/L0/M0/M1",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "hydra/core/config_store.py"
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L1/M0/L0/M0/L1/M0/L0/M0/M2",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "hydra/conf/__init__.py"
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L1/M0/L0/M0/L1/M0/L0/M0/M3",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "hydra/core/hydra_config.py"
+                    } ]
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L1/M0/L0/M0/L1/M0/L0/M1",
+                  "nested" : [ {
+                    "@type" : "group",
+                    "name" : "L1/M0/L0/M0/L1/M0/L0/M1/L0",
+                    "nested" : [ {
+                      "@type" : "group",
+                      "name" : "L1/M0/L0/M0/L1/M0/L0/M1/L0/M0",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "hydra/core/config_loader.py"
+                      } ]
+                    }, {
+                      "@type" : "group",
+                      "name" : "L1/M0/L0/M0/L1/M0/L0/M1/L0/M1",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "hydra/_internal/callbacks.py"
+                      } ]
+                    }, {
+                      "@type" : "group",
+                      "name" : "L1/M0/L0/M0/L1/M0/L0/M1/L0/M2",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "hydra/_internal/__init__.py"
+                      } ]
+                    }, {
+                      "@type" : "group",
+                      "name" : "L1/M0/L0/M0/L1/M0/L0/M1/L0/M3",
+                      "nested" : [ {
+                        "@type" : "item",
+                        "name" : "hydra/_internal/instantiate/_instantiate2.py"
+                      } ]
+                    } ]
+                  }, {
+                    "@type" : "group",
+                    "name" : "L1/M0/L0/M0/L1/M0/L0/M1/Control",
+                    "nested" : [ {
+                      "@type" : "item",
+                      "name" : "hydra/types.py"
+                    } ]
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L1/M0/L0/M0/L1/M0/L0/M2",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "hydra/_internal/instantiate/__init__.py"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L1/M0/L0/M0/L1/M0/Control",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L1/M0/L0/M0/L1/M0/Control/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "hydra/utils.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L1/M0/L0/M0/L1/M0/Control/M2",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "hydra/core/utils.py"
+                  } ]
+                } ]
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L1/M0/L0/M0/L2",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L1/M0/L0/M0/L2/M0",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L1/M0/L0/M0/L2/M0/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L1/M0/L0/M0/L2/M0/L0/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "hydra/core/global_hydra.py"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L1/M0/L0/M0/L2/M0/L1",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L1/M0/L0/M0/L2/M0/L1/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "hydra/main.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L1/M0/L0/M0/L2/M0/L1/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "hydra/initialize.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L1/M0/L0/M0/L2/M0/L1/M2",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "hydra/compose.py"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L1/M0/L0/M0/L2/M0/Control",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "hydra/__init__.py"
+                } ]
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L1/M0/L0/M0/L2/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "hydra/plugins/completion_plugin.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L1/M0/L0/M0/L2/M2",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "hydra/plugins/search_path_plugin.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L1/M0/L0/M0/L2/M3",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "hydra/_internal/config_search_path_impl.py"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L1/M0/L0/M0/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "hydra/_internal/utils.py"
+            } ]
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1/M0/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L1/M0/L1/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L1/M0/L1/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L1/M0/L1/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L1/M0/L1/M0/L0/M0/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L1/M0/L1/M0/L0/M0/L0/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "hydra/_internal/grammar/utils.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L1/M0/L1/M0/L0/M0/L0/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "hydra/_internal/grammar/__init__.py"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L1/M0/L1/M0/L0/M0/Control",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "hydra/core/override_parser/types.py"
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L1/M0/L1/M0/L0/M0/M2",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "hydra/core/override_parser/__init__.py"
+                } ]
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L1/M0/L1/M0/L1",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L1/M0/L1/M0/L1/M0",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L1/M0/L1/M0/L1/M0/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L1/M0/L1/M0/L1/M0/L0/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "hydra/core/override_parser/overrides_visitor.py"
+                  }, {
+                    "@type" : "item",
+                    "name" : "hydra/_internal/grammar/functions.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L1/M0/L1/M0/L1/M0/L0/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "hydra/_internal/grammar/grammar_functions.py"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L1/M0/L1/M0/L1/M0/Control",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "hydra/core/override_parser/overrides_parser.py"
+                } ]
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L1/M0/L1/M0/L1/M1",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L1/M0/L1/M0/L1/M1/M0",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "hydra/_internal/sources_registry.py"
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L1/M0/L1/M0/L1/M1/M1",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "hydra/_internal/config_repository.py"
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L1/M0/L1/M0/L1/M1/M2",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "hydra/_internal/defaults_list.py"
+                } ]
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L1/M0/L1/M0/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "hydra/_internal/config_loader_impl.py"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1/M0/L1/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "hydra/plugins/sweeper.py"
+          }, {
+            "@type" : "item",
+            "name" : "hydra/plugins/launcher.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1/M0/Control",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L1/M0/Control/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "hydra/core/plugins.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1/M0/Control/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "hydra/_internal/hydra.py"
+          } ]
+        } ]
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L2",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L2/M0",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "hydra/test_utils/test_utils.py"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L3",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L3/M0",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "hydra/extra/pytest_plugin.py"
+      }, {
+        "@type" : "item",
+        "name" : "hydra/test_utils/__init__.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M1",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L3/M1/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L3/M1/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "hydra/experimental/compose.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L3/M1/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "hydra/experimental/initialize.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L3/M1/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "hydra/experimental/__init__.py"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "hydra/_internal/core_plugins/bash_completion.py"
+      }, {
+        "@type" : "item",
+        "name" : "hydra/_internal/core_plugins/zsh_completion.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M3",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "hydra/test_utils/example_app.py"
+      }, {
+        "@type" : "item",
+        "name" : "hydra/test_utils/completion.py"
+      }, {
+        "@type" : "item",
+        "name" : "hydra/test_utils/a_module.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M4",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "hydra/_internal/core_plugins/fish_completion.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M5",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "hydra/_internal/core_plugins/basic_launcher.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M6",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "hydra/_internal/core_plugins/basic_sweeper.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M7",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "hydra/_internal/core_plugins/structured_config_source.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M8",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "hydra/experimental/callback.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M9",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "hydra/_internal/core_plugins/file_config_source.py"
+      }, {
+        "@type" : "item",
+        "name" : "hydra/_internal/core_plugins/importlib_resources_config_source.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M10",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "hydra/test_utils/config_source_common_tests.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L3/M11",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "hydra/test_utils/launcher_common_tests.py"
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "Isolated",
+    "nested" : [ {
+      "@type" : "item",
+      "name" : "hydra/test_utils/configs/package_tests/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "hydra/_internal/core_plugins/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "hydra/grammar/__init__.py"
+    }, {
+      "@type" : "item",
+      "name" : "hydra/test_utils/configs/__init__.py"
+    } ]
+  } ]
+}

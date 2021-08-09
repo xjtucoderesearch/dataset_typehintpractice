@@ -1,0 +1,188 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "pyproj",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L0",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L0/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L0/M0/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "pyproj/utils.py"
+        }, {
+          "@type" : "item",
+          "name" : "pyproj/aoi.py"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L0/M0/M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "pyproj/exceptions.py"
+        } ]
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L1/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L1/M0/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L1/M0/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "pyproj/enums.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1/M0/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L1/M0/L1/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L1/M0/L1/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L1/M0/L1/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "pyproj/compat.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L1/M0/L1/M0/L0/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "pyproj/crs/__init__.py"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L1/M0/L1/M0/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "pyproj/proj.py"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1/M0/L1/M1",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L1/M0/L1/M1/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L1/M0/L1/M1/L0/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "pyproj/crs/datum.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L1/M0/L1/M1/L0/M1",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "pyproj/crs/coordinate_operation.py"
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L1/M0/L1/M1/Control",
+            "nested" : [ {
+              "@type" : "item",
+              "name" : "pyproj/crs/_cf1x8.py"
+            } ]
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1/M0/L1/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "pyproj/crs/enums.py"
+          }, {
+            "@type" : "item",
+            "name" : "pyproj/crs/coordinate_system.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1/M0/L1/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "pyproj/geod.py"
+          }, {
+            "@type" : "item",
+            "name" : "pyproj/_show_versions.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1/M0/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "pyproj/crs/crs.py"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "pyproj/network.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M2",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L1/M2/M0",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "pyproj/datadir.py"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1/M2/M1",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "pyproj/sync.py"
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1/M2/M2",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "pyproj/__main__.py"
+        } ]
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "Control",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "Control/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "pyproj/__init__.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "Control/M3",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "pyproj/transformer.py"
+      } ]
+    } ]
+  } ]
+}

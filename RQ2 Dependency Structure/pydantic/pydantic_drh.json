@@ -1,0 +1,244 @@
+{
+  "@schemaVersion" : "1.0",
+  "name" : "pydantic",
+  "structure" : [ {
+    "@type" : "group",
+    "name" : "L0",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L0/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L0/M0/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L0/M0/L0/M0",
+          "nested" : [ {
+            "@type" : "group",
+            "name" : "L0/M0/L0/M0/L0",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L0/M0/L0/M0/L0/M0",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L0/M0/L0/M0/L0/M0/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L0/M0/L0/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "pydantic/typing.py"
+                  }, {
+                    "@type" : "item",
+                    "name" : "pydantic/errors.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L0/M0/L0/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "pydantic/version.py"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L0/M0/L0/M0/L0/M0/Control",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L0/M0/Control/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "pydantic/utils.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L0/M0/Control/M2",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "pydantic/datetime_parse.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L0/M0/Control/M3",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "pydantic/dataclasses.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L0/M0/Control/M4",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "pydantic/types.py"
+                  } ]
+                } ]
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L0/M0/L0/M0/L1",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L0/M0/L0/M0/L1/M0",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "pydantic/annotated_types.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L0/M0/L0/M0/L1/M1",
+              "nested" : [ {
+                "@type" : "group",
+                "name" : "L0/M0/L0/M0/L1/M1/L0",
+                "nested" : [ {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L1/M1/L0/M0",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "pydantic/color.py"
+                  } ]
+                }, {
+                  "@type" : "group",
+                  "name" : "L0/M0/L0/M0/L1/M1/L0/M1",
+                  "nested" : [ {
+                    "@type" : "item",
+                    "name" : "pydantic/networks.py"
+                  } ]
+                } ]
+              }, {
+                "@type" : "group",
+                "name" : "L0/M0/L0/M0/L1/M1/Control",
+                "nested" : [ {
+                  "@type" : "item",
+                  "name" : "pydantic/json.py"
+                } ]
+              } ]
+            } ]
+          }, {
+            "@type" : "group",
+            "name" : "L0/M0/L0/M0/Control",
+            "nested" : [ {
+              "@type" : "group",
+              "name" : "L0/M0/L0/M0/Control/M2",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "pydantic/error_wrappers.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L0/M0/L0/M0/Control/M3",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "pydantic/class_validators.py"
+              } ]
+            }, {
+              "@type" : "group",
+              "name" : "L0/M0/L0/M0/Control/M4",
+              "nested" : [ {
+                "@type" : "item",
+                "name" : "pydantic/validators.py"
+              } ]
+            } ]
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L0/M0/L1",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L0/M0/L1/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "pydantic/schema.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L0/M0/L1/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "pydantic/parse.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L0/M0/Control",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L0/M0/Control/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "pydantic/fields.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L0/M0/Control/M3",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "pydantic/main.py"
+          } ]
+        } ]
+      } ]
+    } ]
+  }, {
+    "@type" : "group",
+    "name" : "L1",
+    "nested" : [ {
+      "@type" : "group",
+      "name" : "L1/M0",
+      "nested" : [ {
+        "@type" : "group",
+        "name" : "L1/M0/L0",
+        "nested" : [ {
+          "@type" : "group",
+          "name" : "L1/M0/L0/M0",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "pydantic/decorator.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1/M0/L0/M1",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "pydantic/env_settings.py"
+          } ]
+        }, {
+          "@type" : "group",
+          "name" : "L1/M0/L0/M2",
+          "nested" : [ {
+            "@type" : "item",
+            "name" : "pydantic/tools.py"
+          } ]
+        } ]
+      }, {
+        "@type" : "group",
+        "name" : "L1/M0/Control",
+        "nested" : [ {
+          "@type" : "item",
+          "name" : "pydantic/__init__.py"
+        } ]
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M1",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "pydantic/generics.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M2",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "pydantic/_hypothesis_plugin.py"
+      } ]
+    }, {
+      "@type" : "group",
+      "name" : "L1/M3",
+      "nested" : [ {
+        "@type" : "item",
+        "name" : "pydantic/mypy.py"
+      } ]
+    } ]
+  } ]
+}
